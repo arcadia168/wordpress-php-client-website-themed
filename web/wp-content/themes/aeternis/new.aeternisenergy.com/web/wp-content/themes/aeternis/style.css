@@ -1,0 +1,531 @@
+/*
+.
+Theme Name: Aeternis Energy
+Description: A theme for the Aeternis Energy Site
+Version: 1.0 (WP3.9)
+Author: ***REMOVED*** ***REMOVED***, Tom Walters
+
+The above comment is used by the WP admin site to
+show users meta info about the theme, checkout
+Appearence > Themes to see it (without it WP
+will not be happy and may not even allow you to
+select the theme!)
+
+*/
+
+
+
+/* RESET */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+
+:focus {
+    outline: 0;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+.clearfix { display: inline-block; }
+
+.clearfix:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.left, .alignleft { float:left; }
+.right, .alignright { float:right; }
+.hidden { display:none; }
+.light { font-weight: normal !important; }
+.centre { text-align: center; }
+.aligncenter { margin:0 auto; display: block; }
+
+/* Globals */
+
+/* This makes the menu items more visible */
+body {
+    background: url(images/header-shadow.png) repeat-x transparent;
+    font-family: OpenSans, sans-serif;
+    font-size: 1em;
+    color: #3B3B3B;
+}
+	
+	a:link, a:visited {
+		color:#3b3b3b;
+	}
+
+
+#homepage { 
+    background: url(images/iStock_000014408068XLarge.png) no-repeat center top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000010285574Large.png', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000010285574Large.png', sizingMethod='scale')";
+}
+
+#about {
+    background: url(images/iStock_000006270894Medium.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000006270894Medium.png', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000006270894Medium.png', sizingMethod='scale')";
+}
+
+#contact {
+    background: url(images/iStock_000014408068XLarge.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000014408068XLarge.png', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000014408068XLarge.png', sizingMethod='scale')";
+}
+
+#funds {
+    background: url(images/iStock_000021379368XXXLarge.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000021379368XXXLarge.png', sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/iStock_000021379368XXXLarge.png', sizingMethod='scale')";
+}
+
+/* Box sizing */
+
+.two-thirds {
+	width:63%;
+}
+
+.third {
+	width:30%;
+}
+
+.third.right {
+	margin-top: -1rem;
+}
+
+/* Styling the main div section, for that fancy translucent feel! */ 
+#main {
+    width:97.6%; /* 100 - (2 * padding) */
+    max-width: 840px;
+    background-color: #fff;
+    background-color: rgba(255,255,255,0.8);
+    margin: 0 auto;
+    border-radius: 3px;
+    padding: 1rem 1.5rem;
+    border-radius: 3px;
+    -moz-box-shadow:    0px 0px 6px 2px rgba(144,144,144,0.50);
+    box-shadow:         0px 0px 6px 2px rgba(144,144,144,0.50);
+    overflow: auto;
+}
+
+#main img {
+ 	margin-bottom: 1%;
+}
+	
+	#main img.alignleft { margin-right:5%; }
+	#main img.alignright { margin-left:5%; }
+	#main img.aligncenter { margin: 3% auto; }
+
+/* Placing the Aeternis title into the center of the header */
+
+/*
+    Note: Altered the header to have the padding;
+*/
+header {
+	width:100%;
+}
+
+	header#top {
+		padding:0;
+	}
+
+	header img {
+	    margin: 0 auto;
+	    display: block;    
+	}
+	
+		header .bar {
+			width:100%;
+			background: #1A2448;
+		}
+
+/* Styling the links on the navigation bar */
+nav {
+	width: 100%;
+	max-width:900px;
+    font-family: OpenSans, sans-serif;
+    font-size: 1.0625em;    
+    text-shadow: 1px 1px 0px rgba(0,0,0,0.50);
+    margin: 0.75rem auto;
+    display: block;
+}
+
+	nav ul {
+	  	margin:0 auto;
+	  	padding: 0;
+	}
+	
+		nav li {
+		    color: #fff;
+		  	display: inline-block;
+		  	text-align: center;
+		  	list-style: none;
+		  	padding: 1% 2.5%;
+		  	margin:0;
+		}
+		
+			nav a:link, nav a:visited {
+				color: #fff;
+				text-decoration: none;
+			}
+			
+			    nav .current_page_item a:link, nav .current_page_item a:visited {
+			        color: #fff;
+			        font-weight: bold;
+				}
+
+
+a:active {
+    position: relative;
+    top:1px;
+}
+
+
+/* Styling the page text */
+h1 {
+    font-family: Cabin-Bold, sans-serif;
+    font-size: 1.375em;
+    color: #2388BA;
+    line-height: 23px;   
+    margin-bottom: 1%;
+}
+
+h2 {
+	font-family: Cabin-Bold, sans-serif;
+    font-weight: bold;
+	font-size: 18px;
+	color: #2388BA;
+	line-height: 24px;
+	margin-bottom:1%;
+}
+
+h3 {
+	font-weight: bold;
+}
+
+.inline-title {
+	display: inline;
+}
+
+p {
+	text-align: justify; /* To make the text all square and nice like */
+}
+
+p.article-text {
+	padding: 0 2.5rem;
+}
+
+
+p, li, address {
+    line-height: 22px;
+}
+
+	p, ol, ul {
+		margin-bottom: 3%;
+	}
+	
+	ul li {
+	    list-style: disc;
+	    list-style-position:inside;
+	}
+	
+	ul {
+		padding-left: 2%;
+	}
+	
+	ol {
+		padding-left: 4%;
+	}
+		
+		ol li {
+			list-style-type: decimal;
+		}
+
+/* Slider */
+/*
+.slider {
+	display: block;
+	margin:2% 0;
+	padding:0;
+}
+
+	.slider li {
+		list-style-type: none;
+		margin:0;
+		padding:0;
+		display: none;
+	}
+	
+		.slider li.active {
+			display: block;
+		}
+*/
+
+		.slider img {
+			margin:0;
+		}
+
+blockquote {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1em;
+	color: #363636;
+	line-height: 22px;
+}
+
+	blockquote.centre {
+		width:70%;
+		margin:0 auto;
+		display: block;
+	}
+
+		blockquote.centre p {
+			text-align: center;
+		}
+
+img {
+	max-width: 100%;
+}
+
+
+/* Content boxes */
+.two-thirds {
+	width:62%;
+}
+
+aside {
+	width:32%;
+}
+
+.news {
+	margin: 0;
+	font-size: .9375em; /* 15px */
+	padding:0;
+}
+	
+	.news li {
+		list-style: none;
+		margin-bottom:5%;
+	}
+	
+		.news li a:link, .news li a:visited {
+			text-decoration: none;
+		}
+		
+		.sub {
+			color: #666;
+			margin-bottom:2%;
+		}
+	
+	.news li.read-more a:link, .news li.read-more a:visited {
+		color: #2388BA;
+	}
+	
+
+/* Footer */
+footer p {
+	text-align: center;
+	color: #fff;
+	font-size: 0.9375em;
+	background: rgba(0,0,0,0.1);
+	padding:1% 0;
+	margin: 0 auto;
+	max-width: 840px;
+	width:100%;
+	display: block;
+	border-radius: 0 0 3px 3px;
+	-moz-border-radius: 0 0 3px 3px;
+	-webkit-border-radius: 0 0 3px 3px;
+}
+
+	footer p a:link, footer p a:visited {
+		color: #fff;
+	}
+
+
+/*
+	AnythingSlider v1.8+ Default theme
+	By Chris Coyier: http://css-tricks.com
+	with major improvements by Doug Neiner: http://pixelgraphics.us/
+	based on work by Remy Sharp: http://jqueryfordesigners.com/
+*/
+
+/*****************************
+  SET DEFAULT DIMENSIONS HERE
+ *****************************/
+/* change the ID & dimensions to match your slider */
+#slider {
+	width: 840px;
+	height: 240px;
+	list-style: none;
+	/* Prevent FOUC (see FAQ page) and keep things readable if javascript is disabled */
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+/******************
+  SET STYLING HERE
+ ******************
+ =================================
+ Default state (no keyboard focus)
+ ==================================*/
+/* Overall Wrapper */
+.anythingSlider-default {
+	margin: 0 auto;
+}
+
+/*
+ =================================
+ Active State (has keyboard focus)
+ =================================
+*/
+/* slider window - top & bottom borders, active state */
+.anythingSlider-default.activeSlider .anythingWindow {
+	border-color: #7C9127;
+}
+/* Navigation buttons, active state */
+.anythingSlider-default.activeSlider .anythingControls a {
+	/* background image = top shadow */
+	background-color: #7C9127;
+}
+/* Navigation current & hovered button, active state */
+.anythingSlider-default.activeSlider .anythingControls a.cur,
+.anythingSlider-default.activeSlider .anythingControls a:hover {
+	/* background image removed */
+	background: #7C9127;
+}
+
+/* start-stop button, stopped, active state */
+.anythingSlider-default.activeSlider .anythingControls a.start-stop {
+	background-color: #080;
+	color: #fff;
+}
+/* start-stop button, playing, active state */
+.anythingSlider-default.activeSlider .anythingControls a.start-stop.playing {
+	background-color: #d00;
+	color: #fff;
+}
+/* start-stop button, active slider hovered text color (when visible) */
+.anythingSlider-default.activeSlider .start-stop:hover,
+.anythingSlider-default.activeSlider .start-stop.hover {
+	color: #fff;
+}
+
+/***********************
+  IE8 AND OLDER STYLING
+ ***********************/
+
+/* Navigation Arrows */
+.as-oldie .anythingSlider-default .arrow {
+	top: 30%;
+}
+.as-oldie .anythingSlider-default .arrow a {
+	margin: 0;
+}
+
+/* margin between nav buttons just looks better */
+.as-oldie .anythingSlider-default .anythingControls li {
+	margin-left: 3px;
+}
+
+/* When using the navigationSize option, the side margins need to be zero
+	None of the navigation panels look good in IE7 now =( */
+.as-oldie .anythingSlider-default .anythingControls a {
+	margin: 0;
+}
+.as-oldie .anythingSlider-default .anythingNavWindow {
+	margin: 0 2px;
+}
+.as-oldie .anythingSlider-default .anythingNavWindow li {
+	padding: 3px 0 0 0;
+}
+
+/***********************
+  COMMON SLIDER STYLING
+ ***********************/
+/* Overall Wrapper */
+.anythingSlider {
+	display: block;
+	overflow: visible !important;
+	position: relative;
+}
+/* anythingSlider viewport window */
+.anythingSlider .anythingWindow {
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+/* anythingSlider base (original element) */
+.anythingSlider .anythingBase {
+	background: transparent;
+	list-style: none;
+	position: absolute;
+	overflow: visible !important;
+	top: 0;
+	left: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+/* all panels inside the slider; horizontal mode */
+.anythingSlider .panel {
+	background: transparent;
+	display: block;
+	overflow: hidden;
+	float: left;
+	padding: 0;
+	margin: 0;
+}
+/* fade mode */
+.anythingSlider .fade .panel {
+	float: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 0;
+}
+/* fade mode active page - visible & on top */
+.anythingSlider .fade .activePage {
+	z-index: 1;
+}
+
+
