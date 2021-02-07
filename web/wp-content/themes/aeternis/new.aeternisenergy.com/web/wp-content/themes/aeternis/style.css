@@ -3,7 +3,7 @@
 Theme Name: Aeternis Energy
 Description: A theme for the Aeternis Energy Site
 Version: 1.0 (WP3.9)
-Author: ***REMOVED*** ***REMOVED***, Tom Walters
+Author: Erin Eland, Tom Walters
 
 The above comment is used by the WP admin site to
 show users meta info about the theme, checkout
@@ -70,14 +70,14 @@ body {
     font-size: 1em;
     color: #3B3B3B;
 }
-	
+
 	a:link, a:visited {
 		color:#3b3b3b;
 	}
 
 
-#homepage { 
-    background: url(images/iStock_000014408068XLarge.png) no-repeat center top fixed; 
+#homepage {
+    background: url(images/iStock_000014408068XLarge.png) no-repeat center top fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -87,7 +87,7 @@ body {
 }
 
 #about {
-    background: url(images/iStock_000006270894Medium.png) no-repeat center center fixed; 
+    background: url(images/iStock_000006270894Medium.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -97,7 +97,7 @@ body {
 }
 
 #contact {
-    background: url(images/iStock_000014408068XLarge.png) no-repeat center center fixed; 
+    background: url(images/iStock_000014408068XLarge.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -107,7 +107,7 @@ body {
 }
 
 #funds {
-    background: url(images/iStock_000021379368XXXLarge.png) no-repeat center center fixed; 
+    background: url(images/iStock_000021379368XXXLarge.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -130,7 +130,7 @@ body {
 	margin-top: -1rem;
 }
 
-/* Styling the main div section, for that fancy translucent feel! */ 
+/* Styling the main div section, for that fancy translucent feel! */
 #main {
     width:97.6%; /* 100 - (2 * padding) */
     max-width: 840px;
@@ -148,7 +148,7 @@ body {
 #main img {
  	margin-bottom: 1%;
 }
-	
+
 	#main img.alignleft { margin-right:5%; }
 	#main img.alignright { margin-left:5%; }
 	#main img.aligncenter { margin: 3% auto; }
@@ -168,9 +168,9 @@ header {
 
 	header img {
 	    margin: 0 auto;
-	    display: block;    
+	    display: block;
 	}
-	
+
 		header .bar {
 			width:100%;
 			background: #1A2448;
@@ -181,7 +181,7 @@ nav {
 	width: 100%;
 	max-width:900px;
     font-family: OpenSans, sans-serif;
-    font-size: 1.0625em;    
+    font-size: 1.0625em;
     text-shadow: 1px 1px 0px rgba(0,0,0,0.50);
     margin: 0.75rem auto;
     display: block;
@@ -191,7 +191,7 @@ nav {
 	  	margin:0 auto;
 	  	padding: 0;
 	}
-	
+
 		nav li {
 		    color: #fff;
 		  	display: inline-block;
@@ -200,12 +200,12 @@ nav {
 		  	padding: 1% 2.5%;
 		  	margin:0;
 		}
-		
+
 			nav a:link, nav a:visited {
 				color: #fff;
 				text-decoration: none;
 			}
-			
+
 			    nav .current_page_item a:link, nav .current_page_item a:visited {
 			        color: #fff;
 			        font-weight: bold;
@@ -223,7 +223,7 @@ h1 {
     font-family: Cabin-Bold, sans-serif;
     font-size: 1.375em;
     color: #2388BA;
-    line-height: 23px;   
+    line-height: 23px;
     margin-bottom: 1%;
 }
 
@@ -260,20 +260,20 @@ p, li, address {
 	p, ol, ul {
 		margin-bottom: 3%;
 	}
-	
+
 	ul li {
 	    list-style: disc;
 	    list-style-position:inside;
 	}
-	
+
 	ul {
 		padding-left: 2%;
 	}
-	
+
 	ol {
 		padding-left: 4%;
 	}
-		
+
 		ol li {
 			list-style-type: decimal;
 		}
@@ -292,7 +292,7 @@ p, li, address {
 		padding:0;
 		display: none;
 	}
-	
+
 		.slider li.active {
 			display: block;
 		}
@@ -339,25 +339,25 @@ aside {
 	font-size: .9375em; /* 15px */
 	padding:0;
 }
-	
+
 	.news li {
 		list-style: none;
 		margin-bottom:5%;
 	}
-	
+
 		.news li a:link, .news li a:visited {
 			text-decoration: none;
 		}
-		
+
 		.sub {
 			color: #666;
 			margin-bottom:2%;
 		}
-	
+
 	.news li.read-more a:link, .news li.read-more a:visited {
 		color: #2388BA;
 	}
-	
+
 
 /* Footer */
 footer p {
