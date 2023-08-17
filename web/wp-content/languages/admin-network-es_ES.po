@@ -807,7 +807,7 @@ msgstr "Instalación en subdirectorio"
 
 #: wp-admin/network.php:252
 msgid "Because you are using <code>localhost</code>, the sites in your WordPress network must use sub-directories. Consider using <code>localhost.localdomain</code> if you wish to use sub-domains."
-msgstr "Cómo estás usando <code>localhost</code> los sitios en tu red de WordPress de***REMOVED*** estar en subdirectorios. Considera usar <code>localhost.localdomain</code> si deseas usar subdominios."
+msgstr "Cómo estás usando <code>localhost</code> los sitios en tu red de WordPress deben estar en subdirectorios. Considera usar <code>localhost.localdomain</code> si deseas usar subdominios."
 
 #: wp-admin/network.php:255 wp-admin/network.php:265 wp-admin/network.php:272
 msgid "The main site in a sub-directory install will need to use a modified permalink structure, potentially breaking existing links."
@@ -815,7 +815,7 @@ msgstr "El sitio principal en un subdirectorio de instalación tendrá que utili
 
 #: wp-admin/network.php:262
 msgid "Because your install is in a directory, the sites in your WordPress network must use sub-directories."
-msgstr "Cómo lo has instalado en un subdirectorio, los sitios en tu red de WordPress, de***REMOVED*** usar subdirectorios."
+msgstr "Cómo lo has instalado en un subdirectorio, los sitios en tu red de WordPress, deben usar subdirectorios."
 
 #: wp-admin/network.php:270
 msgid "Sub-domain Install"

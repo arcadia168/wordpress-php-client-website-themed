@@ -491,7 +491,7 @@ msgstr "Visualizza a schermo"
 
 #: wp-admin/index.php:79
 msgid "<strong>Welcome</strong> - Shows links for some of the most common tasks when setting up a new site."
-msgstr "<strong>***REMOVED***venuti</strong> - Visualizza alcuni link per i compiti più frequenti quando si imposta un nuovo sito."
+msgstr "<strong>Benvenuti</strong> - Visualizza alcuni link per i compiti più frequenti quando si imposta un nuovo sito."
 
 #: wp-admin/includes/ajax-actions.php:187
 msgid "%1$s (%2$s)"
@@ -509,7 +509,7 @@ msgstr "1"
 #: wp-admin/includes/screen.php:902
 msgctxt "Welcome panel"
 msgid "Welcome"
-msgstr "***REMOVED***venuti"
+msgstr "Benvenuti"
 
 #: wp-admin/includes/schema.php:356
 msgctxt "default GMT offset or timezone string"
@@ -928,7 +928,7 @@ msgstr "WordPress &rsaquo; Impostazione del file di configurazione"
 
 #: wp-admin/setup-config.php:109
 msgid "Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding."
-msgstr "***REMOVED***venuti in WordPress. Prima di iniziare occorrono alcune informazioni sul database. Prima di procedere occorre conoscere i seguenti elementi."
+msgstr "Benvenuti in WordPress. Prima di iniziare occorrono alcune informazioni sul database. Prima di procedere occorre conoscere i seguenti elementi."
 
 #: wp-admin/setup-config.php:111
 msgid "Database name"
@@ -1084,7 +1084,7 @@ msgstr ""
 
 #: wp-admin/includes/dashboard.php:1258
 msgid "Welcome to your new WordPress site!"
-msgstr "***REMOVED***venuto nel tuo nuovo sito WordPress!"
+msgstr "Benvenuto nel tuo nuovo sito WordPress!"
 
 #: wp-admin/includes/plugin-install.php:339
 msgid "Plugin Homepage &#187;"
@@ -1104,7 +1104,7 @@ msgstr "L'orario standard inizia il: <code>%s</code>."
 
 #: wp-admin/user-new.php:144
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. This email will also contain their password. Check the box if you don&#8217;t want the user to receive a welcome email."
-msgstr "I nuovi utenti riceveranno una mail che li informerà di essere stati inseriti come utenti del proprio sito. Questa email conterrà anche la loro password. Spuntare questa casella se non si desidera che gli utenti ricevano una mail di ***REMOVED***venuto."
+msgstr "I nuovi utenti riceveranno una mail che li informerà di essere stati inseriti come utenti del proprio sito. Questa email conterrà anche la loro password. Spuntare questa casella se non si desidera che gli utenti ricevano una mail di benvenuto."
 
 #: wp-admin/plugins.php:370
 msgid "The plugin generated %d characters of <strong>unexpected output</strong> during activation. If you notice &#8220;headers already sent&#8221; messages, problems with syndication feeds or other issues, try deactivating or removing this plugin."
@@ -1218,7 +1218,7 @@ msgstr[1] "<strong>La versione %1$s</strong> corregge %2$s bug."
 
 #: wp-admin/index.php:33
 msgid "Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab in the upper corner."
-msgstr "***REMOVED***venuti nella Bacheca di WordPress! Questa è la pagina che compare quando si accede al sito, e dà accesso al sito e alla gestione delle funzionalità di WordPress. È possibile ottenere assistenza per qualsiasi sezione facendo clic sulla scheda Aiuto nell'angolo in alto."
+msgstr "Benvenuti nella Bacheca di WordPress! Questa è la pagina che compare quando si accede al sito, e dà accesso al sito e alla gestione delle funzionalità di WordPress. È possibile ottenere assistenza per qualsiasi sezione facendo clic sulla scheda Aiuto nell'angolo in alto."
 
 #: wp-admin/custom-background.php:98
 msgid "You can also choose a background color. If you know the hexadecimal code for the color you want, enter it in the Background Color field. If not, click on the Select a Color link, and a color picker will allow you to choose the exact shade you want."
@@ -1258,7 +1258,7 @@ msgstr "Questa pagina permette di scegliere la propria struttura di permalink pr
 
 #: wp-admin/includes/update-core.php:698 wp-admin/update-core.php:383
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%s\">here</a>."
-msgstr "***REMOVED***venuto in WordPress%1$s. A breve si verrà reindirizzati alla schermata \"Informazioni\" di WordPress. In caso contrario, <a href=\"%s\">fare clic qui</a>."
+msgstr "Benvenuto in WordPress%1$s. A breve si verrà reindirizzati alla schermata \"Informazioni\" di WordPress. In caso contrario, <a href=\"%s\">fare clic qui</a>."
 
 #: wp-admin/about.php:125
 msgid "Return to Updates"
@@ -1266,7 +1266,7 @@ msgstr "Torna alla pagina Aggiornamenti"
 
 #: wp-admin/includes/update-core.php:699 wp-admin/update-core.php:384
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
-msgstr "***REMOVED***venuto in WordPress%1$s. <a href=\"%2$s\"> Ulteriori informazioni</a>."
+msgstr "Benvenuto in WordPress%1$s. <a href=\"%2$s\"> Ulteriori informazioni</a>."
 
 #: wp-admin/nav-menus.php:454
 msgid "If your theme does not support the custom menus feature yet (the default themes, Twenty Eleven and Twenty Ten, do), you can learn about adding this support by following the Documentation link to the side."
@@ -1634,7 +1634,7 @@ msgstr "Probabile inclusione diretta di wp-admin/includes/template.php allo scop
 
 #: wp-admin/about.php:20 wp-admin/credits.php:53 wp-admin/freedoms.php:20
 msgid "Welcome to WordPress %s"
-msgstr "***REMOVED***venuto su WordPress %s"
+msgstr "Benvenuto su WordPress %s"
 
 #: wp-admin/about.php:129
 msgid "Go to Dashboard &rarr; Home"
@@ -2570,8 +2570,8 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "SI ha la libertà di ridistribuire copie del programma originale in modo da aiutare il prossimo."
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
-msgstr "Si ha la libertà di distribuire copie del proprie versioni modificate ad altri. In questo modo si può fornire a tutta la comunità la possibilità di ***REMOVED***eficiare di tali modifiche."
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
+msgstr "Si ha la libertà di distribuire copie del proprie versioni modificate ad altri. In questo modo si può fornire a tutta la comunità la possibilità di beneficiare di tali modifiche."
 
 #: wp-admin/includes/dashboard.php:33
 msgid "You are using an insecure browser!"
@@ -3332,7 +3332,7 @@ msgstr "Aggiornare il sito a <a href=\"http://codex.wordpress.org/Version_%1$s\"
 
 #: wp-admin/user-new.php:147
 msgid "New users will receive an email letting them know they&#8217;ve been added as a user for your site. By default, this email will also contain their password. Uncheck the box if you don&#8217;t want the password to be included in the welcome email."
-msgstr "I nuovi utenti riceveranno un'email di ***REMOVED***venuto per informarli che sono stati aggiunti come utenti del tuo sito. Per impostazione predefinita, nell'email verrà; inserita anche la loro password. Disattivare questa casella se non si desidera che la password venga inserita nell'email di ***REMOVED***venuto."
+msgstr "I nuovi utenti riceveranno un'email di benvenuto per informarli che sono stati aggiunti come utenti del tuo sito. Per impostazione predefinita, nell'email verrà; inserita anche la loro password. Disattivare questa casella se non si desidera che la password venga inserita nell'email di benvenuto."
 
 #: wp-admin/includes/theme.php:134
 msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>."
@@ -3759,7 +3759,7 @@ msgstr "Scegliere un plugin da modificare dal menu in alto a destra e cliccare s
 
 #: wp-admin/plugins.php:344
 msgid "Most of the time, plugins play nicely with the core of WordPress and with other plugins. Sometimes, though, a plugin&#8217;s code will get in the way of another plugin, causing compatibility issues. If your site starts doing strange things, this may be the problem. Try deactivating all your plugins and re-activating them in various combinations until you isolate which one(s) caused the issue."
-msgstr "Quasi sempre i plugin funzionano ***REMOVED***e con WordPress e gli altri plugin. Alcune volte, tuttavia, il codice di un plugin interferisce con quello di un altro plugin, causando problemi di compatibilità. Se il sito si comporta in maniera strana, il problema potrebbe essere dovuto a queste incompatibilità. Provare a disattivare tutti i plugin e riattivarli in varie combinazioni sino a quando non si riuscirà ad isolare quello/i che da/danno problemi. "
+msgstr "Quasi sempre i plugin funzionano bene con WordPress e gli altri plugin. Alcune volte, tuttavia, il codice di un plugin interferisce con quello di un altro plugin, causando problemi di compatibilità. Se il sito si comporta in maniera strana, il problema potrebbe essere dovuto a queste incompatibilità. Provare a disattivare tutti i plugin e riattivarli in varie combinazioni sino a quando non si riuscirà ad isolare quello/i che da/danno problemi. "
 
 #: wp-admin/themes.php:44
 msgid "Aside from the default theme included with your WordPress installation, themes are designed and developed by third parties."
@@ -5297,7 +5297,7 @@ msgstr "Blogroll"
 
 #: wp-admin/includes/upgrade.php:202
 msgid "Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!"
-msgstr "***REMOVED***venuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e inizia a creare il tuo blog!"
+msgstr "Benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e inizia a creare il tuo blog!"
 
 #: wp-admin/includes/upgrade.php:211
 msgid "Hello world!"
@@ -5394,7 +5394,7 @@ msgstr "Requisiti insuffiicienti"
 
 #: wp-admin/install.php:176
 msgid "Welcome to the famous five minute WordPress installation process! You may want to browse the <a href=\"%s\">ReadMe documentation</a> at your leisure. Otherwise, just fill in the information below and you&#8217;ll be on your way to using the most extendable and powerful personal publishing platform in the world."
-msgstr "***REMOVED***venuti nella famosa procedura dei cinque minuti per l&#8217;installazione di WordPress! Potreste voler scorrere la <a href=\"%s\">documentazione in Leggimi</a>. Altrimenti, indicare le seguenti informazioni e sarete sulla strada per utilizzare la più estensibile e potente piattaforma di editoria personale del mondo."
+msgstr "Benvenuti nella famosa procedura dei cinque minuti per l&#8217;installazione di WordPress! Potreste voler scorrere la <a href=\"%s\">documentazione in Leggimi</a>. Altrimenti, indicare le seguenti informazioni e sarete sulla strada per utilizzare la più estensibile e potente piattaforma di editoria personale del mondo."
 
 #: wp-admin/install.php:178
 msgid "Information needed"
@@ -9159,7 +9159,7 @@ msgstr "Sottoscrittore"
 
 #: wp-admin/includes/schema.php:897 wp-admin/includes/upgrade.php:197
 msgid "Welcome to <a href=\"SITE_URL\">SITE_NAME</a>. This is your first post. Edit or delete it, then start blogging!"
-msgstr "***REMOVED***venuto su <a href=\"SITE_URL\">SITE_NAME</a>. Questo è il primo articolo. Modificarlo o cancellarlo per iniziare a realizzare il proprio sito!"
+msgstr "Benvenuto su <a href=\"SITE_URL\">SITE_NAME</a>. Questo è il primo articolo. Modificarlo o cancellarlo per iniziare a realizzare il proprio sito!"
 
 #: wp-admin/includes/schema.php:956
 msgid "Warning! Wildcard DNS may not be configured correctly!"

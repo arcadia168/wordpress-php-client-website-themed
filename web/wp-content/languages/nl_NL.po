@@ -520,7 +520,7 @@ msgstr "Elke HTML direct ingevoerd in de editor zal verschijnen als tekst zodra 
 
 #: wp-includes/js/tinymce/wp-mce-help.php:182
 msgid "If you need to upload an image or another media file from your computer, you can use the Media Library button above the editor. The media library will attempt to create a thumbnail-sized copy from each uploaded image. To insert your image into the post, first click on the thumbnail to reveal a menu of options. When you have selected the options you like, click \"Insert into Post\" and your image or file will appear in the post you are editing."
-msgstr "Wanneer een afbeelding of ander mediabestand vanaf een computer geüpload wordt, kan er gebruik gemaakt worden van de media-knop boven de editor. De media-bibliotheek zal proberen om een ​​miniatuur-en kleinbedrijf kopie te maken van elk geüploade afbeelding. Bij het invoegen van een afbeelding in het bericht, klikt op de thumbnail om een menu met opties weer te tonen. Klik op \"In bericht invoegen\", wanneer de ***REMOVED***odigde opties zijn geselecteerd om de afbeelding of bestand in het bericht te tonen."
+msgstr "Wanneer een afbeelding of ander mediabestand vanaf een computer geüpload wordt, kan er gebruik gemaakt worden van de media-knop boven de editor. De media-bibliotheek zal proberen om een ​​miniatuur-en kleinbedrijf kopie te maken van elk geüploade afbeelding. Bij het invoegen van een afbeelding in het bericht, klikt op de thumbnail om een menu met opties weer te tonen. Klik op \"In bericht invoegen\", wanneer de benodigde opties zijn geselecteerd om de afbeelding of bestand in het bericht te tonen."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:220
 msgid "Editor width in Distraction Free Writing mode:"
@@ -1112,7 +1112,7 @@ msgstr "<a href=\"http://%1$s\">http://%2$s</a> is je nieuwe website. <a href=\"
 
 #: wp-activate.php:84
 msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr "Je account is geactiveerd! Je kunt nu <a href=\"%1$s\">inloggen</a> met je gekozen gebruikersnaam. Controleer je e-mail voor je wachtwoord en verdere instructies. Mocht je geen mail ontvangen heb***REMOVED*** controleer dan je spam of junk folder. Na een uur nog niets ontvangen? <a href=\"%4$s\">Reset</a> dan je wachtwoord."
+msgstr "Je account is geactiveerd! Je kunt nu <a href=\"%1$s\">inloggen</a> met je gekozen gebruikersnaam. Controleer je e-mail voor je wachtwoord en verdere instructies. Mocht je geen mail ontvangen hebben controleer dan je spam of junk folder. Na een uur nog niets ontvangen? <a href=\"%4$s\">Reset</a> dan je wachtwoord."
 
 #: wp-includes/functions.php:1138
 msgid "One or more database tables are unavailable. The database may need to be <a href=\"%s\">repaired</a>."
@@ -1534,7 +1534,7 @@ msgstr "Gebruik: <code>WP_User->ID</code>."
 
 #: wp-includes/ms-functions.php:1688
 msgid "You have been added to this site. Please visit the <a href=\"%s\">homepage</a> or <a href=\"%s\">log in</a> using your username and password."
-msgstr "Je ***REMOVED***t toegevoegd aan deze site. Bezoek de <a href=\"%s\">homepagina</a> of <a href=\"%s\">log in</a> met je gebruikersnaam en wachtwoord."
+msgstr "Je bent toegevoegd aan deze site. Bezoek de <a href=\"%s\">homepagina</a> of <a href=\"%s\">log in</a> met je gebruikersnaam en wachtwoord."
 
 #: wp-includes/script-loader.php:210
 msgid "Memory exceeded. Please try another smaller file."
@@ -2430,7 +2430,7 @@ msgstr "[%1$s] %2$s activeren"
 
 #: wp-includes/ms-load.php:221
 msgid "No site defined on this host. If you are the owner of this site, please check <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">Debugging a WordPress Network</a> for help."
-msgstr "Er is geen site gedefinieerd bij deze host. Als je de eigenaar ***REMOVED***t, bezoek <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">Debugging a WordPress Network</a>(Engels) voor hulp."
+msgstr "Er is geen site gedefinieerd bij deze host. Als je de eigenaar bent, bezoek <a href=\"http://codex.wordpress.org/Debugging_a_WordPress_Network\">Debugging a WordPress Network</a>(Engels) voor hulp."
 
 #: wp-content/plugins/akismet/widget.php:67
 msgid "Spam Blocked"
@@ -2458,7 +2458,7 @@ msgstr "Een nieuwe trackback op het bericht \"%s\", wacht op je toelating"
 
 #: wp-includes/ms-load.php:242
 msgid "If you are the owner of this network please check that MySQL is running properly and all tables are error free."
-msgstr "Als je de eigenaar van dit netwerk ***REMOVED***t, controleer of MySQL correct werkt en alle tabellen zonder fouten zijn."
+msgstr "Als je de eigenaar van dit netwerk bent, controleer of MySQL correct werkt en alle tabellen zonder fouten zijn."
 
 #: wp-includes/ms-load.php:241
 msgid "If your site does not display, please contact the owner of this network."
@@ -2644,7 +2644,7 @@ msgstr "Berichten (RSS)"
 
 #: wp-includes/theme-compat/comments-popup.php:67
 msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
-msgstr "Regels en alinea&#8217;s heb***REMOVED*** automatische terugloop, het e-mailadres wordt nooit getoond, <acronym title=\"Hypertext Markup Language\">HTML</acronym> toegelaten: <code>%s</code>"
+msgstr "Regels en alinea&#8217;s hebben automatische terugloop, het e-mailadres wordt nooit getoond, <acronym title=\"Hypertext Markup Language\">HTML</acronym> toegelaten: <code>%s</code>"
 
 #: wp-includes/theme-compat/comments.php:17
 msgid "This post is password protected. Enter the password to view comments."
@@ -2757,11 +2757,11 @@ msgstr "Helaas, op dit moment zijn nieuwe registraties niet toegestaan."
 
 #: wp-signup.php:292 wp-signup.php:356
 msgid "Check your inbox at <strong>%s</strong> and click the link given."
-msgstr "Controleer je inbox op <strong>%s</strong> en klik op de link die we heb***REMOVED*** gestuurd."
+msgstr "Controleer je inbox op <strong>%s</strong> en klik op de link die we hebben gestuurd."
 
 #: wp-signup.php:362
 msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
-msgstr "Nog even geduld. We heb***REMOVED*** niet alle omstandigheden waaronder een e-mail bericht wordt afgeleverd in de hand."
+msgstr "Nog even geduld. We hebben niet alle omstandigheden waaronder een e-mail bericht wordt afgeleverd in de hand."
 
 #: wp-signup.php:363
 msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
@@ -2951,7 +2951,7 @@ msgstr "Helaas, je kunt geen berichten bewerken op deze site."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2688
 msgid "Sorry, you must be able to edit posts to this site in order to view categories."
-msgstr "Helaas, je moet rechten heb***REMOVED*** om berichten te bewerken voordat je de categorie&#235;n kan bekijken."
+msgstr "Helaas, je moet rechten hebben om berichten te bewerken voordat je de categorie&#235;n kan bekijken."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3040
 #: wp-includes/class-wp-xmlrpc-server.php:3099
@@ -3015,7 +3015,7 @@ msgstr "Je hebt geen toestemming om reacties te modereren op deze site."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2552
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr "Helaas, je moet toestemming heb***REMOVED*** om berichten te bewerken om tags te bekijken."
+msgstr "Helaas, je moet toestemming hebben om berichten te bewerken om tags te bekijken."
 
 #: wp-includes/class-wp-xmlrpc-server.php:373
 msgid "Site Tagline"
@@ -3109,7 +3109,7 @@ msgstr "Je moet eerst <a href=\"%s\">inloggen</a>, daarna kan je een nieuwe site
 
 #: wp-signup.php:424
 msgid "You are logged in already. No need to register again!"
-msgstr "Je ***REMOVED***t al ingelogd. Je hoeft je dus niet opnieuw te registreren."
+msgstr "Je bent al ingelogd. Je hoeft je dus niet opnieuw te registreren."
 
 #: wp-includes/comment-template.php:726
 msgid "Use <code>get_trackback_url()</code> instead if you do not want the value echoed."
@@ -3241,7 +3241,7 @@ msgstr "Als je dit domein niet gaat gebruiken, gun het aan een nieuwe gebruiker.
 
 #: wp-signup.php:175
 msgid "Sites you are already a member of:"
-msgstr "Websites waar je al deelnemer van ***REMOVED***t: "
+msgstr "Websites waar je al deelnemer van bent: "
 
 #: wp-includes/ms-load.php:96
 msgid "This site has not been activated yet. If you are having problems activating your site, please contact <a href=\"mailto:%1$s\">%1$s</a>."
@@ -4017,7 +4017,7 @@ msgstr "Momenteel niet ondersteund door je brouwser, gebruik sneltoetsen."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:29
 msgid "Sorry, but we have noticed that your popup-blocker has disabled a window that provides application functionality. You will need to disable popup blocking on this site in order to fully utilize this tool."
-msgstr "We heb***REMOVED*** geconstateerd dat je popupblokkering een noodzakelijk venster heeft geblokkeerd. Je zult popupblokkering moeten uitschakelen voor deze site als je deze toepassing wilt gebruiken."
+msgstr "We hebben geconstateerd dat je popupblokkering een noodzakelijk venster heeft geblokkeerd. Je zult popupblokkering moeten uitschakelen voor deze site als je deze toepassing wilt gebruiken."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:34
 #: wp-includes/js/tinymce/langs/wp-langs.php:328
@@ -4720,7 +4720,7 @@ msgstr "Genaamd"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:355
 msgid "Named colors"
-msgstr "***REMOVED***oemde kleuren"
+msgstr "Benoemde kleuren"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:356
 msgid "Color:"
@@ -5260,7 +5260,7 @@ msgstr "Met Wysiwyg bewerken - de basis "
 
 #: wp-includes/js/tinymce/wp-mce-help.php:172
 msgid "<em>Rich editing</em>, also called WYSIWYG for What You See Is What You Get, means your text is formatted as you type. The rich editor creates HTML code behind the scenes while you concentrate on writing. Font styles, links and images all appear approximately as they will on the internet."
-msgstr "<em>Wysiwyg</em> (What You See Is What You Get - Wat Je Ziet Is Wat Je Krijgt), ook wel Rich editing genoemd, houdt in dat tekst wordt opgemaakt terwijl je typt. Deze wysiwyg-editor genereert HTML-code achter de schermen terwijl jij bezig ***REMOVED***t met schrijven. Lettertypes, links en afbeeldingen worden ongeveer getoond zoals ze op het internet te zien zullen zijn."
+msgstr "<em>Wysiwyg</em> (What You See Is What You Get - Wat Je Ziet Is Wat Je Krijgt), ook wel Rich editing genoemd, houdt in dat tekst wordt opgemaakt terwijl je typt. Deze wysiwyg-editor genereert HTML-code achter de schermen terwijl jij bezig bent met schrijven. Lettertypes, links en afbeeldingen worden ongeveer getoond zoals ze op het internet te zien zullen zijn."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:173
 msgid "WordPress includes a rich HTML editor that works well in all major web browsers used today. However editing HTML is not the same as typing text. Each web page has two major components: the structure, which is the actual HTML code and is produced by the editor as you type, and the display, that is applied to it by the currently selected WordPress theme and is defined in style.css. WordPress is producing valid XHTML 1.0 which means that inserting multiple line breaks (BR tags) after a paragraph would not produce white space on the web page. The BR tags will be removed as invalid by the internal HTML correcting functions."
@@ -5430,7 +5430,7 @@ msgstr "Deze gebruiker bestaat niet."
 
 #: wp-includes/ms-functions.php:457
 msgid "You cannot use that email address to signup. We are having problems with them blocking some of our email. Please use another email provider."
-msgstr "Je kunt dat e-mail adres niet gebruiken om je aan te melden. We heb***REMOVED*** problemen met ze dat enkele e-mails van ons worden geblokkeerd. Graag een andere e-mailprovider gebruiken."
+msgstr "Je kunt dat e-mail adres niet gebruiken om je aan te melden. We hebben problemen met ze dat enkele e-mails van ons worden geblokkeerd. Graag een andere e-mailprovider gebruiken."
 
 #: wp-includes/ms-functions.php:469
 msgid "Sorry, usernames must have letters too!"
@@ -6080,7 +6080,7 @@ msgstr "De e-mail kan niet worden verzonden."
 
 #: wp-login.php:251
 msgid "Possible reason: your host may have disabled the mail() function..."
-msgstr "Mogelijke reden: je host kan de mail() functie uitgeschakeld heb***REMOVED***..."
+msgstr "Mogelijke reden: je host kan de mail() functie uitgeschakeld hebben..."
 
 #: wp-login.php:271 wp-login.php:274 wp-login.php:279
 msgid "Invalid key"
@@ -6144,7 +6144,7 @@ msgstr "Wachtwoord vergeten?"
 
 #: wp-login.php:614
 msgid "You have logged in successfully."
-msgstr "Je ***REMOVED***t succesvol ingelogd."
+msgstr "Je bent succesvol ingelogd."
 
 #: wp-login.php:651
 msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
@@ -6152,7 +6152,7 @@ msgstr "<strong>MISLUKT</strong>: Je browser ondersteunt geen cookies of ze word
 
 #: wp-login.php:655
 msgid "You are now logged out."
-msgstr "Je ***REMOVED***t nu uitgelogd."
+msgstr "Je bent nu uitgelogd."
 
 #: wp-login.php:657
 msgid "User registration is currently not allowed."

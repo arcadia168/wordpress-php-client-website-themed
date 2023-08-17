@@ -77,7 +77,7 @@ msgstr "Volle Breite Seitentemplate, keine Sidebar"
 
 #: content.php:14
 msgid "Featured post"
-msgstr "Hervorgeho***REMOVED***er Artikel"
+msgstr "Hervorgehobener Artikel"
 
 #: functions.php:181
 msgid "Page %s"

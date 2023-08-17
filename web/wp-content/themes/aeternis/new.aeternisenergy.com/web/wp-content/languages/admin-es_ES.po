@@ -1152,7 +1152,7 @@ msgstr "Temas dañados"
 
 #: wp-admin/themes.php:287
 msgid "The following themes are installed but incomplete. Themes must have a stylesheet and a template."
-msgstr "Los siguientes temas están instalados pero incompletos. Los temas de***REMOVED*** tener una hoja de estilos y una plantilla."
+msgstr "Los siguientes temas están instalados pero incompletos. Los temas deben tener una hoja de estilos y una plantilla."
 
 #: wp-admin/themes.php:291
 msgctxt "theme name"
@@ -3327,7 +3327,7 @@ msgstr "No hay espacio suficiente para subir. Se necesitan %1$s KB "
 
 #: wp-admin/includes/ms.php:34
 msgid "This file is too big. Files must be less than %1$s KB in size."
-msgstr "El archivo es demasiado grande. Los archivos de***REMOVED*** ser menores de %1$s KB."
+msgstr "El archivo es demasiado grande. Los archivos deben ser menores de %1$s KB."
 
 #: wp-admin/includes/ms.php:36
 msgid "You have used your space quota. Please delete files before uploading."
@@ -5357,7 +5357,7 @@ msgstr "No tienes suficientes permisos para gestionar opciones en este sitio."
 
 #: wp-admin/options-discussion.php:21
 msgid "This screen provides many options for controlling the management and display of comments and links to your posts/pages. So many, in fact, they won&#8217;t all fit here! :) Use the documentation links to get information on what each discussion setting does."
-msgstr "Esta pantalla da muchas opciones para controlar la gestión y la visualización de los comentarios y enlaces de tus páginas y entradas. Hay tantas que no todas ca***REMOVED*** aquí :). Puedes consultar en los enlaces de la documentación para saber qué hace cada opción de discusión."
+msgstr "Esta pantalla da muchas opciones para controlar la gestión y la visualización de los comentarios y enlaces de tus páginas y entradas. Hay tantas que no todas caben aquí :). Puedes consultar en los enlaces de la documentación para saber qué hace cada opción de discusión."
 
 #: wp-admin/options-discussion.php:22 wp-admin/options-general.php:69
 #: wp-admin/options-media.php:24 wp-admin/options-permalink.php:23
@@ -5392,7 +5392,7 @@ msgstr "El autor del comentario debe rellenar el nombre y el correo electrónico
 
 #: wp-admin/options-discussion.php:67
 msgid "Users must be registered and logged in to comment"
-msgstr "Los usuarios de***REMOVED*** registrarse e identificarse para comentar"
+msgstr "Los usuarios deben registrarse e identificarse para comentar"
 
 #: wp-admin/options-discussion.php:68
 msgid "(Signup has been disabled. Only members of this site can comment.)"
@@ -8092,11 +8092,11 @@ msgstr "Las imágenes de exactamente <strong>%1$d x %2$d pixels</strong> se util
 
 #: wp-admin/custom-header.php:503
 msgid "Images should be at least <strong>%1$d pixels</strong> wide."
-msgstr "Las imágenes de***REMOVED*** ser de al menos <strong>%1$d pixels</strong> de ancho."
+msgstr "Las imágenes deben ser de al menos <strong>%1$d pixels</strong> de ancho."
 
 #: wp-admin/custom-header.php:506
 msgid "Images should be at least <strong>%1$d pixels</strong> tall."
-msgstr "Las imágenes de***REMOVED*** ser de al menos <strong>%1$d pixels</strong> de altura."
+msgstr "Las imágenes deben ser de al menos <strong>%1$d pixels</strong> de altura."
 
 #: wp-admin/custom-header.php:510
 msgid "Suggested width is <strong>%1$d pixels</strong>."
@@ -8756,7 +8756,7 @@ msgstr "Puedes usar categorías para definir secciones para las entradas de tu s
 
 #: wp-admin/edit-tags.php:193
 msgid "You can create groups of links by using Link Categories. Link Category names must be unique and Link Categories are separate from the categories you use for posts."
-msgstr "Puedes crear grupos de enlaces utilizando las Categorías de enlaces. Los nombres de las Categorías de enlaces de***REMOVED*** ser únicos y son algo distinto a las categorías que usas para tus entradas."
+msgstr "Puedes crear grupos de enlaces utilizando las Categorías de enlaces. Los nombres de las Categorías de enlaces deben ser únicos y son algo distinto a las categorías que usas para tus entradas."
 
 #: wp-admin/edit-tags.php:195
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there&#8217;s no relationship from one tag to another."
@@ -9094,8 +9094,8 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "Tienes la libertad de redistribuir copias del programa original y así ayudar a otros."
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
-msgstr "Eres libre de distribuir copias de tu versión modificada a quien quieras. Si lo haces, das la oportunidad de ***REMOVED***eficiarse de tus cambios a toda la comunidad."
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
+msgstr "Eres libre de distribuir copias de tu versión modificada a quien quieras. Si lo haces, das la oportunidad de beneficiarse de tus cambios a toda la comunidad."
 
 #: wp-admin/freedoms.php:45
 msgid "WordPress grows when people like you tell their friends about it, and the thousands of businesses and services that are built on and around WordPress share that fact with their users. We&#8217;re flattered every time someone spreads the good word, just make sure to <a href=\"%s\">check out our trademark guidelines</a> first."

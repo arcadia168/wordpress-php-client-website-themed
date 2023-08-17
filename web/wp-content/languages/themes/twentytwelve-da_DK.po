@@ -41,7 +41,7 @@ msgstr "Første widget-område på forsiden"
 
 #: functions.php:218 functions.php:228
 msgid "Appears when using the optional Front Page template with a page set as Static Front Page"
-msgstr "Vises når den valgfrie Forside skabelon ***REMOVED***yttes på en side sat som Statisk Forside"
+msgstr "Vises når den valgfrie Forside skabelon benyttes på en side sat som Statisk Forside"
 
 #: functions.php:226
 msgid "Second Front Page Widget Area"

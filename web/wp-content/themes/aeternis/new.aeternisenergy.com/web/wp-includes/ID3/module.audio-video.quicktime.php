@@ -1513,7 +1513,7 @@ if (!empty($atom_structure['sample_description_table'][$i]['width']) && !empty($
 			$QuicktimeLanguageLookup[64]    = 'Nepali';
 			$QuicktimeLanguageLookup[65]    = 'Sanskrit';
 			$QuicktimeLanguageLookup[66]    = 'Marathi';
-			$QuicktimeLanguageLookup[67]    = '***REMOVED***gali';
+			$QuicktimeLanguageLookup[67]    = 'Bengali';
 			$QuicktimeLanguageLookup[68]    = 'Assamese';
 			$QuicktimeLanguageLookup[69]    = 'Gujarati';
 			$QuicktimeLanguageLookup[70]    = 'Punjabi';

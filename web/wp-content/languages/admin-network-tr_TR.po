@@ -216,7 +216,7 @@ msgstr "Siteyi düzenle: %s"
 
 #: wp-admin/network/themes.php:161
 msgid "No, Return me to the theme list"
-msgstr "Hayır, ***REMOVED***i tema listesine geri götür"
+msgstr "Hayır, beni tema listesine geri götür"
 
 #: wp-admin/network/site-info.php:27 wp-admin/network/site-settings.php:27
 #: wp-admin/network/site-themes.php:27 wp-admin/network/site-users.php:30
@@ -469,7 +469,7 @@ msgstr "Sunucu adresiniz ile bir siteler ağı yükleyemezsiniz."
 
 #: wp-admin/network.php:166
 msgid "You cannot use port numbers such as <code>%s</code>."
-msgstr "<code>%s</code> ***REMOVED***zeri port numaralarını kullanamazsınız."
+msgstr "<code>%s</code> benzeri port numaralarını kullanamazsınız."
 
 #: wp-admin/network.php:212
 msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
@@ -555,7 +555,7 @@ msgstr "Lütfen ağ özelliğini etkinleştirmeden önce eklentilerinizi <a href
 
 #: wp-admin/network.php:235
 msgid "We recommend you change your siteurl to <code>%1$s</code> before enabling the network feature. It will still be possible to visit your site using the <code>www</code> prefix with an address like <code>%2$s</code> but any links will not have the <code>www</code> prefix."
-msgstr "Ağ özelliğini etkinleştirmeden önce siteurl değerini <code>%1$s</code> olarak değiştirmenizi öneririz. Sitenizi <code>www</code> ön ekiyle <code>%2$s</code> ***REMOVED***zeri bir adresle ziyaret etmek mümkün olacak fakat  bağlantılar <code>www</code> ön ekini içermeyecekler."
+msgstr "Ağ özelliğini etkinleştirmeden önce siteurl değerini <code>%1$s</code> olarak değiştirmenizi öneririz. Sitenizi <code>www</code> ön ekiyle <code>%2$s</code> benzeri bir adresle ziyaret etmek mümkün olacak fakat  bağlantılar <code>www</code> ön ekini içermeyecekler."
 
 #: wp-admin/network.php:250 wp-admin/network.php:260
 msgid "Sub-directory Install"
@@ -617,7 +617,7 @@ msgstr "HATA: ağ oluşturulamıyor."
 
 #: wp-admin/network.php:110
 msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
-msgstr "Bu kodu ekleyip sayfayı yenilediğinizde çoklu site otomatik olarak etkinleşecektir. Artık ağ yönetimi menüsünde yer alan bu ekran eklenen kodun bir arşivini tutacaktır. Ağ yöneticisi ve site yöneticisi arasında, ilgili sitenin altında yer alan ***REMOVED***im sitelerim menüsünü kullanarak geçiş yapabilirsiniz."
+msgstr "Bu kodu ekleyip sayfayı yenilediğinizde çoklu site otomatik olarak etkinleşecektir. Artık ağ yönetimi menüsünde yer alan bu ekran eklenen kodun bir arşivini tutacaktır. Ağ yöneticisi ve site yöneticisi arasında, ilgili sitenin altında yer alan Benim sitelerim menüsünü kullanarak geçiş yapabilirsiniz."
 
 #: wp-admin/network/site-info.php:17 wp-admin/network/site-settings.php:17
 #: wp-admin/network/site-users.php:17
@@ -839,7 +839,7 @@ msgstr "%s KB"
 
 #: wp-admin/network/settings.php:103
 msgid "Registration and support emails will come from this address. An address such as <code>support@%s</code> is recommended."
-msgstr "Kayıt ve destek e-postaları bu adresten gelecektir. <code>destek@%s</code> ya da ***REMOVED***zeri bir adres tavsiye edilir."
+msgstr "Kayıt ve destek e-postaları bu adresten gelecektir. <code>destek@%s</code> ya da benzeri bir adres tavsiye edilir."
 
 #: wp-admin/network/settings.php:252
 msgid "Upload file types"

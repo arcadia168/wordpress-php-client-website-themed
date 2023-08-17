@@ -135,7 +135,7 @@ msgstr "<strong>Farbschema</strong>: Du kannst zwischen einem hellen und dunklen
 
 #: inc/theme-options.php:113
 msgid "<strong>Link Color</strong>: You can choose the color used for text links on your site. You can enter the HTML color or hex code, or you can choose visually by clicking the \"Select a Color\" button to pick from a color wheel."
-msgstr "<strong>Linkfarbe</strong>: Wähle eine eine Farbe mit der die Links in Artikeln etc. hervorgeho***REMOVED*** werden sollen. Du kannst einen hexadezimalen Farbcode einge***REMOVED*** oder mit einem Klick auf die Schaltfläche \"Farbe aussuchen\" dir eine Farbe des Regenbogens aussuchen."
+msgstr "<strong>Linkfarbe</strong>: Wähle eine eine Farbe mit der die Links in Artikeln etc. hervorgehoben werden sollen. Du kannst einen hexadezimalen Farbcode eingeben oder mit einem Klick auf die Schaltfläche \"Farbe aussuchen\" dir eine Farbe des Regenbogens aussuchen."
 
 #: inc/theme-options.php:114
 msgid "<strong>Default Layout</strong>: You can choose if you want your site&#8217;s default layout to have a sidebar on the left, the right, or not at all."
@@ -195,7 +195,7 @@ msgstr ""
 
 #: content.php:16
 msgid "Featured"
-msgstr "Hervorgeho***REMOVED***"
+msgstr "Hervorgehoben"
 
 #: archive.php:25
 msgid "Daily Archives: %s"
@@ -326,7 +326,7 @@ msgstr "&larr; Ältere Kommentare"
 
 #: comments.php:17
 msgid "This post is password protected. Enter the password to view any comments."
-msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort ange***REMOVED***."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort angeben."
 
 #: comments.php:71
 msgid "Comments are closed."
@@ -400,7 +400,7 @@ msgstr "Suchen"
 
 #: showcase.php:77
 msgid "Featured Post"
-msgstr "Hervorgeho***REMOVED***er Artikel"
+msgstr "Hervorgehobener Artikel"
 
 #: showcase.php:160
 msgid "Recent Posts"
@@ -428,7 +428,7 @@ msgstr "Entschuldige bitte, aber das was du gesucht hast, konnte nicht gefunden 
 
 #: inc/widgets.php:160
 msgid "Number of posts to show:"
-msgstr "Anzahl der anzueigenden Artikel (die nicht die Formatvorlage \"Standard\" ha***REMOVED***):"
+msgstr "Anzahl der anzueigenden Artikel (die nicht die Formatvorlage \"Standard\" haben):"
 
 msgid "Twenty Eleven"
 msgstr "Twenty Eleven"

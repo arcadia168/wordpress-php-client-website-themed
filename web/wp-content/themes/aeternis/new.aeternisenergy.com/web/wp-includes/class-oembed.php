@@ -214,7 +214,7 @@ class WP_oEmbed {
 	 * Add an oEmbed provider just-in-time when wp_oembed_add_provider() is called
 	 * before the 'plugins_loaded' hook.
 	 *
-	 * The just-in-time addition is for the ***REMOVED***efit of the 'oembed_providers' filter.
+	 * The just-in-time addition is for the benefit of the 'oembed_providers' filter.
 	 *
 	 * @since 4.0.0
 	 * @access public
@@ -240,7 +240,7 @@ class WP_oEmbed {
 	 * Remove an oEmbed provider just-in-time when wp_oembed_remove_provider() is called
 	 * before the 'plugins_loaded' hook.
 	 *
-	 * The just-in-time removal is for the ***REMOVED***efit of the 'oembed_providers' filter.
+	 * The just-in-time removal is for the benefit of the 'oembed_providers' filter.
 	 *
 	 * @since 4.0.0
 	 * @access public

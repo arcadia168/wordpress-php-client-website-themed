@@ -165,7 +165,7 @@ msgstr "&#8592; Zurück zur Bibliothek"
 
 #: wp-includes/media-template.php:292 wp-includes/media-template.php:426
 msgid "Custom URL"
-msgstr "***REMOVED***utzerdefinierte URL"
+msgstr "Benutzerdefinierte URL"
 
 #: wp-includes/media-template.php:176
 msgid "Attachment Details"
@@ -239,7 +239,7 @@ msgid ""
 "\n"
 "After you activate, you will receive *another email* with your login."
 msgstr ""
-"Um den ***REMOVED***utzer zu aktivieren, klicke bitte folgenden Link:\n"
+"Um den Benutzer zu aktivieren, klicke bitte folgenden Link:\n"
 "\n"
 "%s\n"
 "\n"
@@ -278,7 +278,7 @@ msgid ""
 "\n"
 "Disable these notifications: %3$s"
 msgstr ""
-"Neuer ***REMOVED***utzer: %1$s\n"
+"Neuer Benutzer: %1$s\n"
 "Remote IP: %2$s\n"
 "\n"
 "Deaktiviere diese Mitteilungen: %3$s\n"
@@ -314,7 +314,7 @@ msgstr "Update Galerie"
 
 #: wp-includes/ms-functions.php:185
 msgid "The requested user does not exist."
-msgstr "Der angeforderte ***REMOVED***utzer existiert nicht."
+msgstr "Der angeforderte Benutzer existiert nicht."
 
 #: wp-includes/ms-functions.php:472
 msgid "Please enter a valid email address."
@@ -322,7 +322,7 @@ msgstr "Bitte gib eine gültige E-Mail-Adresse ein."
 
 #: wp-login.php:318
 msgid "<strong>ERROR</strong>: This username is already registered. Please choose another one."
-msgstr "<strong>ERROR</strong>: Dieser ***REMOVED***utzername ist bereits registriert. Bitte wähle einen anderen."
+msgstr "<strong>ERROR</strong>: Dieser Benutzername ist bereits registriert. Bitte wähle einen anderen."
 
 #: wp-includes/class-wp-image-editor-gd.php:87
 #: wp-includes/class-wp-image-editor-imagick.php:120
@@ -419,7 +419,7 @@ msgstr "%1$s %2$s"
 
 #: wp-includes/class-wp-xmlrpc-server.php:188
 msgid "Incorrect username or password."
-msgstr "***REMOVED***utzer oder Passwort falsch."
+msgstr "Benutzer oder Passwort falsch."
 
 #: wp-includes/class-wp-xmlrpc-server.php:181
 msgid "XML-RPC services are disabled on this site."
@@ -439,7 +439,7 @@ msgstr "Veröffentlichungsdatum anzeigen?"
 
 #: wp-includes/class-wp-xmlrpc-server.php:4125
 msgid "You are not allowed to create pages as this user."
-msgstr "Du darfst als dieser ***REMOVED***utzer keine Seiten anlegen."
+msgstr "Du darfst als dieser Benutzer keine Seiten anlegen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3532
 #: wp-includes/class-wp-xmlrpc-server.php:3593
@@ -454,19 +454,19 @@ msgstr "Startseiten URL"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2037
 msgid "Sorry, you cannot edit users."
-msgstr "Verzeihung, du kannst keine ***REMOVED***utzer bearbeiten."
+msgstr "Verzeihung, du kannst keine Benutzer bearbeiten."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2042
 msgid "Invalid user ID"
-msgstr "Ungültige ***REMOVED***utzer-ID"
+msgstr "Ungültige Benutzer-ID"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2090
 msgid "Sorry, you cannot list users."
-msgstr "Verzeihung, du kannst keine ***REMOVED***utzer auflisten."
+msgstr "Verzeihung, du kannst keine Benutzer auflisten."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2106
 msgid "The role specified is not valid"
-msgstr "Die gewählte ***REMOVED***utzerrolle ist nicht gültig."
+msgstr "Die gewählte Benutzerrolle ist nicht gültig."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2157
 #: wp-includes/class-wp-xmlrpc-server.php:2200
@@ -475,7 +475,7 @@ msgstr "Bedaure, du kannst nicht dein Profil bearbeiten."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2234
 msgid "Sorry, the user cannot be updated."
-msgstr "Bedaure, dieser ***REMOVED***utzer kann nicht aktualisiert werden."
+msgstr "Bedaure, dieser Benutzer kann nicht aktualisiert werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3535
 msgid "Sorry, you are not allowed to edit posts."
@@ -508,7 +508,7 @@ msgstr "GNU Library General Public License"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:187
 msgid "Pasting content from another application, like Word or Excel, is best done with the Paste from Word button on the second row, or in Text mode."
-msgstr "Um Inhalt von anderen Anwendungen wie Word oder Excel zu kopieren, ***REMOVED***utzt du am Besten den 'Von Word kopieren' Button in der zweiten Reihe oder den Textmodus. "
+msgstr "Um Inhalt von anderen Anwendungen wie Word oder Excel zu kopieren, benutzt du am Besten den 'Von Word kopieren' Button in der zweiten Reihe oder den Textmodus. "
 
 #: wp-includes/js/tinymce/wp-mce-help.php:186
 msgid "When pasting content from another web page the results can be inconsistent and depend on your browser and on the web page you are pasting from. The editor tries to correct any invalid HTML code that was pasted, but for best results try using the Text tab or one of the paste buttons that are on the second row. Alternatively try pasting paragraph by paragraph. In most browsers to select one paragraph at a time, triple-click on it."
@@ -516,11 +516,11 @@ msgstr "Beim Einfügen von Inhalten, die von anderen Webseiten kopiert wurden, k
 
 #: wp-includes/js/tinymce/wp-mce-help.php:184
 msgid "Any HTML entered directly into the rich editor will show up as text when the post is viewed. What you see is what you get. When you want to include HTML elements that cannot be generated with the toolbar buttons, you must enter it by hand in the Text editor. Examples are tables and &lt;code&gt;. To do this, click the Text tab and edit the code, then switch back to Visual mode. If the code is valid and understood by the editor, you should see it rendered immediately."
-msgstr "Jedes HTML welches direkt in den Rich Editor eingege***REMOVED*** wurde, wird als Text in der Beitragsvorschau angezeigt. Wenn du die HTML-Elemente, welche nicht über den Toolbar-Button erzeugt werden können, musst du ihn in den Text Editor hineinschrei***REMOVED***. Beispielsweise Tabellen und &lt;code&gt;. Klicke den Texttabulator und schreibe den Code, dann wechsel zurück zur Vorschau-Ansicht. Wenn der Code richtig ist und vom Editor angenommen wurde, wird er sofort erkannt."
+msgstr "Jedes HTML welches direkt in den Rich Editor eingegeben wurde, wird als Text in der Beitragsvorschau angezeigt. Wenn du die HTML-Elemente, welche nicht über den Toolbar-Button erzeugt werden können, musst du ihn in den Text Editor hineinschreiben. Beispielsweise Tabellen und &lt;code&gt;. Klicke den Texttabulator und schreibe den Code, dann wechsel zurück zur Vorschau-Ansicht. Wenn der Code richtig ist und vom Editor angenommen wurde, wird er sofort erkannt."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:182
 msgid "If you need to upload an image or another media file from your computer, you can use the Media Library button above the editor. The media library will attempt to create a thumbnail-sized copy from each uploaded image. To insert your image into the post, first click on the thumbnail to reveal a menu of options. When you have selected the options you like, click \"Insert into Post\" and your image or file will appear in the post you are editing."
-msgstr "Wenn du ein Bild oder eine andere Media-Datei von deinem Computer hochladen möchtest, ***REMOVED***utze die Mediathek-Taste über dem Editor. Die Mediathek wird versucht, eine Thumbnail-Grosse Kopie von jedem hochgeladenen Bild zu erstellen. Um dein Bild in den Beitrag einzufügen, klicke zunächst auf das Vorschaubild, um das Menü mit Optionen anzuzeigen. Wenn du die Optionen ausgewählt hast, klicke auf \"In den Beitrag einfügen\" und das Bild oder die Datei wird in dem gerade bearbeiteten Beitrag eingefügt."
+msgstr "Wenn du ein Bild oder eine andere Media-Datei von deinem Computer hochladen möchtest, benutze die Mediathek-Taste über dem Editor. Die Mediathek wird versucht, eine Thumbnail-Grosse Kopie von jedem hochgeladenen Bild zu erstellen. Um dein Bild in den Beitrag einzufügen, klicke zunächst auf das Vorschaubild, um das Menü mit Optionen anzuzeigen. Wenn du die Optionen ausgewählt hast, klicke auf \"In den Beitrag einfügen\" und das Bild oder die Datei wird in dem gerade bearbeiteten Beitrag eingefügt."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:220
 msgid "Editor width in Distraction Free Writing mode:"
@@ -566,7 +566,7 @@ msgstr "Textfarbe in der Kopfzeile"
 
 #: wp-includes/class-wp-customize-manager.php:746
 msgid "Colors"
-msgstr "Far***REMOVED***"
+msgstr "Farben"
 
 #: wp-includes/script-loader.php:315
 msgid "Save &amp; Activate"
@@ -598,7 +598,7 @@ msgstr "Es wurden zu wenig Argumente an diese XML-RPC-Methode gesendet."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1082
 msgid "Sorry, you cannot stick a private post."
-msgstr "Private Beiträge können leider nicht o***REMOVED*** gehalten werden."
+msgstr "Private Beiträge können leider nicht oben gehalten werden."
 
 #: wp-content/plugins/akismet/admin.php:142
 msgid "This key is invalid."
@@ -606,7 +606,7 @@ msgstr "Dieser Schlüssel ist ungültig."
 
 #: wp-content/plugins/akismet/admin.php:336
 msgid "Some comments have not yet been checked for spam by Akismet. They have been temporarily held for moderation. Please check your <a href=\"%s\">Akismet configuration</a> and contact your web host if problems persist."
-msgstr "Einige Kommentare wurden noch nicht durch Akismet auf Spam überprüft. Sie befinden sich vorübergehend in der Moderationsschleife. Bitte prüfe deine <a href=\"%s\">Akismet-Konfiguration</a> und kontaktiere deinen Webhoster, falls dieses Problem nicht beho***REMOVED*** werden kann."
+msgstr "Einige Kommentare wurden noch nicht durch Akismet auf Spam überprüft. Sie befinden sich vorübergehend in der Moderationsschleife. Bitte prüfe deine <a href=\"%s\">Akismet-Konfiguration</a> und kontaktiere deinen Webhoster, falls dieses Problem nicht behoben werden kann."
 
 #: wp-content/plugins/akismet/admin.php:358
 msgid "Awaiting spam check"
@@ -674,11 +674,11 @@ msgstr "Bitte gib einen Seitennamen ein."
 
 #: wp-includes/ms-functions.php:454
 msgid "That username is not allowed."
-msgstr "Dieser ***REMOVED***utzername ist nicht erlaubt."
+msgstr "Dieser Benutzername ist nicht erlaubt."
 
 #: wp-includes/ms-functions.php:446
 msgid "Please enter a username."
-msgstr "Bitte gib einen ***REMOVED***utzernamen ein."
+msgstr "Bitte gib einen Benutzernamen ein."
 
 #: wp-includes/ms-functions.php:591
 msgid "Please enter a site title."
@@ -690,7 +690,7 @@ msgstr "Dieser Name ist nicht erlaubt."
 
 #: wp-includes/ms-functions.php:460
 msgid "Username must be at least 4 characters."
-msgstr "Der ***REMOVED***utzername muss mindestens aus 4 Zeichen bestehen."
+msgstr "Der Benutzername muss mindestens aus 4 Zeichen bestehen."
 
 #: wp-includes/class-wp-customize-manager.php:945
 msgid "A static page"
@@ -980,7 +980,7 @@ msgstr "Der Term ist in der hierarchischen Taxonomie mehrdeutig. Bitte stattdess
 
 #: wp-includes/class-wp-xmlrpc-server.php:1173
 msgid "Sorry, you are not allowed to add a term to one of the given taxonomies."
-msgstr "Leider bist du nicht berechtigt, einen Begriff in eine der gege***REMOVED***en Taxonomien hinzuzufügen."
+msgstr "Leider bist du nicht berechtigt, einen Begriff in eine der gegebenen Taxonomien hinzuzufügen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1327
 msgid "The post cannot be deleted."
@@ -988,7 +988,7 @@ msgstr "Der Beitrag kann nicht gelöscht werden."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1459
 msgid "The post type specified is not valid"
-msgstr "Der angege***REMOVED***e Inhaltstyp ist ungültig"
+msgstr "Der angegebene Inhaltstyp ist ungültig"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1003
 #: wp-includes/class-wp-xmlrpc-server.php:3432
@@ -1006,7 +1006,7 @@ msgstr "Leider bist du nicht berechtigt einen Passwort geschützten Beitrag mit 
 #: wp-includes/class-wp-xmlrpc-server.php:1044
 #: wp-includes/class-wp-xmlrpc-server.php:4121
 msgid "You are not allowed to create posts as this user."
-msgstr "Du bist nicht berechtigt als dieser ***REMOVED***utzer Beiträge zu erstellen."
+msgstr "Du bist nicht berechtigt als dieser Benutzer Beiträge zu erstellen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1025
 msgid "Sorry, you are not allowed to create private posts in this post type"
@@ -1019,16 +1019,16 @@ msgstr "Leider bist du nicht berechtigt einen Beitrag mit diesem Inhaltstyp zu v
 #: wp-includes/class-wp-xmlrpc-server.php:1124
 #: wp-includes/class-wp-xmlrpc-server.php:1147
 msgid "Sorry, you are not allowed to assign a term to one of the given taxonomies."
-msgstr "Leider bist du nicht berechtigt einen Begriff einer der gege***REMOVED***en Taxonomien zuzuordnen."
+msgstr "Leider bist du nicht berechtigt einen Begriff einer der gegebenen Taxonomien zuzuordnen."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1121
 #: wp-includes/class-wp-xmlrpc-server.php:1144
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
-msgstr "Leider wird eine der gege***REMOVED***en Taxonomien nicht von diesem Inhaltstyp unterstützt."
+msgstr "Leider wird eine der gegebenen Taxonomien nicht von diesem Inhaltstyp unterstützt."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1087
 msgid "Sorry, you are not allowed to stick this post."
-msgstr "Leider bist du nicht berechtigt diesen Beitrag o***REMOVED*** zu halten."
+msgstr "Leider bist du nicht berechtigt diesen Beitrag oben zu halten."
 
 #: wp-includes/class-wp-editor.php:295
 msgid "English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv"
@@ -1104,7 +1104,7 @@ msgstr "http://codex.wordpress.org/"
 
 #: wp-activate.php:86
 msgid "Your site at <a href=\"%1$s\">%2$s</a> is active. You may now log in to your site using your chosen username of &#8220;%3$s&#8221;. Please check your email inbox at %4$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%5$s\">reset your password</a>."
-msgstr "Deine Seite <a href=\"%1$s\">%2$s</a> ist aktiviert. Du kannst dich nun mit dem gewählten ***REMOVED***utzername &#8220;%3$s&#8221; einloggen. Bitte überprüfe deinen E-Mail-Posteingang %4$s für dein Passwort und die Login-Instruktionen. Falls du keine E-Mail erhalten hast, überprüfe bitte auch deinen Spam-Ordner. Solltest du nicht innerhalb von einer Stunde eine E-Mail erhalten ha***REMOVED***, kannst du dein <a href=\"%5$s\">Passwort zurücksetzen</a> lassen."
+msgstr "Deine Seite <a href=\"%1$s\">%2$s</a> ist aktiviert. Du kannst dich nun mit dem gewählten Benutzername &#8220;%3$s&#8221; einloggen. Bitte überprüfe deinen E-Mail-Posteingang %4$s für dein Passwort und die Login-Instruktionen. Falls du keine E-Mail erhalten hast, überprüfe bitte auch deinen Spam-Ordner. Solltest du nicht innerhalb von einer Stunde eine E-Mail erhalten haben, kannst du dein <a href=\"%5$s\">Passwort zurücksetzen</a> lassen."
 
 #: wp-signup.php:221
 msgid "<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
@@ -1112,7 +1112,7 @@ msgstr "<a href=\"http://%1$s\">http://%2$s</a> ist deine neue Webseite. <a href
 
 #: wp-activate.php:84
 msgid "Your account has been activated. You may now <a href=\"%1$s\">log in</a> to the site using your chosen username of &#8220;%2$s&#8221;. Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
-msgstr "Dein ***REMOVED***utzerkonto wurde aktiviert. Du kannst dich nun mit dem gewählten ***REMOVED***utzername &#8220;%2$s&#8221; <a href=\"%1$s\">anmelden</a>. Bitte überprüfe deinen E-Mail-Posteingang %3$s für dein Passwort und die Login-Instruktionen. Falls du keine E-Mail erhalten hast, überprüfe bitte auch deinen Spam-Ordner. Solltest du nicht innerhalb von einer Stunde eine E-Mail erhalten ha***REMOVED***, kannst du dein <a href=\"%4$s\">Passwort zurücksetzen</a>."
+msgstr "Dein Benutzerkonto wurde aktiviert. Du kannst dich nun mit dem gewählten Benutzername &#8220;%2$s&#8221; <a href=\"%1$s\">anmelden</a>. Bitte überprüfe deinen E-Mail-Posteingang %3$s für dein Passwort und die Login-Instruktionen. Falls du keine E-Mail erhalten hast, überprüfe bitte auch deinen Spam-Ordner. Solltest du nicht innerhalb von einer Stunde eine E-Mail erhalten haben, kannst du dein <a href=\"%4$s\">Passwort zurücksetzen</a>."
 
 #: wp-includes/functions.php:1138
 msgid "One or more database tables are unavailable. The database may need to be <a href=\"%s\">repaired</a>."
@@ -1275,7 +1275,7 @@ msgstr ""
 "BLOG_URL\n"
 "\n"
 "Du kannst dich mit folgenden Daten als Administrator einloggen:\n"
-"***REMOVED***utzername: USERNAME\n"
+"Benutzername: USERNAME\n"
 "Passwort: PASSWORD\n"
 "Login unter: BLOG_URLwp-login.php\n"
 "\n"
@@ -1297,7 +1297,7 @@ msgstr "<strong>FEHLER</strong>: Bitte fülle die erforderlichen Felder aus (Nam
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:30
 msgid "ERROR: Invalid values entered, these are marked in red."
-msgstr "FEHLER: Es wurden ungültige Werte eingege***REMOVED***, sie wurden rot gekennzeichnet."
+msgstr "FEHLER: Es wurden ungültige Werte eingegeben, sie wurden rot gekennzeichnet."
 
 #: wp-includes/script-loader.php:449
 msgid "Could not load the preview image. Please reload the page and try again."
@@ -1305,7 +1305,7 @@ msgstr "Konnte das Vorschaubild nicht laden. Bitte lade die Seite neu und probie
 
 #: wp-includes/ms-functions.php:290
 msgid "<strong>ERROR</strong>: Site URL already taken."
-msgstr "<strong>FEHLER</strong>: Seiten-Adresse ist schon verge***REMOVED***."
+msgstr "<strong>FEHLER</strong>: Seiten-Adresse ist schon vergeben."
 
 #: wp-includes/ms-functions.php:297
 msgid "<strong>ERROR</strong>: problem creating site entry."
@@ -1322,7 +1322,7 @@ msgstr "E-Mail-Adresse"
 
 #: wp-includes/admin-bar.php:316 wp-admin/users.php:17 wp-admin/menu.php:168
 msgid "Users"
-msgstr "***REMOVED***utzer"
+msgstr "Benutzer"
 
 #: wp-includes/post-template.php:1430 wp-admin/users.php:54
 #: wp-admin/includes/media.php:1644
@@ -1367,7 +1367,7 @@ msgstr "Name"
 #: wp-admin/includes/class-wp-users-list-table.php:163
 #: wp-admin/user-edit.php:243
 msgid "Username"
-msgstr "***REMOVED***utzername"
+msgstr "Benutzername"
 
 #: wp-admin/menu.php:199 wp-admin/options.php:21
 #: wp-content/plugins/akismet/admin.php:59
@@ -1525,16 +1525,16 @@ msgstr "Skripte und Styles sollten nicht vor den Hooks %1$s, %2$s oder %3$s regi
 
 #: wp-includes/class-wp-xmlrpc-server.php:433
 msgid "Allow link notifications from other blogs (pingbacks and trackbacks)"
-msgstr "Erlaube Link-***REMOVED***achrichtigungen von anderen Weblogs (Pingbacks und Trackbacks)\t"
+msgstr "Erlaube Link-Benachrichtigungen von anderen Weblogs (Pingbacks und Trackbacks)\t"
 
 #: wp-includes/capabilities.php:590 wp-includes/capabilities.php:610
 #: wp-includes/capabilities.php:636
 msgid "Use <code>WP_User->ID</code> instead."
-msgstr "***REMOVED***utze stattdessen <code>WP_User->ID</code>."
+msgstr "Benutze stattdessen <code>WP_User->ID</code>."
 
 #: wp-includes/ms-functions.php:1688
 msgid "You have been added to this site. Please visit the <a href=\"%s\">homepage</a> or <a href=\"%s\">log in</a> using your username and password."
-msgstr "Du wurdest zu dieser Seite hinzugefügt. Du kannst nun die <a href=\"%s\">Startseite</a> besuchen oder dich Dich mit deinem ***REMOVED***utzernamen und Passwort <a href=\"%s\">anmelden</a>."
+msgstr "Du wurdest zu dieser Seite hinzugefügt. Du kannst nun die <a href=\"%s\">Startseite</a> besuchen oder dich Dich mit deinem Benutzernamen und Passwort <a href=\"%s\">anmelden</a>."
 
 #: wp-includes/script-loader.php:210
 msgid "Memory exceeded. Please try another smaller file."
@@ -1550,7 +1550,7 @@ msgstr "Diese Datei ist keine Bilddatei. Bitte probiere eine andere Datei."
 
 #: wp-includes/link-template.php:1149
 msgid "Use commas instead of %s to separate excluded categories."
-msgstr "***REMOVED***utze Kommas anstelle von %s um ausgeschlossene Kategorien zu trennen."
+msgstr "Benutze Kommas anstelle von %s um ausgeschlossene Kategorien zu trennen."
 
 #: wp-includes/general-template.php:2040
 msgctxt "admin color scheme"
@@ -1564,7 +1564,7 @@ msgstr "Blau"
 
 #: wp-includes/formatting.php:2901
 msgid "The timezone you have entered is not valid. Please select a valid timezone."
-msgstr "Die von dir eingege***REMOVED***e Zeitzone ist ungültig. Bitte wähle eine gültige Zeitzone aus."
+msgstr "Die von dir eingegebene Zeitzone ist ungültig. Bitte wähle eine gültige Zeitzone aus."
 
 #: wp-includes/post.php:22
 msgctxt "add new on admin bar"
@@ -1599,7 +1599,7 @@ msgstr "Link"
 #: wp-includes/admin-bar.php:519
 msgctxt "add new from admin bar"
 msgid "User"
-msgstr "***REMOVED***utzer"
+msgstr "Benutzer"
 
 #: wp-includes/pluggable.php:808
 msgid "You should specify a nonce action to be verified by using the first parameter."
@@ -1631,11 +1631,11 @@ msgstr "Wörteranzahl: %s"
 
 #: wp-activate.php:110
 msgid "Your account is now activated. <a href=\"%1$s\">Log in</a> or go back to the <a href=\"%2$s\">homepage</a>."
-msgstr "Dein ***REMOVED***utzerkonto ist jetzt aktiviert. <a href=\"%1$s\">Melde dich an</a> oder gehe zurück <a href=\"%2$s\">zur Startseite.</a>."
+msgstr "Dein Benutzerkonto ist jetzt aktiviert. <a href=\"%1$s\">Melde dich an</a> oder gehe zurück <a href=\"%2$s\">zur Startseite.</a>."
 
 #: wp-activate.php:108
 msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Log in</a>"
-msgstr "Dein ***REMOVED***utzerkonto ist jetzt aktiviert. <a href=\"%1$s\">Besuche deine Seite</a> oder <a href=\"%2$s\">melde dich an</a>."
+msgstr "Dein Benutzerkonto ist jetzt aktiviert. <a href=\"%1$s\">Besuche deine Seite</a> oder <a href=\"%2$s\">melde dich an</a>."
 
 #: wp-includes/class-wp-editor.php:694
 #: wp-includes/js/tinymce/langs/wp-langs.php:504
@@ -1652,7 +1652,7 @@ msgstr "Vollbild schließen"
 
 #: wp-includes/class-wp-editor.php:737
 msgid "Just write."
-msgstr "Einfach schrei***REMOVED***."
+msgstr "Einfach schreiben."
 
 #: wp-includes/script-loader.php:363
 msgid "Approve and Reply"
@@ -1791,7 +1791,7 @@ msgstr "Gelbgrün"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:253
 msgid "Upper alpha"
-msgstr "Buchsta***REMOVED*** (groß)"
+msgstr "Buchstaben (groß)"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:252
 msgid "Lower roman"
@@ -1860,11 +1860,11 @@ msgstr "Dunkles Oliv"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:251
 msgid "Lower greek"
-msgstr "Griechische Buchsta***REMOVED*** (klein)"
+msgstr "Griechische Buchstaben (klein)"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:250
 msgid "Lower alpha"
-msgstr "Buchsta***REMOVED*** (klein)"
+msgstr "Buchstaben (klein)"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:240
 msgid "Learn word"
@@ -2011,11 +2011,11 @@ msgstr "Oder verlinke auf bestehende Inhalte"
 #: wp-includes/query.php:648 wp-includes/query.php:668
 #: wp-includes/query.php:688 wp-includes/query.php:708
 msgid "Conditional query tags do not work before the query is run. Before then, they always return false."
-msgstr "Bedingungsabfragen (Conditional Tags) funktionieren nicht, wenn die Beitrag-Abfrage (query_posts) noch nicht durchgeführt wurde. Sie ge***REMOVED*** dann immer 'false' zurück."
+msgstr "Bedingungsabfragen (Conditional Tags) funktionieren nicht, wenn die Beitrag-Abfrage (query_posts) noch nicht durchgeführt wurde. Sie geben dann immer 'false' zurück."
 
 #: wp-includes/ms-functions.php:841
 msgid "The user is already active."
-msgstr "Der ***REMOVED***utzer ist bereits aktiviert."
+msgstr "Der Benutzer ist bereits aktiviert."
 
 #: wp-includes/functions.php:2944
 msgid "%1$s was called <strong>incorrectly</strong>. %2$s %3$s"
@@ -2027,7 +2027,7 @@ msgstr "(Diese Meldung wurde in Version %s hinzugefügt.)"
 
 #: wp-includes/user.php:110
 msgid "<strong>ERROR</strong>: The password you entered for the username <strong>%1$s</strong> is incorrect. <a href=\"%2$s\" title=\"Password Lost and Found\">Lost your password</a>?"
-msgstr "<strong>FEHLER:</strong>: Das Passwort, welches du für den ***REMOVED***utzernamen <strong>%1$s</strong> eingege***REMOVED*** hast, ist falsch. Hast du dein <a href=\"%2$s\" title=\"Passwort zurücksetzen\">Passwort vergessen</a>?"
+msgstr "<strong>FEHLER:</strong>: Das Passwort, welches du für den Benutzernamen <strong>%1$s</strong> eingegeben hast, ist falsch. Hast du dein <a href=\"%2$s\" title=\"Passwort zurücksetzen\">Passwort vergessen</a>?"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5270
 msgid "Sorry, you cannot publish this post."
@@ -2043,7 +2043,7 @@ msgstr "<a href=\"%s\" target=\"_blank\">Klicke hier</a>, um zu überprüfen, ob
 
 #: wp-content/plugins/akismet/admin.php:14
 msgid "Akismet %s requires WordPress 3.0 or higher."
-msgstr "Akismet %s ***REMOVED***ötigt WordPress 3.0 oder höher."
+msgstr "Akismet %s benötigt WordPress 3.0 oder höher."
 
 #: wp-content/plugins/akismet/admin.php:395
 msgid "%s approved"
@@ -2053,7 +2053,7 @@ msgstr[1] "%s Genehmigte"
 
 #: wp-content/plugins/akismet/admin.php:561
 msgid "%s reported this comment as not spam"
-msgstr "%s hat angege***REMOVED***, dass dieser Kommentar kein Spam enthält"
+msgstr "%s hat angegeben, dass dieser Kommentar kein Spam enthält"
 
 #: wp-content/plugins/akismet/akismet.php:289
 msgid "Akismet caught this comment as spam"
@@ -2061,7 +2061,7 @@ msgstr "Akismet hat diesen Kommentar als Spam erkannt"
 
 #: wp-content/plugins/akismet/admin.php:613
 msgid "%s reported this comment as spam"
-msgstr "%s hat angege***REMOVED***, dass dieser Kommentar Spam ist"
+msgstr "%s hat angegeben, dass dieser Kommentar Spam ist"
 
 #: wp-content/plugins/akismet/akismet.php:536
 msgid "Akismet caught this comment as spam during an automatic retry."
@@ -2081,7 +2081,7 @@ msgstr "Deine WordPress-Adresse %s ist falsch. Bitte <a href=\"%s\">korrigiere d
 
 #: wp-content/plugins/akismet/admin.php:172
 msgid "Show the number of comments you've approved beside each comment author."
-msgstr "Zeige die Anzahl der genehmigten Kommentare ne***REMOVED*** jedem Kommentarautoren."
+msgstr "Zeige die Anzahl der genehmigten Kommentare neben jedem Kommentarautoren."
 
 #: wp-content/plugins/akismet/admin.php:661
 msgid "%s changed the comment status to %s"
@@ -2158,7 +2158,7 @@ msgstr "Link in neuem Fenster oder Tab öffnen"
 
 #: wp-includes/class-wp-editor.php:843
 msgid "No search term specified. Showing recent items."
-msgstr "Es wurde kein Suchbegriff angege***REMOVED***. Es werden die aktuellsten Inhalte angezeigt."
+msgstr "Es wurde kein Suchbegriff angegeben. Es werden die aktuellsten Inhalte angezeigt."
 
 #: wp-includes/plugin.php:679
 msgid "Only a static class method or function can be used in an uninstall hook."
@@ -2166,7 +2166,7 @@ msgstr "Nur eine Methode oder Funktion einer statischen Klasse kann in einem <em
 
 #: wp-includes/post.php:2633
 msgid "Passing an integer number of posts is deprecated. Pass an array of arguments instead."
-msgstr "Eine Anzahl von Beiträgen als integer-Zahl an die Abfrage zu überge***REMOVED***, ist veraltet. Nutze stattdessen ein Array mit Parametern."
+msgstr "Eine Anzahl von Beiträgen als integer-Zahl an die Abfrage zu übergeben, ist veraltet. Nutze stattdessen ein Array mit Parametern."
 
 #: wp-includes/post.php:5313
 msgctxt "Post format"
@@ -2237,7 +2237,7 @@ msgstr "Diese Datei muss nicht mehr per include() oder require() eingebunden wer
 
 #: wp-login.php:432
 msgid "Please enter your username or email address. You will receive a link to create a new password via email."
-msgstr "Bitte gib deinen ***REMOVED***utzernamen oder deine E-Mail-Adresse hier ein. Du bekommst eine E-Mail zugesandt, mit deren Hilfe du ein neues Passwort erstellen kannst."
+msgstr "Bitte gib deinen Benutzernamen oder deine E-Mail-Adresse hier ein. Du bekommst eine E-Mail zugesandt, mit deren Hilfe du ein neues Passwort erstellen kannst."
 
 #: wp-includes/default-widgets.php:283 wp-includes/default-widgets.php:515
 msgid "Display as dropdown"
@@ -2305,7 +2305,7 @@ msgstr "Dein Passwort wurde zurückgesetzt."
 
 #: wp-login.php:231
 msgid "Someone requested that the password be reset for the following account:"
-msgstr "Jemand hat das Zurücksetzen des Passworts für folgendes ***REMOVED***utzerkonto angefordert:"
+msgstr "Jemand hat das Zurücksetzen des Passworts für folgendes Benutzerkonto angefordert:"
 
 #: wp-login.php:234
 msgid "If this was a mistake, just ignore this email and nothing will happen."
@@ -2325,7 +2325,7 @@ msgstr "Profil bearbeiten"
 
 #: wp-includes/admin-bar.php:151
 msgid "My Account"
-msgstr "Mein ***REMOVED***utzerprofil"
+msgstr "Mein Benutzerprofil"
 
 #: wp-includes/admin-bar.php:379
 msgid "Manage Comments"
@@ -2366,7 +2366,7 @@ msgstr "Akismet hat diesen Kommentar erneut überprüft und keinen Spam erkannt"
 
 #: wp-includes/ms-functions.php:439 wp-includes/ms-functions.php:565
 msgid "Only lowercase letters (a-z) and numbers are allowed."
-msgstr "Es sind nur Kleinbuchsta***REMOVED*** und Ziffern erlaubt."
+msgstr "Es sind nur Kleinbuchstaben und Ziffern erlaubt."
 
 #: wp-includes/query.php:1958
 msgid "\"caller_get_posts\" is deprecated. Use \"ignore_sticky_posts\" instead."
@@ -2412,11 +2412,11 @@ msgid ""
 "<p>If you don't know how to set up a database you should <strong>contact your host</strong>. If all else fails you may find help at the <a href=\"http://wordpress.org/support/\">WordPress Support Forums</a>.</p>"
 msgstr ""
 "<h1>Die Datenbank kann nicht ausgewählt werden</h1>\n"
-"<p>Es konnte zwar eine Verbindung zum Datenbankserver hergestellt werden (das bedeutet, dass dein ***REMOVED***utzername und das Passwort stimmen), aber die entsprechende Datenbank <code>%1$s</code> kann nicht ausgewählt werden.</p>\n"
+"<p>Es konnte zwar eine Verbindung zum Datenbankserver hergestellt werden (das bedeutet, dass dein Benutzername und das Passwort stimmen), aber die entsprechende Datenbank <code>%1$s</code> kann nicht ausgewählt werden.</p>\n"
 "<ul>\n"
 "<li>Bist du sicher, dass sie existiert?</li>\n"
-"<li>Hat der ***REMOVED***utzer <code>%2$s</code> die entsprechenden Rechte, um die <code>%1$s</code> Datenbank auch zu nutzen?</li>\n"
-"<li>Bei einigen Systemen ist der ***REMOVED***utzername das Präfix der Datenbank, so dass es so oder ähnlich aussieht <code>username_%1$s</code>. Könnte das das Problem sein?</li>\n"
+"<li>Hat der Benutzer <code>%2$s</code> die entsprechenden Rechte, um die <code>%1$s</code> Datenbank auch zu nutzen?</li>\n"
+"<li>Bei einigen Systemen ist der Benutzername das Präfix der Datenbank, so dass es so oder ähnlich aussieht <code>username_%1$s</code>. Könnte das das Problem sein?</li>\n"
 "</ul>\n"
 "<p>Wenn du nicht weißt, wie du die Datenbank einrichtest, <strong>kontaktiere deinen Provider</strong>. Wenn du gar nicht weiterkommst, findest Du im <a href=\"http://wordpress.org/support/\">englischsprachigen</a> und <a href=\"http://forum.wpde.org/\">deutschsprachigen Support-Forum</a> Hilfe.</p>"
 
@@ -2444,7 +2444,7 @@ msgstr "Du musst erst <a href=\"%1$s\">deinen Akismet-API-Schlüssel eintragen</
 
 #: wp-content/plugins/akismet/admin.php:158
 msgid "For many people, <a href=\"%1$s\">Akismet</a> will greatly reduce or even completely eliminate the comment and trackback spam you get on your site. If one does happen to get through, simply mark it as \"spam\" on the moderation screen and Akismet will learn from the mistakes. If you don't have an API key yet, you can get one at <a href=\"%2$s\">Akismet.com</a>."
-msgstr "Für die meisten Menschen wird <a href=\"%1$s\">Akismet</a> den Kommentar- und Trackback-Spam auf der eigenen Seite größtenteils reduzieren, vielleicht sogar ganz eliminieren. Wenn etwas trotzdem durchkommen sollte, markiere es einfach im Administrationsbereich als \"Spam\", damit Akismet aus seinen Fehlern lernen kann. Solltest du noch keinen API-Schlüssel (\"API-Key\") ha***REMOVED***, kannst du einen <a href=\"%2$s\">hier bekommen</a>."
+msgstr "Für die meisten Menschen wird <a href=\"%1$s\">Akismet</a> den Kommentar- und Trackback-Spam auf der eigenen Seite größtenteils reduzieren, vielleicht sogar ganz eliminieren. Wenn etwas trotzdem durchkommen sollte, markiere es einfach im Administrationsbereich als \"Spam\", damit Akismet aus seinen Fehlern lernen kann. Solltest du noch keinen API-Schlüssel (\"API-Key\") haben, kannst du einen <a href=\"%2$s\">hier bekommen</a>."
 
 #: wp-content/plugins/akismet/admin.php:160
 msgid "Akismet API Key"
@@ -2452,7 +2452,7 @@ msgstr "Akismet-API-Schlüssel"
 
 #: wp-includes/load.php:108
 msgid "Your server is running PHP version %1$s but WordPress %2$s requires at least %3$s."
-msgstr "Dein Server läuft mit der PHP-Version %1$s, aber WordPress %2$s ***REMOVED***ötigt mindestens die Version %3$s."
+msgstr "Dein Server läuft mit der PHP-Version %1$s, aber WordPress %2$s benötigt mindestens die Version %3$s."
 
 #: wp-includes/pluggable.php:1113
 msgid "A new trackback on the post \"%s\" is waiting for your approval"
@@ -2475,7 +2475,7 @@ msgstr[1] "%1$s Kommentare zu %2$s"
 #: wp-signup.php:382
 msgctxt "Multisite active signup type"
 msgid "user"
-msgstr "***REMOVED***utzern"
+msgstr "Benutzern"
 
 #: wp-signup.php:381
 msgctxt "Multisite active signup type"
@@ -2485,12 +2485,12 @@ msgstr "Seiten"
 #: wp-signup.php:380
 msgctxt "Multisite active signup type"
 msgid "none"
-msgstr "keinen neuen Seiten oder ***REMOVED***utzern"
+msgstr "keinen neuen Seiten oder Benutzern"
 
 #: wp-signup.php:379
 msgctxt "Multisite active signup type"
 msgid "all"
-msgstr "***REMOVED***utzern und Seiten"
+msgstr "Benutzern und Seiten"
 
 #: wp-includes/default-widgets.php:1098
 msgid "Custom Menu"
@@ -2602,7 +2602,7 @@ msgstr "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art
 
 #: wp-includes/theme-compat/comments.php:72
 msgid "Log out of this account"
-msgstr "Diesen ***REMOVED***utzer abmelden"
+msgstr "Diesen Benutzer abmelden"
 
 #: wp-includes/theme-compat/comments.php:72
 msgid "Log out &raquo;"
@@ -2650,7 +2650,7 @@ msgstr "Zeilen und Absätze brechen automatisch um, E-Mail-Adressen werden niema
 
 #: wp-includes/theme-compat/comments.php:17
 msgid "This post is password protected. Enter the password to view comments."
-msgstr "Dieser Beitrag ist passwortgeschützt. Um die Kommentare zu sehen, musst du das Passwort einge***REMOVED***."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um die Kommentare zu sehen, musst du das Passwort eingeben."
 
 #: wp-includes/theme-compat/sidebar.php:73
 msgid "This page validates as XHTML 1.0 Transitional"
@@ -2701,7 +2701,7 @@ msgstr "Wähle aus den häufig genutzten Schlagwörtern"
 
 #: wp-includes/comment-template.php:1539
 msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
-msgstr "Du kannst folgende <abbr title=\"HyperText Markup Language\">HTML</abbr>-Tags ***REMOVED***utzen: %s"
+msgstr "Du kannst folgende <abbr title=\"HyperText Markup Language\">HTML</abbr>-Tags benutzen: %s"
 
 #: wp-includes/taxonomy.php:428
 msgctxt "taxonomy singular name"
@@ -2775,7 +2775,7 @@ msgstr "Hallo, Administrator! Du hast zurzeit das Registrieren von %s erlaubt. U
 
 #: wp-signup.php:364
 msgid "Have you entered your email correctly?  You have entered %s, if it&#8217;s incorrect, you will not receive your email."
-msgstr "Hast du deine E-Mail-Adresse korrekt eingege***REMOVED***? Falls die angege***REMOVED***e Adresse %s falsch ist, wirst du keine E-Mail erhalten."
+msgstr "Hast du deine E-Mail-Adresse korrekt eingegeben? Falls die angegebene Adresse %s falsch ist, wirst du keine E-Mail erhalten."
 
 #: wp-signup.php:137
 msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
@@ -2831,11 +2831,11 @@ msgstr "Die Konstante <code>VHOST</code> <strong>ist veraltet</strong>. Nutze di
 
 #: wp-includes/ms-default-constants.php:128
 msgid "<strong>Conflicting values for the constants VHOST and SUBDOMAIN_INSTALL.</strong> The value of SUBDOMAIN_INSTALL will be assumed to be your subdomain configuration setting."
-msgstr "<strong>Widersprüchliche Anga***REMOVED*** für die Konstanten VHOST und SUBDOMAIN_INSTALL.</strong> Es wird der Wert von SUBDOMAIN_INSTALL für die Konfigurationseinstellungen von Subdomains übernommen."
+msgstr "<strong>Widersprüchliche Angaben für die Konstanten VHOST und SUBDOMAIN_INSTALL.</strong> Es wird der Wert von SUBDOMAIN_INSTALL für die Konfigurationseinstellungen von Subdomains übernommen."
 
 #: wp-login.php:315
 msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
-msgstr "<strong>Fehler:</strong> Dieser ***REMOVED***utzername kann nicht verwendet werden, da er ungültige Zeichen enthält. Bitte gib einen gültigen ***REMOVED***utzernamen an."
+msgstr "<strong>Fehler:</strong> Dieser Benutzername kann nicht verwendet werden, da er ungültige Zeichen enthält. Bitte gib einen gültigen Benutzernamen an."
 
 #: wp-includes/comment-template.php:1532
 msgid "Required fields are marked %s"
@@ -2883,7 +2883,7 @@ msgstr "<strong>Es fehlen Datenbanktabellen.</strong> Das bedeutet, dass MySQL n
 
 #: wp-includes/class-wp-xmlrpc-server.php:3704
 msgid "Sorry, you do not have access to user data on this site."
-msgstr "Du hast keinen Zugriff auf die ***REMOVED***utzerdaten dieser Seite."
+msgstr "Du hast keinen Zugriff auf die Benutzerdaten dieser Seite."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1016
 #: wp-includes/class-wp-xmlrpc-server.php:3869
@@ -2936,7 +2936,7 @@ msgstr "Neue Registrierung einer Seite: %s"
 
 #: wp-includes/ms-functions.php:574
 msgid "Sorry, site names may not contain the character &#8220;_&#8221;!"
-msgstr "Entschuldigung, Seitenadressen dürfen keinen Unterstrich im Namen ha***REMOVED***."
+msgstr "Entschuldigung, Seitenadressen dürfen keinen Unterstrich im Namen haben."
 
 #: wp-includes/ms-functions.php:1258
 msgid "New %1$s Site: %2$s"
@@ -2976,7 +2976,7 @@ msgstr "Ein Kalender der Beiträge"
 
 #: wp-includes/ms-functions.php:584
 msgid "Sorry, site names must have letters too!"
-msgstr "Entschuldige, Seitennamen müssen auch Buchsta***REMOVED*** enthalten!"
+msgstr "Entschuldige, Seitennamen müssen auch Buchstaben enthalten!"
 
 #: wp-includes/ms-functions.php:578
 msgid "Sorry, you may not use that site name."
@@ -3000,7 +3000,7 @@ msgstr "Diese Seite wurde bereits reserviert, ist aber eventuell in ein paar Tag
 
 #: wp-includes/pluggable.php:1202
 msgid "New user registration on your site %s:"
-msgstr "Neue ***REMOVED***utzerregistrierung auf deiner Seite %s:"
+msgstr "Neue Benutzerregistrierung auf deiner Seite %s:"
 
 #: wp-includes/user.php:101
 msgid "Site Suspended."
@@ -3016,7 +3016,7 @@ msgstr "Es ist dir nicht erlaubt auf diesem Blog Kommentare zu moderieren."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2552
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
-msgstr "Du musst das Recht ha***REMOVED***, Beiträge bearbeiten zu können, damit du Schlagwörter sehen kannst."
+msgstr "Du musst das Recht haben, Beiträge bearbeiten zu können, damit du Schlagwörter sehen kannst."
 
 #: wp-includes/class-wp-xmlrpc-server.php:373
 msgid "Site Tagline"
@@ -3049,11 +3049,11 @@ msgstr "Es wurden keine Ergebnisse gefunden."
 
 #: wp-includes/nav-menu.php:226 wp-includes/nav-menu.php:233
 msgid "The menu name <strong>%s</strong> conflicts with another menu name. Please try another."
-msgstr "Der Menüname <strong>%s</strong> ist schon in ***REMOVED***utzung. Bitte probiere einen anderen Namen."
+msgstr "Der Menüname <strong>%s</strong> ist schon in Benutzung. Bitte probiere einen anderen Namen."
 
 #: wp-includes/nav-menu.php:275
 msgid "The given object ID is not that of a menu item."
-msgstr "Die überge***REMOVED***e ID gehört zu keinem Menüelement."
+msgstr "Die übergebene ID gehört zu keinem Menüelement."
 
 #: wp-includes/formatting.php:2763
 msgid "The email address entered did not appear to be a valid email address. Please enter a valid email address."
@@ -3061,11 +3061,11 @@ msgstr "Diese E-Mail-Adresse scheint keine gültige E-Mail-Adresse zu sein. Bitt
 
 #: wp-includes/formatting.php:2850
 msgid "The WordPress address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr "Die angege***REMOVED***e WordPress-Adresse scheint keine gültige URL zu sein. Bitte gib eine gültige URL an."
+msgstr "Die angegebene WordPress-Adresse scheint keine gültige URL zu sein. Bitte gib eine gültige URL an."
 
 #: wp-includes/formatting.php:2860
 msgid "The Site address you entered did not appear to be a valid URL. Please enter a valid URL."
-msgstr "Die Webseiten-Adresse die du eingege***REMOVED*** hast, scheint keine gültige URL zu sein. Bitte gebe eine gültige URL ein."
+msgstr "Die Webseiten-Adresse die du eingegeben hast, scheint keine gültige URL zu sein. Bitte gebe eine gültige URL ein."
 
 #: wp-includes/taxonomy.php:2093
 msgid "A term with the name provided already exists with this parent."
@@ -3093,7 +3093,7 @@ msgstr "Es wurde keine gültige URL übermittelt."
 
 #: wp-includes/comment-template.php:1537
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
-msgstr "Angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Vom ***REMOVED***utzerkonto ausloggen\">Abmelden?</a>"
+msgstr "Angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Vom Benutzerkonto ausloggen\">Abmelden?</a>"
 
 #: wp-includes/class-wp-image-editor-gd.php:157
 #: wp-includes/class-wp-image-editor-imagick.php:223
@@ -3102,7 +3102,7 @@ msgstr "Die Abmessungen des größenveränderten Bildes konnten nicht berechnet 
 
 #: wp-signup.php:83
 msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
-msgstr "Sie muss aus mindestens vier Zeichen bestehen, wobei du bitte nur Zahlen und Buchsta***REMOVED*** verwenden solltest. Prüfe deine Eingabe sorgfältig, da diese Angabe später nicht mehr geändert werden kann."
+msgstr "Sie muss aus mindestens vier Zeichen bestehen, wobei du bitte nur Zahlen und Buchstaben verwenden solltest. Prüfe deine Eingabe sorgfältig, da diese Angabe später nicht mehr geändert werden kann."
 
 #: wp-signup.php:394
 msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
@@ -3114,7 +3114,7 @@ msgstr "Du bist bereits angemeldet und brauchst dich nicht erneut zu registriere
 
 #: wp-includes/comment-template.php:726
 msgid "Use <code>get_trackback_url()</code> instead if you do not want the value echoed."
-msgstr "Wenn du den Wert nicht ausgege***REMOVED*** bekommen möchtest, verwende stattdessen <code>get_trackback_url()</code>."
+msgstr "Wenn du den Wert nicht ausgegeben bekommen möchtest, verwende stattdessen <code>get_trackback_url()</code>."
 
 #: wp-mail.php:14
 msgid "This action has been disabled by the administrator."
@@ -3122,7 +3122,7 @@ msgstr "Diese Aktion wurde vom Administrator deaktiviert."
 
 #: wp-signup.php:169
 msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
-msgstr "Willkommen zurück, %s. In dem du dieses Formular ausfüllst, kannst du eine <strong>weitere Webseite</strong> für dein ***REMOVED***utzerkonto anlegen. Es gibt hierfür keine Begrenzung, also zögere nicht."
+msgstr "Willkommen zurück, %s. In dem du dieses Formular ausfüllst, kannst du eine <strong>weitere Webseite</strong> für dein Benutzerkonto anlegen. Es gibt hierfür keine Begrenzung, also zögere nicht."
 
 #: wp-signup.php:430
 msgid "<p><em>The site you were looking for, <strong>%s</strong> does not exist, but you can create it now!</em></p>"
@@ -3130,7 +3130,7 @@ msgstr "<p><em>Die von dir gesuchte Webseite <strong>%s</strong> existiert nicht
 
 #: wp-includes/ms-functions.php:463
 msgid "Sorry, usernames may not contain the character &#8220;_&#8221;!"
-msgstr "***REMOVED***utzernamen dürfen keinen Unterstrich enthalten."
+msgstr "Benutzernamen dürfen keinen Unterstrich enthalten."
 
 #: wp-signup.php:432
 msgid "<p><em>The site you were looking for, <strong>%s</strong>, does not exist.</em></p>"
@@ -3142,7 +3142,7 @@ msgstr "Falls du deine E-Mail noch nicht erhalten hast, kannst du folgende Dinge
 
 #: wp-includes/author-template.php:55
 msgid "Use <code>get_the_author()</code> instead if you do not want the value echoed."
-msgstr "Wenn du den Wert nicht ausgege***REMOVED*** bekommen möchtest, verwende stattdessen <code>get_the_author()</code>."
+msgstr "Wenn du den Wert nicht ausgegeben bekommen möchtest, verwende stattdessen <code>get_the_author()</code>."
 
 #: wp-includes/ms-load.php:249
 msgid "If you&#8217;re still stuck with this message, then check that your database contains the following tables:"
@@ -3194,7 +3194,7 @@ msgstr "Links für %s"
 
 #: wp-includes/nav-menu.php:612
 msgid "Custom"
-msgstr "***REMOVED***utzerdefiniert"
+msgstr "Benutzerdefiniert"
 
 #: wp-includes/default-widgets.php:1135
 msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
@@ -3320,7 +3320,7 @@ msgstr "Zeitzone"
 
 #: wp-includes/class-wp-xmlrpc-server.php:388
 msgid "Allow new users to sign up"
-msgstr "Erlaube neuen ***REMOVED***utzern die Registrierung"
+msgstr "Erlaube neuen Benutzern die Registrierung"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2268
 msgid "Sorry, you cannot edit this page."
@@ -3444,11 +3444,11 @@ msgstr "Du verfügst nicht über ausreichende Rechte, um diesen Beitrag zu verö
 
 #: wp-includes/class-wp-xmlrpc-server.php:4425
 msgid "You are not allowed to change the post author as this user."
-msgstr "Dieser ***REMOVED***utzer darf den Autor des Beitrags nicht verändern."
+msgstr "Dieser Benutzer darf den Autor des Beitrags nicht verändern."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4429
 msgid "You are not allowed to change the page author as this user."
-msgstr "Dieser ***REMOVED***utzer darf den Autor der Seite nicht verändern."
+msgstr "Dieser Benutzer darf den Autor der Seite nicht verändern."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4535
 msgid "Sorry, you do not have the right to publish this page."
@@ -3460,7 +3460,7 @@ msgstr "Der Beitrag konnte leider nicht bearbeitet werden. Irgendetwas ging schi
 
 #: wp-includes/class-wp-xmlrpc-server.php:4952
 msgid "Could not write file %1$s (%2$s)"
-msgstr "Konnte folgende Datei nicht schrei***REMOVED*** %1$s (%2$s)"
+msgstr "Konnte folgende Datei nicht schreiben %1$s (%2$s)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5112
 msgid "Sorry, you can not edit this post."
@@ -3475,7 +3475,7 @@ msgstr "Gibt es keinen Link zu uns?"
 #: wp-includes/class-wp-xmlrpc-server.php:5369
 #: wp-includes/class-wp-xmlrpc-server.php:5476
 msgid "The specified target URL cannot be used as a target. It either doesn&#8217;t exist, or it is not a pingback-enabled resource."
-msgstr "Die angege***REMOVED***e URL kann nicht als Ziel verwendet werden. Entweder existiert sie nicht oder der Empfänger erlaubt keine Pingbacks."
+msgstr "Die angegebene URL kann nicht als Ziel verwendet werden. Entweder existiert sie nicht oder der Empfänger erlaubt keine Pingbacks."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5365
 msgid "The source URL and the target URL cannot both point to the same resource."
@@ -3487,7 +3487,7 @@ msgstr "Der Pingback wurde schon registriert."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5381
 msgid "The source URL does not exist."
-msgstr "Die angege***REMOVED***e Quell-URL existiert nicht."
+msgstr "Die angegebene Quell-URL existiert nicht."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5393
 msgid "We cannot find a title on that page."
@@ -3503,15 +3503,15 @@ msgstr "Pingback von %1$s zu %2$s registriert. Keep the web talking! :-)"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5483
 msgid "The specified target URL does not exist."
-msgstr "Die angege***REMOVED***e Ziel-URL existiert nicht."
+msgstr "Die angegebene Ziel-URL existiert nicht."
 
 #: wp-includes/load.php:113
 msgid "Your PHP installation appears to be missing the MySQL extension which is required by WordPress."
-msgstr "Deine PHP-Installation scheint nicht über die von WordPress ***REMOVED***ötigte MySQL-Erweiterung zu verfügen."
+msgstr "Deine PHP-Installation scheint nicht über die von WordPress benötigte MySQL-Erweiterung zu verfügen."
 
 #: wp-includes/load.php:370
 msgid "<strong>ERROR</strong>: <code>$table_prefix</code> in <code>wp-config.php</code> can only contain numbers, letters, and underscores."
-msgstr "<strong>Fehler:</strong> Das Tabellenpräfix <code>$table_prefix</code> in <code>wp-config.php</code> darf nur Buchsta***REMOVED***, Zahlen und Unterstriche enthalten."
+msgstr "<strong>Fehler:</strong> Das Tabellenpräfix <code>$table_prefix</code> in <code>wp-config.php</code> darf nur Buchstaben, Zahlen und Unterstriche enthalten."
 
 #: wp-includes/wp-db.php:1145
 msgid ""
@@ -3527,9 +3527,9 @@ msgid ""
 msgstr ""
 "\n"
 "<h1>Fehler beim Aufbau der Datenbank-Verbindung</h1>\n"
-"<p>Das bedeutet entweder, dass ***REMOVED***utzername oder Passwort in der Datei <code>wp-config.php</code> falsch sind, oder der Datenbankserver <code>%s</code> nicht erreichbar ist.</p>\n"
+"<p>Das bedeutet entweder, dass Benutzername oder Passwort in der Datei <code>wp-config.php</code> falsch sind, oder der Datenbankserver <code>%s</code> nicht erreichbar ist.</p>\n"
 "<ul>\n"
-"\t<li>Bist du sicher, dass ***REMOVED***utzername und Passwort stimmen?</li>\n"
+"\t<li>Bist du sicher, dass Benutzername und Passwort stimmen?</li>\n"
 "\t<li>Bist du sicher, dass der Name des Datenbankservers stimmt?</li>\n"
 "\t<li>Bist du sicher, dass der Datenbankserver läuft?</li>\n"
 "</ul>\n"
@@ -3820,7 +3820,7 @@ msgstr "leerer Dateiname"
 
 #: wp-includes/functions.php:1716
 msgid "Could not write file %s"
-msgstr "Konnte folgende Datei nicht schrei***REMOVED*** %s"
+msgstr "Konnte folgende Datei nicht schreiben %s"
 
 #: wp-includes/functions.php:1984
 msgid "You are attempting to log out of %s"
@@ -3848,7 +3848,7 @@ msgstr "WordPress &rsaquo; Fehler"
 
 #: wp-includes/functions.php:2824 wp-includes/functions.php:2864
 msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
-msgstr "%1$s ist seit Version %2$s <strong>veraltet</strong>! ***REMOVED***utze stattdessen %3$s."
+msgstr "%1$s ist seit Version %2$s <strong>veraltet</strong>! Benutze stattdessen %3$s."
 
 #: wp-includes/functions.php:2826 wp-includes/functions.php:2866
 msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
@@ -3968,7 +3968,7 @@ msgstr "Grau"
 
 #: wp-includes/class-http.php:125
 msgid "User has blocked requests through HTTP."
-msgstr "Der ***REMOVED***utzer hat Anfragen über HTTP blockiert."
+msgstr "Der Benutzer hat Anfragen über HTTP blockiert."
 
 #: wp-includes/class-http.php:782 wp-includes/class-http.php:966
 #: wp-includes/class-http.php:1164 wp-includes/class-http.php:1183
@@ -3986,7 +3986,7 @@ msgstr "Konnte Verbindung zu %s über fopen() nicht öffnen"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:18
 msgid "Do you want to use the WYSIWYG mode for this textarea?"
-msgstr "Möchtest Du den WYSIWYG-Modus für dieses Textfeld ***REMOVED***utzen?"
+msgstr "Möchtest Du den WYSIWYG-Modus für dieses Textfeld benutzen?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:20
 msgid "Insert"
@@ -4012,7 +4012,7 @@ msgstr "Kopieren, Ausschneiden und Einfügen ist in Mozilla und Firefox nicht ve
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:28
 msgid "Currently not supported by your browser, use keyboard shortcuts instead."
-msgstr "Wird zur Zeit von deinem Browser nicht unterstützt, ***REMOVED***utze stattdessen Tastenkürzel."
+msgstr "Wird zur Zeit von deinem Browser nicht unterstützt, benutze stattdessen Tastenkürzel."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:29
 msgid "Sorry, but we have noticed that your popup-blocker has disabled a window that provides application functionality. You will need to disable popup blocking on this site in order to fully utilize this tool."
@@ -4228,7 +4228,7 @@ msgstr "Von rechts nach links"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:113
 msgid "Insert new layer"
-msgstr "Neue E***REMOVED***e einfügen"
+msgstr "Neue Ebene einfügen"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:114
 msgid "Move forward"
@@ -4244,7 +4244,7 @@ msgstr "Absolute Platzierung ein/aus"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:117
 msgid "New layer..."
-msgstr "Neue E***REMOVED***e …"
+msgstr "Neue Ebene …"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:122
 msgid "Cancel all changes"
@@ -4630,7 +4630,7 @@ msgstr "Sonderzeichen einfügen"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:315
 msgid "Toggle guidelines/invisible elements"
-msgstr "Zwischen Vorga***REMOVED*** und unsichtbaren Elementen umschalten"
+msgstr "Zwischen Vorgaben und unsichtbaren Elementen umschalten"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:316
 #: wp-includes/js/tinymce/langs/wp-langs.php:345
@@ -4715,7 +4715,7 @@ msgstr "Farbpalette"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:354
 msgid "Named"
-msgstr "***REMOVED***annt"
+msgstr "Benannt"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:355
 msgid "Named colors"
@@ -4761,7 +4761,7 @@ msgstr "Grundlinie"
 #: wp-includes/js/tinymce/langs/wp-langs.php:370
 #: wp-includes/js/tinymce/langs/wp-langs.php:471
 msgid "Top"
-msgstr "O***REMOVED***"
+msgstr "Oben"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:371
 msgid "Middle"
@@ -4774,7 +4774,7 @@ msgstr "Unten"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:373
 msgid "Text top"
-msgstr "Textbündig o***REMOVED***"
+msgstr "Textbündig oben"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:374
 msgid "Text bottom"
@@ -4790,11 +4790,11 @@ msgstr "Link in neuem Fenster öffnen"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:383
 msgid "The URL you entered seems to be an email address, do you want to add the required mailto: prefix?"
-msgstr "Die eingege***REMOVED***e URL scheint eine E-Mail-Adresse zu sein. Soll \"mailto:\" vorangestellt werden?"
+msgstr "Die eingegebene URL scheint eine E-Mail-Adresse zu sein. Soll \"mailto:\" vorangestellt werden?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:384
 msgid "The URL you entered seems to external link, do you want to add the required http:// prefix?"
-msgstr "Die eingege***REMOVED***e URL scheint ein externer Link zu sein. Soll \"http://\" vorangestellt werden?"
+msgstr "Die eingegebene URL scheint ein externer Link zu sein. Soll \"http://\" vorangestellt werden?"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:385
 msgid "Link list"
@@ -5084,11 +5084,11 @@ msgstr "RTSP-Streaming-Ressourcen bitte in das QT-Src-Feld eintragen (Karte: Erw
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:476
 msgid "Top left"
-msgstr "O***REMOVED*** links"
+msgstr "Oben links"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:477
 msgid "Top right"
-msgstr "O***REMOVED*** rechts"
+msgstr "Oben rechts"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:478
 msgid "Bottom left"
@@ -5239,7 +5239,7 @@ msgstr "Rich-Editing-Grundlagen"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:162
 msgid "Basics"
-msgstr "Grundlegende Anga***REMOVED***"
+msgstr "Grundlegende Angaben"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:163
 msgid "Advanced use of the Rich Editor"
@@ -5259,7 +5259,7 @@ msgstr "Grundlagen von Rich Editing"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:172
 msgid "<em>Rich editing</em>, also called WYSIWYG for What You See Is What You Get, means your text is formatted as you type. The rich editor creates HTML code behind the scenes while you concentrate on writing. Font styles, links and images all appear approximately as they will on the internet."
-msgstr "<em>Rich editing</em>, auch WYSIWYG genannt (für What You See Is What You Get) bedeutet, dass dein Text so formatiert wird, wie du ihn tippst. Ein Rich Editor erzeugt im Hintergrund den HTML-Code, so dass du dich ganz auf das Schrei***REMOVED*** konzentrieren kannst. Schriften, Links und Bilder werden in etwa so dargestellt, wie sie später im Internet erscheinen werden."
+msgstr "<em>Rich editing</em>, auch WYSIWYG genannt (für What You See Is What You Get) bedeutet, dass dein Text so formatiert wird, wie du ihn tippst. Ein Rich Editor erzeugt im Hintergrund den HTML-Code, so dass du dich ganz auf das Schreiben konzentrieren kannst. Schriften, Links und Bilder werden in etwa so dargestellt, wie sie später im Internet erscheinen werden."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:173
 msgid "WordPress includes a rich HTML editor that works well in all major web browsers used today. However editing HTML is not the same as typing text. Each web page has two major components: the structure, which is the actual HTML code and is produced by the editor as you type, and the display, that is applied to it by the currently selected WordPress theme and is defined in style.css. WordPress is producing valid XHTML 1.0 which means that inserting multiple line breaks (BR tags) after a paragraph would not produce white space on the web page. The BR tags will be removed as invalid by the internal HTML correcting functions."
@@ -5271,7 +5271,7 @@ msgstr "Bei diesem Editor funktionieren viele Tastenkürzel genau wie in anderen
 
 #: wp-includes/js/tinymce/wp-mce-help.php:175
 msgid "If you do not like the way the rich editor works, you may turn it off from Your Profile submenu, under Users in the admin menu."
-msgstr "Wenn dir der Rich Editor nicht passt, kannst du ihn im Untermenü \"Dein Profil\" abschalten, unter ***REMOVED***utzer im Admin-Menü."
+msgstr "Wenn dir der Rich Editor nicht passt, kannst du ihn im Untermenü \"Dein Profil\" abschalten, unter Benutzer im Admin-Menü."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:179
 msgid "Advanced Rich Editing"
@@ -5295,11 +5295,11 @@ msgstr "Übetragen in den Rich Editor"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:191
 msgid "Writing at Full Speed"
-msgstr "Schrei***REMOVED*** mit voller Geschwindigkeit"
+msgstr "Schreiben mit voller Geschwindigkeit"
 
 #: wp-includes/js/tinymce/wp-mce-help.php:192
 msgid "Rather than reaching for your mouse to click on the toolbar, use these access keys. Windows and Linux use Ctrl + letter. Macintosh uses Command + letter."
-msgstr "Besser, als mit der Maus in der Toolbar herumzustochern, ist der Einsatz dieser Kurzbefehle. Windows und Linux ***REMOVED***utzen Strg + Buchstabe. Beim Mac ist es Command + Buchstabe."
+msgstr "Besser, als mit der Maus in der Toolbar herumzustochern, ist der Einsatz dieser Kurzbefehle. Windows und Linux benutzen Strg + Buchstabe. Beim Mac ist es Command + Buchstabe."
 
 #: wp-includes/js/tinymce/wp-mce-help.php:195
 #: wp-includes/js/tinymce/wp-mce-help.php:209
@@ -5425,7 +5425,7 @@ msgstr "Die Bildgröße konnte nicht gelesen werden."
 
 #: wp-includes/ms-functions.php:247
 msgid "That user does not exist."
-msgstr "Dieser ***REMOVED***utzer existiert nicht."
+msgstr "Dieser Benutzer existiert nicht."
 
 #: wp-includes/ms-functions.php:457
 msgid "You cannot use that email address to signup. We are having problems with them blocking some of our email. Please use another email provider."
@@ -5433,7 +5433,7 @@ msgstr "Du kannst dich leider nicht mit dieser E-Mail-Adresse registrieren, da d
 
 #: wp-includes/ms-functions.php:469
 msgid "Sorry, usernames must have letters too!"
-msgstr "Entschuldige, aber ***REMOVED***utzernamen müssen auch Buchsta***REMOVED*** enthalten!"
+msgstr "Entschuldige, aber Benutzernamen müssen auch Buchstaben enthalten!"
 
 #: wp-includes/ms-functions.php:478
 msgid "Sorry, that email address is not allowed!"
@@ -5441,7 +5441,7 @@ msgstr "Diese E-Mail-Adresse ist nicht erlaubt!"
 
 #: wp-includes/ms-functions.php:483 wp-includes/user.php:1313
 msgid "Sorry, that username already exists!"
-msgstr "Entschuldige, aber der ***REMOVED***utzername existiert bereits!"
+msgstr "Entschuldige, aber der Benutzername existiert bereits!"
 
 #: wp-includes/ms-functions.php:487 wp-includes/user.php:1328
 msgid "Sorry, that email address is already used!"
@@ -5449,11 +5449,11 @@ msgstr "Entschuldige, aber diese Email-Adresse wird bereits verwendet!"
 
 #: wp-includes/ms-functions.php:499
 msgid "That username is currently reserved but may be available in a couple of days."
-msgstr "Dieser ***REMOVED***utzername ist derzeit reserviert, ist aber möglicherweise in den nächsten Tagen verfügbar."
+msgstr "Dieser Benutzername ist derzeit reserviert, ist aber möglicherweise in den nächsten Tagen verfügbar."
 
 #: wp-includes/ms-functions.php:502
 msgid "username and email used"
-msgstr "***REMOVED***utzername und E-Mail-Adresse wurden schon verwendet"
+msgstr "Benutzername und E-Mail-Adresse wurden schon verwendet"
 
 #: wp-includes/ms-functions.php:512
 msgid "That email address has already been used. Please check your inbox for an activation email. It will become available in a couple of days if you do nothing."
@@ -5465,19 +5465,19 @@ msgstr "Ungültiger Aktivierungsschlüssel."
 
 #: wp-includes/ms-functions.php:859
 msgid "Could not create user"
-msgstr "Der ***REMOVED***utzer konnte nicht erstellt werden"
+msgstr "Der Benutzer konnte nicht erstellt werden"
 
 #: wp-includes/ms-functions.php:867
 msgid "That username is already activated."
-msgstr "Dieser ***REMOVED***utzername wurde bereits aktiviert."
+msgstr "Dieser Benutzername wurde bereits aktiviert."
 
 #: wp-includes/ms-functions.php:1068
 msgid "New User Registration: %s"
-msgstr "Neue ***REMOVED***utzerregistrierung: %s"
+msgstr "Neue Benutzerregistrierung: %s"
 
 #: wp-includes/ms-functions.php:1306
 msgid "New %1$s User: %2$s"
-msgstr "Neuer %1$s ***REMOVED***utzer: %2$s"
+msgstr "Neuer %1$s Benutzer: %2$s"
 
 #: wp-includes/ms-functions.php:1849
 msgid ""
@@ -5496,10 +5496,10 @@ msgid ""
 msgstr ""
 "Hallo,\n"
 "\n"
-"dein ***REMOVED***utzerkonto wurde angelegt.\n"
+"dein Benutzerkonto wurde angelegt.\n"
 "\n"
 "Du kannst dich mit folgenden Daten einloggen: \n"
-"***REMOVED***utzername: USERNAME\n"
+"Benutzername: USERNAME\n"
 "Passwort: PASSWORD\n"
 "Login unter: LOGINLINK\n"
 "\n"
@@ -5517,7 +5517,7 @@ msgstr "Es werden Datenbank-Tabellen vermisst."
 
 #: wp-includes/pluggable.php:479
 msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
-msgstr "<strong>Fehler:</strong> Falscher ***REMOVED***utzername oder E-Mail-Adresse."
+msgstr "<strong>Fehler:</strong> Falscher Benutzername oder E-Mail-Adresse."
 
 #: wp-includes/pluggable.php:1016 wp-includes/pluggable.php:1129
 msgid "Author : %1$s (IP: %2$s , %3$s)"
@@ -5609,7 +5609,7 @@ msgstr "[%1$s] Bitte moderiere: \"%2$s\""
 
 #: wp-includes/pluggable.php:1174
 msgid "Password Lost and Changed for user: %s"
-msgstr "Passwort verloren und geändert für ***REMOVED***utzer: %s"
+msgstr "Passwort verloren und geändert für Benutzer: %s"
 
 #: wp-includes/pluggable.php:1178
 msgid "[%s] Password Lost/Changed"
@@ -5618,11 +5618,11 @@ msgstr "[%s] Passwort verloren/ändern"
 #: wp-includes/pluggable.php:1203 wp-includes/pluggable.php:1211
 #: wp-login.php:233
 msgid "Username: %s"
-msgstr "***REMOVED***utzername: %s"
+msgstr "Benutzername: %s"
 
 #: wp-includes/pluggable.php:1206
 msgid "[%s] New User Registration"
-msgstr "[%s] Registrierung eines neuen ***REMOVED***utzers"
+msgstr "[%s] Registrierung eines neuen Benutzers"
 
 #: wp-includes/pluggable.php:1212
 msgid "Password: %s"
@@ -5630,7 +5630,7 @@ msgstr "Passwort: %s"
 
 #: wp-includes/pluggable.php:1215
 msgid "[%s] Your username and password"
-msgstr "[%s] Dein ***REMOVED***utzername und Passwort"
+msgstr "[%s] Dein Benutzername und Passwort"
 
 #: wp-includes/post-template.php:110
 msgid "Protected: %s"
@@ -5778,7 +5778,7 @@ msgstr "Du hast nicht die erforderlichen Rechte, um die Entwurfsvorschau zu sehe
 
 #: wp-includes/user.php:1310
 msgid "Cannot create a user with an empty login name."
-msgstr "Ohne ***REMOVED***utzername kann kein neuer ***REMOVED***utzer angelegt werden."
+msgstr "Ohne Benutzername kann kein neuer Benutzer angelegt werden."
 
 #: wp-includes/user.php:1538
 msgid "AIM"
@@ -5860,7 +5860,7 @@ msgstr "von"
 
 #: wp-includes/script-loader.php:188
 msgid "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-msgstr "Diese Funktion ***REMOVED***ötigt Iframes. Du hast jedoch Iframes deaktiviert oder dein Browser unterstützt diese nicht."
+msgstr "Diese Funktion benötigt Iframes. Du hast jedoch Iframes deaktiviert oder dein Browser unterstützt diese nicht."
 
 #: wp-includes/script-loader.php:201
 msgid "not configured"
@@ -6021,7 +6021,7 @@ msgstr "Es fehlt ein Stylesheet."
 
 #: wp-includes/user.php:79
 msgid "<strong>ERROR</strong>: The username field is empty."
-msgstr "<strong>Fehler:</strong> Das ***REMOVED***utzerfeld ist leer."
+msgstr "<strong>Fehler:</strong> Das Benutzerfeld ist leer."
 
 #: wp-includes/user.php:82
 msgid "<strong>ERROR</strong>: The password field is empty."
@@ -6029,7 +6029,7 @@ msgstr "<strong>Fehler:</strong> Das Passwortfeld ist leer."
 
 #: wp-includes/user.php:90
 msgid "<strong>ERROR</strong>: Invalid username. <a href=\"%s\" title=\"Password Lost and Found\">Lost your password</a>?"
-msgstr "<strong>Fehler:</strong> Falscher ***REMOVED***utzername. <a href=\"%s\" title=\"Passwort zurücksetzen\">Passwort vergessen</a>?"
+msgstr "<strong>Fehler:</strong> Falscher Benutzername. <a href=\"%s\" title=\"Passwort zurücksetzen\">Passwort vergessen</a>?"
 
 #: wp-includes/user.php:95
 msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
@@ -6045,7 +6045,7 @@ msgstr "Sidebar %d"
 
 #: wp-includes/wp-db.php:1652
 msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
-msgstr "<strong>Fehler:</strong> WordPress %1$s ***REMOVED***ötigt mindestens MySQL %2$s"
+msgstr "<strong>Fehler:</strong> WordPress %1$s benötigt mindestens MySQL %2$s"
 
 #: wp-login.php:79
 msgid "Powered by WordPress"
@@ -6053,19 +6053,19 @@ msgstr "Powered by WordPress"
 
 #: wp-login.php:189
 msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
-msgstr "<strong>Fehler:</strong> ***REMOVED***utzername oder E-Mail-Adresse einge***REMOVED***"
+msgstr "<strong>Fehler:</strong> Benutzername oder E-Mail-Adresse eingeben"
 
 #: wp-login.php:193
 msgid "<strong>ERROR</strong>: There is no user registered with that email address."
-msgstr "<strong>Fehler:</strong> Es existiert kein ***REMOVED***utzer mit dieser E-Mail-Adresse"
+msgstr "<strong>Fehler:</strong> Es existiert kein Benutzer mit dieser E-Mail-Adresse"
 
 #: wp-login.php:205
 msgid "<strong>ERROR</strong>: Invalid username or e-mail."
-msgstr "<strong>Fehler:</strong> Falscher ***REMOVED***utzername oder E-Mail-Adresse."
+msgstr "<strong>Fehler:</strong> Falscher Benutzername oder E-Mail-Adresse."
 
 #: wp-login.php:219
 msgid "Password reset is not allowed for this user"
-msgstr "Für diesen ***REMOVED***utzer ist es nicht erlaubt, das Passwort zurückzusetzen."
+msgstr "Für diesen Benutzer ist es nicht erlaubt, das Passwort zurückzusetzen."
 
 #: wp-login.php:245
 msgid "[%s] Password Reset"
@@ -6105,7 +6105,7 @@ msgstr "Passwort verloren"
 
 #: wp-login.php:440
 msgid "Username or E-mail:"
-msgstr "***REMOVED***utzername oder E-Mail-Adresse:"
+msgstr "Benutzername oder E-Mail-Adresse:"
 
 #: wp-login.php:445
 msgid "Get New Password"
@@ -6145,7 +6145,7 @@ msgstr "Du hast dich erfolgreich angemeldet."
 
 #: wp-login.php:651
 msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href='http://www.google.com/cookies.html'>enable cookies</a> to use WordPress."
-msgstr "<strong>Fehler:</strong> Cookies werden von deinem Browser blockiert oder nicht unterstützt. Um WordPress zu ***REMOVED***utzen, musst du <a href='http://www.google.com/cookies.html'>Cookies erlau***REMOVED***</a>."
+msgstr "<strong>Fehler:</strong> Cookies werden von deinem Browser blockiert oder nicht unterstützt. Um WordPress zu benutzen, musst du <a href='http://www.google.com/cookies.html'>Cookies erlauben</a>."
 
 #: wp-login.php:655
 msgid "You are now logged out."
@@ -6153,7 +6153,7 @@ msgstr "Du hast dich erfolgreich abgemeldet."
 
 #: wp-login.php:657
 msgid "User registration is currently not allowed."
-msgstr "Zurzeit ist die ***REMOVED***utzer-Registrierung nicht erlaubt."
+msgstr "Zurzeit ist die Benutzer-Registrierung nicht erlaubt."
 
 #: wp-login.php:659
 msgid "Check your e-mail for the confirmation link."
@@ -6189,7 +6189,7 @@ msgstr "<strong>Autor:</strong> %s"
 
 #: wp-mail.php:218
 msgid "<strong>Posted title:</strong> %s"
-msgstr "<strong>Verge***REMOVED***er Titel:</strong> %s"
+msgstr "<strong>Vergebener Titel:</strong> %s"
 
 #: wp-mail.php:221
 msgid "Oops: %s"
@@ -6201,7 +6201,7 @@ msgstr "Datenschutz:"
 
 #: wp-signup.php:130
 msgid "(Must be at least 4 characters, letters and numbers only.)"
-msgstr "(Es müssen mindestens 4 Zeichen sein, bitte nur Buchsta***REMOVED*** und Zahlen.)"
+msgstr "(Es müssen mindestens 4 Zeichen sein, bitte nur Buchstaben und Zahlen.)"
 
 #: wp-signup.php:133
 msgid "Email&nbsp;Address:"
@@ -6209,7 +6209,7 @@ msgstr "E-Mail-Addresse:"
 
 #: wp-signup.php:166
 msgid "There was a problem, please correct the form below and try again."
-msgstr "Es trat ein Fehler auf. Bitte korrigiere die Einga***REMOVED*** und versuche es noch einmal."
+msgstr "Es trat ein Fehler auf. Bitte korrigiere die Eingaben und versuche es noch einmal."
 
 #: wp-signup.php:243
 msgid "Get your own %s account in seconds"
@@ -6217,7 +6217,7 @@ msgstr "Registriere dich in nur wenigen Sekunden bei %s."
 
 #: wp-signup.php:259
 msgid "Just a username, please."
-msgstr "Ich möche nur einen ***REMOVED***utzernamen, keine Seite."
+msgstr "Ich möche nur einen Benutzernamen, keine Seite."
 
 #: wp-signup.php:263
 msgid "Next"
@@ -6225,7 +6225,7 @@ msgstr "Nächster Schritt"
 
 #: wp-signup.php:290
 msgid "%s is your new username"
-msgstr "%s ist dein neuer ***REMOVED***utzername"
+msgstr "%s ist dein neuer Benutzername"
 
 #: wp-signup.php:291
 msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
@@ -6233,7 +6233,7 @@ msgstr "Bevor du jedoch loslegen und ihn nutzen kannst, musst du ihn erst <stron
 
 #: wp-signup.php:293
 msgid "If you do not activate your username within two days, you will have to sign up again."
-msgstr "Wenn du deinen ***REMOVED***utzernamen nicht innerhalb von zwei Tagen aktivierst, musst du dich erneut registrieren."
+msgstr "Wenn du deinen Benutzernamen nicht innerhalb von zwei Tagen aktivierst, musst du dich erneut registrieren."
 
 #: wp-signup.php:319
 msgid "Signup"
@@ -6249,7 +6249,7 @@ msgstr "Die Registrierung wurde deaktiviert."
 
 #: wp-signup.php:402
 msgid "User registration has been disabled."
-msgstr "Die ***REMOVED***utzerregistrierung wurde deaktiviert."
+msgstr "Die Benutzerregistrierung wurde deaktiviert."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:322
 #: wp-includes/js/tinymce/langs/wp-langs.php:338
@@ -6312,7 +6312,7 @@ msgstr "Über"
 
 #: wp-login.php:313
 msgid "<strong>ERROR</strong>: Please enter a username."
-msgstr "<strong>Fehler:</strong> Bitte gib einen ***REMOVED***utzernamen ein."
+msgstr "<strong>Fehler:</strong> Bitte gib einen Benutzernamen ein."
 
 #: wp-login.php:328
 msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
@@ -6475,11 +6475,11 @@ msgstr "Dein Schlüssel wurde verifiziert. Happy blogging!"
 
 #: wp-content/plugins/akismet/admin.php:137
 msgid "The key you entered is invalid. Please double-check it."
-msgstr "Der Schlüssel, den du eingege***REMOVED*** hast ist ungültig. Überprüfe ihn bitte."
+msgstr "Der Schlüssel, den du eingegeben hast ist ungültig. Überprüfe ihn bitte."
 
 #: wp-content/plugins/akismet/admin.php:138
 msgid "The key you entered could not be verified because a connection to akismet.com could not be established. Please check your server configuration."
-msgstr "Der Schlüssel, den du eingege***REMOVED*** hast, konnte nicht verifiziert werden, da keine Verbindung zu akismet.com aufgebaut werden konnte. Bitte überprüfe die Konfiguration deines Servers."
+msgstr "Der Schlüssel, den du eingegeben hast, konnte nicht verifiziert werden, da keine Verbindung zu akismet.com aufgebaut werden konnte. Bitte überprüfe die Konfiguration deines Servers."
 
 #: wp-content/plugins/akismet/admin.php:139
 msgid "There was a problem connecting to the Akismet server. Please check your server configuration."
@@ -6495,7 +6495,7 @@ msgstr "Der Schlüssel ist gültig."
 
 #: wp-content/plugins/akismet/admin.php:143
 msgid "The key below was previously validated but a connection to akismet.com can not be established at this time. Please check your server configuration."
-msgstr "Bisher war der eingege***REMOVED***e Schlüssel gültig aber jetzt kann keine Verbindung mehr zu Akismet.com hergestellt werden. Bitte überprüfe die Servereinstellungen."
+msgstr "Bisher war der eingegebene Schlüssel gültig aber jetzt kann keine Verbindung mehr zu Akismet.com hergestellt werden. Bitte überprüfe die Servereinstellungen."
 
 #: wp-content/plugins/akismet/admin.php:166
 msgid "Why might my key be invalid?"
@@ -6712,7 +6712,7 @@ msgstr "Bearbeiten"
 #: wp-includes/comment-template.php:1536
 #: wp-includes/theme-compat/comments.php:65
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr "Du musst <a href=\"%s\">angemeldet</a> sein, um einen Kommentar abzuge***REMOVED***."
+msgstr "Du musst <a href=\"%s\">angemeldet</a> sein, um einen Kommentar abzugeben."
 
 #: wp-includes/category-template.php:1017
 msgid "Tags: "
@@ -6784,7 +6784,7 @@ msgstr "Lesezeichen"
 
 #: wp-includes/capabilities.php:920
 msgid "Usage of user levels by plugins and themes is deprecated. Use roles and capabilities instead."
-msgstr "Die ***REMOVED***utzung von <code>user_level</code> in Plugins und Themes ist veraltet. Nutze stattdessen das Abfragen von <code>roles</code> oder <code>capabilities</code>."
+msgstr "Die Benutzung von <code>user_level</code> in Plugins und Themes ist veraltet. Nutze stattdessen das Abfragen von <code>roles</code> oder <code>capabilities</code>."
 
 #: wp-includes/category-template.php:414
 msgid "No categories"
@@ -7258,7 +7258,7 @@ msgstr "URL"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:527
 msgid "Enter a link URL or click above for presets."
-msgstr "Gib eine URL ein oder klicke o***REMOVED*** für eine der Vorga***REMOVED***."
+msgstr "Gib eine URL ein oder klicke oben für eine der Vorgaben."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:517
 #: wp-includes/media-template.php:203
@@ -7289,7 +7289,7 @@ msgstr "Privat"
 
 #: wp-includes/script-loader.php:387
 msgid "Public, Sticky"
-msgstr "Öffentlich, O***REMOVED*** gehalten"
+msgstr "Öffentlich, Oben gehalten"
 
 #: wp-includes/script-loader.php:381
 msgid "Schedule"
@@ -7383,7 +7383,7 @@ msgstr "(kein Titel)"
 
 #: wp-activate.php:61
 msgid "Activation Key Required"
-msgstr "Der Aktivierungsschlüssel wird ***REMOVED***ötigt"
+msgstr "Der Aktivierungsschlüssel wird benötigt"
 
 #: wp-activate.php:64
 msgid "Activation Key:"
@@ -7391,7 +7391,7 @@ msgstr "Aktivierungsschlüssel"
 
 #: wp-activate.php:80 wp-activate.php:100
 msgid "Your account is now active!"
-msgstr "Dein ***REMOVED***utzerkonto ist nun aktiviert!"
+msgstr "Dein Benutzerkonto ist nun aktiviert!"
 
 #: wp-activate.php:91
 msgid "An error occurred during the activation"
@@ -7399,7 +7399,7 @@ msgstr "Ein Fehler ist während der Anmeldung aufgetreten."
 
 #: wp-activate.php:103 wp-signup.php:125
 msgid "Username:"
-msgstr "***REMOVED***utzername:"
+msgstr "Benutzername:"
 
 #: wp-includes/post.php:1504
 msgid "No posts found."

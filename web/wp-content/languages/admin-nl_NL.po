@@ -148,7 +148,7 @@ msgstr "Afbeeldingen roteren wordt niet ondersteund door jouw hosting provider."
 
 #: wp-admin/includes/bookmark.php:285
 msgid "If you are looking to use the link manager, please install the <a href=\"%s\">Link Manager</a> plugin."
-msgstr "Als je op zoek ***REMOVED***t naar de link beheerder, installeer dan de <a href=\"%s\">Link Manager</a> plugin."
+msgstr "Als je op zoek bent naar de link beheerder, installeer dan de <a href=\"%s\">Link Manager</a> plugin."
 
 #: wp-admin/includes/dashboard.php:1291
 msgid "Manage <a href=\"%1$s\">widgets</a> or <a href=\"%2$s\">menus</a>"
@@ -160,7 +160,7 @@ msgstr "Om achtergrondsafbeeldingen te gebruik, upload deze of kies een afbeeldi
 
 #: wp-admin/custom-header.php:128
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
-msgstr "Vergeet niet op de &#8220;Wijzigingen opslaan&#8221; te klikken wanneer je klaar ***REMOVED***t!"
+msgstr "Vergeet niet op de &#8220;Wijzigingen opslaan&#8221; te klikken wanneer je klaar bent!"
 
 #: wp-admin/edit-form-advanced.php:175
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
@@ -176,7 +176,7 @@ msgstr "Verscheidene blokken op dit scherm bevatten instellingen voor de manier 
 
 #: wp-admin/edit-form-advanced.php:248
 msgid "<strong>Format</strong> - Post Formats designate how your theme will display a specific post. For example, you could have a <em>standard</em> blog post with a title and paragraphs, or a short <em>aside</em> that omits the title and contains a short text blurb. Please refer to the Codex for <a href=\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">descriptions of each post format</a>. Your theme could enable all or some of 10 possible formats."
-msgstr "<strong>Berichtformaat</strong> - Berichtformaten bepalen hoe een thema een bepaald bericht toont. Het kan bijvoorbeeld een <em>standaard</em> bericht met een titel paragrafen heb***REMOVED*** of een korte <em>aside</em> welke geen titel toont en enkel een kort stukje tekst. Meer informatie <a href=\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">over berichtformaten</a> kan gevonden worden op de Codex. Een thema kan slechts enkele of alle 10 mogelijke formats ondersteunen en/of tonnen."
+msgstr "<strong>Berichtformaat</strong> - Berichtformaten bepalen hoe een thema een bepaald bericht toont. Het kan bijvoorbeeld een <em>standaard</em> bericht met een titel paragrafen hebben of een korte <em>aside</em> welke geen titel toont en enkel een kort stukje tekst. Meer informatie <a href=\"http://codex.wordpress.org/Post_Formats#Supported_Formats\">over berichtformaten</a> kan gevonden worden op de Codex. Een thema kan slechts enkele of alle 10 mogelijke formats ondersteunen en/of tonnen."
 
 #: wp-admin/edit-form-advanced.php:259
 msgid "Publish Settings"
@@ -184,7 +184,7 @@ msgstr "Instellingen publiceren"
 
 #: wp-admin/edit-tags.php:221
 msgid "<strong>Parent</strong> - Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have child categories for Bebop and Big Band. Totally optional. To create a subcategory, just choose another category from the Parent dropdown."
-msgstr "<strong>Hoofd</strong> - Categorie&#235;n kunnen, in tegenstelling tot tags, een hi&#235;rarchie heb***REMOVED***. Binnen de categorie Muziek zouden de subcategorie&#235;n Classic Rock en Hardrock kunnen bestaan. Dit is volledig optioneel, waarbij het de keuze is voor de gebruiker. Om een subcategorie aan te maken, kies een andere categorie in het Hoofd dropdown menu."
+msgstr "<strong>Hoofd</strong> - Categorie&#235;n kunnen, in tegenstelling tot tags, een hi&#235;rarchie hebben. Binnen de categorie Muziek zouden de subcategorie&#235;n Classic Rock en Hardrock kunnen bestaan. Dit is volledig optioneel, waarbij het de keuze is voor de gebruiker. Om een subcategorie aan te maken, kies een andere categorie in het Hoofd dropdown menu."
 
 #: wp-admin/index.php:64
 msgid "<strong>Box Controls</strong> - Click the title bar of the box to expand or collapse it. In addition, some boxes have configurable content, and will show a &#8220;Configure&#8221; link in the title bar if you hover over it."
@@ -200,11 +200,11 @@ msgstr " Als je thema nog geen aan te passen menu-functionaliteit ondersteunt (d
 
 #: wp-admin/nav-menus.php:449
 msgid "To create a new custom menu, click on the + tab, give the menu a name, and click Create Menu. Next, add menu items from the appropriate boxes. You&#8217;ll be able to edit the information for each menu item, and can drag and drop to change their order. You can also drag a menu item a little to the right to make it a submenu. Don&#8217;t forget to click Save Menu when you&#8217;re finished."
-msgstr "Om een aangepast menu te maken, klik op de + tab, geef het menu een naam en klik &#39;Maak menu&#39;. Vervolgens voeg je de menu-items toe vanaf de boxen aan de linkerkant. Je hebt de mogelijkheid de informatie te wijzigen van elk menu-item en je kunt via drag en drop de volgorde wijzigen. Je kunt ook een menu-item een beetje naar rechts slepen om er een submenu van te maken. Vergeet niet op &#39;Menu opslaan&#39; te klikken als je klaar ***REMOVED***t."
+msgstr "Om een aangepast menu te maken, klik op de + tab, geef het menu een naam en klik &#39;Maak menu&#39;. Vervolgens voeg je de menu-items toe vanaf de boxen aan de linkerkant. Je hebt de mogelijkheid de informatie te wijzigen van elk menu-item en je kunt via drag en drop de volgorde wijzigen. Je kunt ook een menu-item een beetje naar rechts slepen om er een submenu van te maken. Vergeet niet op &#39;Menu opslaan&#39; te klikken als je klaar bent."
 
 #: wp-admin/widgets.php:62
 msgid "When changing themes, there is often some variation in the number and setup of widget areas/sidebars and sometimes these conflicts make the transition a bit less smooth. If you changed themes and seem to be missing widgets, scroll down on this screen to the Inactive Widgets area, where all of your widgets and their settings will have been saved."
-msgstr "Als thema&#39;s gewijzigd worden, zijn er vaak ook wijzigingen in het aantal en de setup van de widgetruimten en zijmenu&#39;s welke soms met elkaar in conflict komen, waardoor de overgang minder vlot verloopt. Als je een ander thema instelt en er lijken widgets te ontbreken, scroll dan naar ***REMOVED***eden naar de inactieve widgets, daar zijn alle widgets en hun instellingen opgeslagen."
+msgstr "Als thema&#39;s gewijzigd worden, zijn er vaak ook wijzigingen in het aantal en de setup van de widgetruimten en zijmenu&#39;s welke soms met elkaar in conflict komen, waardoor de overgang minder vlot verloopt. Als je een ander thema instelt en er lijken widgets te ontbreken, scroll dan naar beneden naar de inactieve widgets, daar zijn alle widgets en hun instellingen opgeslagen."
 
 #: wp-admin/includes/media.php:2205
 msgid "You are using the multi-file uploader. Problems? Try the <a href=\"%1$s\" target=\"%2$s\">browser uploader</a> instead."
@@ -432,7 +432,7 @@ msgstr "Het is aan de zoekmachines of ze gehoor geven aan dit verzoek."
 
 #: wp-admin/plugin-install.php:48
 msgid "If you know what you&#8217;re looking for, Search is your best bet. The Search screen has options to search the WordPress.org Plugin Directory for a particular Term, Author, or Tag. You can also search the directory by selecting popular tags. Tags in larger type mean more plugins have been labeled with that tag."
-msgstr "Als je weet waar je precies naar op zoek ***REMOVED***t dan is Zoeken je best optie. Het Zoek scherm heeft opties om in de WordPress.org Plugin lijst op een specifieke term, auteur of tag te zoeken. Je kunt de lijst ook doorzoeken via de populaire tags. Tags betekent in deze context dat meerdere plugins die tag toegevoegd heb***REMOVED***."
+msgstr "Als je weet waar je precies naar op zoek bent dan is Zoeken je best optie. Het Zoek scherm heeft opties om in de WordPress.org Plugin lijst op een specifieke term, auteur of tag te zoeken. Je kunt de lijst ook doorzoeken via de populaire tags. Tags betekent in deze context dat meerdere plugins die tag toegevoegd hebben."
 
 #: wp-admin/plugin-install.php:50
 msgid "You can also browse a user&#8217;s favorite plugins, by using the Favorites link in the upper left of the screen and entering their WordPress.org username."
@@ -448,7 +448,7 @@ msgstr "Als er om wat voor reden dan ook bestanden niet automatisch aangemaakt k
 
 #: wp-admin/setup-config.php:131
 msgid "Below you should enter your database connection details. If you&#8217;re not sure about these, contact your host."
-msgstr "Onderstaand moet je de database verbindingsgegevens invullen. Als je niet zeker ***REMOVED***t van de gegevens, neem dan contact op met je webhost."
+msgstr "Onderstaand moet je de database verbindingsgegevens invullen. Als je niet zeker bent van de gegevens, neem dan contact op met je webhost."
 
 #: wp-admin/setup-config.php:260
 msgid "Sorry, but I can&#8217;t write the <code>wp-config.php</code> file."
@@ -460,7 +460,7 @@ msgstr "Wanneer je dit hebt gedaan, klik &#8220;Starten met installeren.&#8221;"
 
 #: wp-admin/setup-config.php:286
 msgid "All right sparky! You&#8217;ve made it through this part of the installation. WordPress can now communicate with your database. If you are ready, time now to&hellip;"
-msgstr "Helemaal goed vriend! Dit deel van de installatie is succesvol verlopen. WordPress kan communiceren met de database. Wanneer je klaar ***REMOVED***t, ga verder&hellip;"
+msgstr "Helemaal goed vriend! Dit deel van de installatie is succesvol verlopen. WordPress kan communiceren met de database. Wanneer je klaar bent, ga verder&hellip;"
 
 #: wp-admin/themes.php:111
 msgid "Settings saved and theme activated. <a href=\"%s\">Visit site</a>"
@@ -768,7 +768,7 @@ msgstr "%s voorvertonen"
 
 #: wp-admin/tools.php:22
 msgid "Categories have hierarchy, meaning that you can nest sub-categories. Tags do not have hierarchy and cannot be nested. Sometimes people start out using one on their posts, then later realize that the other would work better for their content."
-msgstr "Categorie&#235;n heb***REMOVED*** een hi&#235;rarchie, wat betekent dat ze ondergebracht kunnen worden in subcategorie&#235;n. Tags heb***REMOVED*** geen hi&#235;rarchie en kunnen niet genest worden. Soms starten mensen met gebruik van &#233;&#233;n van deze op hun berichten, terwijl ze later bedenken dat de andere beter werkt voor hun inhoud."
+msgstr "Categorie&#235;n hebben een hi&#235;rarchie, wat betekent dat ze ondergebracht kunnen worden in subcategorie&#235;n. Tags hebben geen hi&#235;rarchie en kunnen niet genest worden. Soms starten mensen met gebruik van &#233;&#233;n van deze op hun berichten, terwijl ze later bedenken dat de andere beter werkt voor hun inhoud."
 
 #: wp-admin/tools.php:23
 msgid "The Categories and Tags Converter link on this screen will take you to the Import screen, where that Converter is one of the plugins you can install. Once that plugin is installed, the Activate Plugin &amp; Run Importer link will take you to a screen where you can choose to convert tags into categories or vice versa."
@@ -794,7 +794,7 @@ msgstr "Je kunt kiezen uit de standaard afbeeldingen van een thema, of je kunt e
 
 #: wp-admin/custom-header.php:117
 msgid "Some themes come with additional header images bundled. If you see multiple images displayed, select the one you&#8217;d like and click the &#8220;Save Changes&#8221; button."
-msgstr "Sommige thema&#8217; heb***REMOVED*** zelf header afbeeldingen toegevoegd. Wanneer je meerdere afbeeldingen ziet, selecteer dan degene die je wilt en klik op de &#8220;Opslaan&#8221; knop."
+msgstr "Sommige thema&#8217; hebben zelf header afbeeldingen toegevoegd. Wanneer je meerdere afbeeldingen ziet, selecteer dan degene die je wilt en klik op de &#8220;Opslaan&#8221; knop."
 
 #: wp-admin/custom-header.php:118
 msgid "If your theme has more than one default header image, or you have uploaded more than one custom header image, you have the option of having WordPress display a randomly different image on each page of your site. Click the &#8220;Random&#8221; radio button next to the Uploaded Images or Default Images section to enable this feature."
@@ -840,7 +840,7 @@ msgstr "Thema zoeken op basis van specifieke kenmerken."
 
 #: wp-admin/setup-config.php:121
 msgid "In all likelihood, these items were supplied to you by your Web Host. If you do not have this information, then you will need to contact them before you can continue. If you&#8217;re all ready&hellip;"
-msgstr "Hoogstwaarschijnlijk zijn deze items toegevoegd door je webhoster. Als je deze informatie niet hebt, dan zul je eerst contact met hun op moeten nemen voordat je verder kunt. Als je helemaal klaar ***REMOVED***t&hellip; "
+msgstr "Hoogstwaarschijnlijk zijn deze items toegevoegd door je webhoster. Als je deze informatie niet hebt, dan zul je eerst contact met hun op moeten nemen voordat je verder kunt. Als je helemaal klaar bent&hellip; "
 
 #: wp-admin/theme-editor.php:164
 msgid "This theme is broken."
@@ -1235,7 +1235,7 @@ msgstr "Jouw sites"
 
 #: wp-admin/includes/ms.php:442
 msgid "If you reached this screen by accident and meant to visit one of your own sites, here are some shortcuts to help you find your way."
-msgstr "Als je per ongeluk op dit scherm terechtgekomen ***REMOVED***t en je dacht &#233;&#233;n van je eigen sites te bezoeken, hier zijn enkele snelkoppelingen die je kunnen helpen de weg te vinden."
+msgstr "Als je per ongeluk op dit scherm terechtgekomen bent en je dacht &#233;&#233;n van je eigen sites te bezoeken, hier zijn enkele snelkoppelingen die je kunnen helpen de weg te vinden."
 
 #: wp-admin/includes/class-wp-ms-users-list-table.php:77
 msgctxt "user"
@@ -1267,7 +1267,7 @@ msgstr "Als spam markeren"
 
 #: wp-admin/includes/ms.php:439 wp-admin/includes/ms.php:441
 msgid "You attempted to access the \"%1$s\" dashboard, but you do not currently have privileges on this site. If you believe you should be able to access the \"%1$s\" dashboard, please contact your network administrator."
-msgstr "Je probeert toegang te krijgen tot het \"%1$s\" dashboard, maar je hebt momenteel onvoldoende rechten op deze site. Als je denkt dat je toegang moet heb***REMOVED*** op het \"%1$s\" dashboard, neem dan contact op met je netwerk admin."
+msgstr "Je probeert toegang te krijgen tot het \"%1$s\" dashboard, maar je hebt momenteel onvoldoende rechten op deze site. Als je denkt dat je toegang moet hebben op het \"%1$s\" dashboard, neem dan contact op met je netwerk admin."
 
 #: wp-admin/includes/ms.php:359
 msgid "MB (Leave blank for network default)"
@@ -1378,7 +1378,7 @@ msgstr "WordPress &rsaquo; Setup configuratiebestand"
 
 #: wp-admin/setup-config.php:112
 msgid "Welcome to WordPress. Before getting started, we need some information on the database. You will need to know the following items before proceeding."
-msgstr "Welkom bij WordPress. Voordat we kunnen starten heb***REMOVED*** we wat informatie nodig over de database. Je moet de volgende informatie heb***REMOVED*** voordat we verder kunnen gaan."
+msgstr "Welkom bij WordPress. Voordat we kunnen starten hebben we wat informatie nodig over de database. Je moet de volgende informatie hebben voordat we verder kunnen gaan."
 
 #: wp-admin/setup-config.php:114
 msgid "Database name"
@@ -1718,7 +1718,7 @@ msgstr "Als je de categorie&#235;n wilt converteren naar tags(of andersom), gebr
 
 #: wp-admin/user-new.php:155
 msgid "Remember to click the Add New User button at the bottom of this screen when you are finished."
-msgstr "Denk erom, als je klaar ***REMOVED***t, de Gebruiker toevoegen knop te klikken aan de onderkant van dit scherm."
+msgstr "Denk erom, als je klaar bent, de Gebruiker toevoegen knop te klikken aan de onderkant van dit scherm."
 
 #: wp-admin/export.php:135
 msgid "Once you&#8217;ve saved the download file, you can use the Import function in another WordPress installation to import the content from this site."
@@ -1894,7 +1894,7 @@ msgstr "Verwijderen en opnieuw gebruiken"
 
 #: wp-admin/edit-tags.php:195
 msgid "You can assign keywords to your posts using <strong>tags</strong>. Unlike categories, tags have no hierarchy, meaning there&#8217;s no relationship from one tag to another."
-msgstr "Je kunt sleutelwoorden aan je berichten meegeven met gebruik van <strong>tags</strong>. Anders dan in categorie&#235;n heb***REMOVED*** tags geen hi&#235;rarchie, dit betekent dat er geen relatie hoeft te zijn tussen de ene tag en de andere."
+msgstr "Je kunt sleutelwoorden aan je berichten meegeven met gebruik van <strong>tags</strong>. Anders dan in categorie&#235;n hebben tags geen hi&#235;rarchie, dit betekent dat er geen relatie hoeft te zijn tussen de ene tag en de andere."
 
 #: wp-admin/widgets.php:59
 msgid "Missing Widgets"
@@ -1938,7 +1938,7 @@ msgstr "Alle bestanden die geupload zijn bevinden zich in de media bibliotheek, 
 
 #: wp-admin/edit.php:201
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr "Pagina&#39;s zijn gelijk aan berichten op een manier van dat ze een titel, tekstinhoud en geassocieerde metadata bevatten. Ze zijn echter verschillend omdat ze geen deel uitmaken van de chronologische sitestream, je kunt het vergelijken met statische berichten. Pagina&#39;s heb***REMOVED*** geen categorie of tags, maar ze kunnen wel een hi&#235;rarchie bevatten. Pagina&#39;s kunnen genest worden door er &#233;&#233;n &#8220;Hoofd&#8221; te maken van de ander, bij het maken van een groep pagina&#39;s."
+msgstr "Pagina&#39;s zijn gelijk aan berichten op een manier van dat ze een titel, tekstinhoud en geassocieerde metadata bevatten. Ze zijn echter verschillend omdat ze geen deel uitmaken van de chronologische sitestream, je kunt het vergelijken met statische berichten. Pagina&#39;s hebben geen categorie of tags, maar ze kunnen wel een hi&#235;rarchie bevatten. Pagina&#39;s kunnen genest worden door er &#233;&#233;n &#8220;Hoofd&#8221; te maken van de ander, bij het maken van een groep pagina&#39;s."
 
 #: wp-admin/edit-comments.php:128
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -2018,7 +2018,7 @@ msgstr "WordPress is gemaakt door een wereldwijd team van enhousiaste en gepassi
 
 #: wp-admin/includes/template.php:1765
 msgid "We&#8217;ve combined the admin bar and the old Dashboard header into one persistent toolbar. Hover over the toolbar items to see what&#8217;s new."
-msgstr "We heb***REMOVED*** de toolbar en de oude Dashboard header in een blijvende toolbar gecombineerd. Hover over de toolbaritems om te zien wat er nieuw is."
+msgstr "We hebben de toolbar en de oude Dashboard header in een blijvende toolbar gecombineerd. Hover over de toolbaritems om te zien wat er nieuw is."
 
 #: wp-admin/includes/template.php:1789
 msgid "New Feature: Saving Widgets"
@@ -2068,7 +2068,7 @@ msgid ""
 msgstr ""
 "Hallo,\n"
 "\n"
-"Je ***REMOVED***t uitgenodigd mee te doen met '%1$s' op\n"
+"Je bent uitgenodigd mee te doen met '%1$s' op\n"
 "%2$s met de rol van%3$s.\n"
 "\n"
 "Klik op de volgende link om de uitnodiging te bevestigen:\n"
@@ -2531,7 +2531,7 @@ msgstr "Websitetaal"
 
 #: wp-admin/options-discussion.php:47
 msgid "Attempt to notify any blogs linked to from the article"
-msgstr "Probeer elk ander blog gelinkt in dit artikel te ***REMOVED***aderen"
+msgstr "Probeer elk ander blog gelinkt in dit artikel te benaderen"
 
 #: wp-admin/user-new.php:24
 msgid ""
@@ -2545,7 +2545,7 @@ msgid ""
 "%%s"
 msgstr ""
 "Hallo,\n"
-"Je ***REMOVED***t uitgenodigd mee te doen met '%1$s' op\n"
+"Je bent uitgenodigd mee te doen met '%1$s' op\n"
 "%2$s met de rol %3$s.\n"
 "Als je niet wilt meedoen met deze site negeer \n"
 "deze e-amil. Deze uitnodiging vervalt binnen een paar dagen.\n"
@@ -2773,8 +2773,8 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "Je hebt de vrijheid om kopie&#235;n van het oorspronkelijke programma te distribueren om zo mensen te helpen."
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
-msgstr "Je ***REMOVED***t vrij om kopie&#235;n te verspreiden van je aangepaste versies aan anderen. Als je dit doet, kan je de hele community de kans geven om te profiteren van je aanpassingen. "
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
+msgstr "Je bent vrij om kopie&#235;n te verspreiden van je aangepaste versies aan anderen. Als je dit doet, kan je de hele community de kans geven om te profiteren van je aanpassingen. "
 
 #: wp-admin/includes/dashboard.php:33
 msgid "You are using an insecure browser!"
@@ -3048,7 +3048,7 @@ msgstr "Bestaande gebruiker toevoegen"
 
 #: wp-admin/options-writing.php:28 wp-admin/tools.php:17
 msgid "Press This is a bookmarklet that makes it easy to blog about something you come across on the web. You can use it to just grab a link, or to post an excerpt. Press This will even allow you to choose from images included on the page and use them in your post. Just drag the Press This link on this screen to your bookmarks bar in your browser, and you&#8217;ll be on your way to easier content creation. Clicking on it while on another website opens a popup window with all these options."
-msgstr "&#39;Publiceer dit&#39; is een favoriet welke het eenvoudig maakt om iets te publiceren wat je op het web tegenkomt. Je kunt het gebruiken voor een link, of om een samenvatting te plaatsen. &#39;Publiceer dit&#39; laat je ook kiezen om afbeeldingen die zich op een pagina bevinden te gebruiken in je bericht. Sleep de &#39;Publiceer dit&#39; link op dit scherm naar je favorieten balk in je browser en je ***REMOVED***t op weg om op een eenvoudige manier content te maken. Je kunt deze opties gebruiken door erop te klikken terwijl een andere site in een popup venster opent."
+msgstr "&#39;Publiceer dit&#39; is een favoriet welke het eenvoudig maakt om iets te publiceren wat je op het web tegenkomt. Je kunt het gebruiken voor een link, of om een samenvatting te plaatsen. &#39;Publiceer dit&#39; laat je ook kiezen om afbeeldingen die zich op een pagina bevinden te gebruiken in je bericht. Sleep de &#39;Publiceer dit&#39; link op dit scherm naar je favorieten balk in je browser en je bent op weg om op een eenvoudige manier content te maken. Je kunt deze opties gebruiken door erop te klikken terwijl een andere site in een popup venster opent."
 
 #: wp-admin/plugin-editor.php:129
 msgid "<a href=\"http://codex.wordpress.org/Writing_a_Plugin\" target=\"_blank\">Documentation on Writing Plugins</a>"
@@ -3273,7 +3273,7 @@ msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blan
 
 #: wp-admin/widgets.php:47
 msgid "The Available Widgets section contains all the widgets you can choose from. Once you drag a widget into a sidebar, it will open to allow you to configure its settings. When you are happy with the widget settings, click the Save button and the widget will go live on your site. If you click Delete, it will remove the widget."
-msgstr "De beschikbare widgets sectie bevat alle widgets waaruit je kunt kiezen. Op het moment dat je een widget naar een sidebar sleept, zal deze openen zodat je de instellingen kunt configureren. Als je tevreden ***REMOVED***t met de widgetsinstellingen, klik je op Opslaan en zal de widget op je site worden getoond. Als je op Verwijderen klikt, zal de widget worden verwijderd."
+msgstr "De beschikbare widgets sectie bevat alle widgets waaruit je kunt kiezen. Op het moment dat je een widget naar een sidebar sleept, zal deze openen zodat je de instellingen kunt configureren. Als je tevreden bent met de widgetsinstellingen, klik je op Opslaan en zal de widget op je site worden getoond. Als je op Verwijderen klikt, zal de widget worden verwijderd."
 
 #: wp-admin/edit-form-advanced.php:222 wp-admin/media.php:78
 msgid "Remember to click Update Media to save metadata entered or changed."
@@ -3583,7 +3583,7 @@ msgstr "Je kunt extra plugins vinden voor je site met behulp van de <a href=\"%1
 
 #: wp-admin/edit-link-form.php:48
 msgid "XFN stands for <a href=\"http://gmpg.org/xfn/\" target=\"_blank\">XHTML Friends Network</a>, which is optional. WordPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
-msgstr "XFN staat voor <a href=\"http://gmpg.org/xfn/\" target=\"_blank\">XHTML Friends Network</a>, deze is optioneel. WordPress accepteert het genereren van XFN attributen om te laten zien hoe je gerelateerd ***REMOVED***t aan de auteurs/eigenaars van de site waar je naar linkt."
+msgstr "XFN staat voor <a href=\"http://gmpg.org/xfn/\" target=\"_blank\">XHTML Friends Network</a>, deze is optioneel. WordPress accepteert het genereren van XFN attributen om te laten zien hoe je gerelateerd bent aan de auteurs/eigenaars van de site waar je naar linkt."
 
 #: wp-admin/plugins.php:355
 msgid "<a href=\"http://codex.wordpress.org/Managing_Plugins#Plugin_Management\" target=\"_blank\">Documentation on Managing Plugins</a>"
@@ -3691,7 +3691,7 @@ msgstr "Je profiel bevat informatie over jou (jouw &#8220;account&#8221;) evenal
 
 #: wp-admin/edit-form-advanced.php:199
 msgid "Pages are similar to Posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest Pages under other Pages by making one the &#8220;Parent&#8221; of the other, creating a group of Pages."
-msgstr "Pagina&#39;s zijn vergelijkbaar met berichten. Ze heb***REMOVED*** een titel, body tekst, en de bijbehorende metadata, het verschil zit erin dat zij geen deel uitmaken van de chronologische site stroom, net zoiets als permanente berichten. Pagina&#39;s worden niet gecategoriseerd of getagd, maar kunnen een hi&#235;rarchie heb***REMOVED***. Je kunt pagina&#39;s onder andere pagina&#39;s onderbrengen (nesten) door een pagina &#34;hoofd&#34; te maken van een andere pagina, en zo pagina&#39;s te groeperen."
+msgstr "Pagina&#39;s zijn vergelijkbaar met berichten. Ze hebben een titel, body tekst, en de bijbehorende metadata, het verschil zit erin dat zij geen deel uitmaken van de chronologische site stroom, net zoiets als permanente berichten. Pagina&#39;s worden niet gecategoriseerd of getagd, maar kunnen een hi&#235;rarchie hebben. Je kunt pagina&#39;s onder andere pagina&#39;s onderbrengen (nesten) door een pagina &#34;hoofd&#34; te maken van een andere pagina, en zo pagina&#39;s te groeperen."
 
 #: wp-admin/edit-form-advanced.php:263
 msgid "<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
@@ -3703,7 +3703,7 @@ msgstr "Bijdragers kunnen berichten schrijven en beheren maar niet publiceren en
 
 #: wp-admin/user-new.php:168
 msgid "Administrators have access to all the administration features."
-msgstr "Beheerders heb***REMOVED*** toegang tot alle administratieve eigenschappen."
+msgstr "Beheerders hebben toegang tot alle administratieve eigenschappen."
 
 #: wp-admin/plugin-editor.php:120
 msgid "The Documentation menu below the editor lists the PHP functions recognized in the plugin file. Clicking Lookup takes you to a web page about that particular function."
@@ -3727,7 +3727,7 @@ msgstr "Het bijwerken van de WordPress installatie is een simpele actie; klik op
 
 #: wp-admin/custom-background.php:93
 msgid "Don&#8217;t forget to click on the Save Changes button when you are finished."
-msgstr "Vergeet niet op de Wijzigingen opslaan-knop te klikken als je klaar ***REMOVED***t."
+msgstr "Vergeet niet op de Wijzigingen opslaan-knop te klikken als je klaar bent."
 
 #: wp-admin/custom-background.php:90
 msgid "You can customize the look of your site without touching any of your theme&#8217;s code by using a custom background. Your background can be an image or a color."
@@ -3751,7 +3751,7 @@ msgstr "Verplichte velden zijn aangegeven; de overige velden zijn optioneel. Pro
 
 #: wp-admin/user-edit.php:43
 msgid "Remember to click the Update Profile button when you are finished."
-msgstr "Let op dat je de profiel bijwerken-knop klikt zodra je klaar ***REMOVED***t."
+msgstr "Let op dat je de profiel bijwerken-knop klikt zodra je klaar bent."
 
 #: wp-admin/user-new.php:169
 msgid "Editors can publish posts, manage posts as well as manage other people&#8217;s posts, etc."
@@ -3783,7 +3783,7 @@ msgstr "Met de velden op dit scherm worden enkele basis instellingen voor je sit
 
 #: wp-admin/options-reading.php:56
 msgid "This screen contains the settings that affect the display of your content."
-msgstr "Dit scherm bevat de instellingen die effect heb***REMOVED*** op de weergave van de inhoud."
+msgstr "Dit scherm bevat de instellingen die effect hebben op de weergave van de inhoud."
 
 #: wp-admin/options-discussion.php:22 wp-admin/options-general.php:69
 #: wp-admin/options-media.php:24 wp-admin/options-permalink.php:23
@@ -3798,7 +3798,7 @@ msgstr "De WordPress URL en de site URL kunnen hetzelfde zijn (voorbeeld.com) of
 
 #: wp-admin/edit-link-form.php:47
 msgid "The boxes for link name, web address, and description have fixed positions, while the others may be repositioned using drag and drop. You can also hide boxes you don&#8217;t use in the Screen Options tab, or minimize boxes by clicking on the title bar of the box."
-msgstr "De vakken voor de naam van de link, het webadres en de beschrijving heb***REMOVED*** een vaste plaats, terwijl je de andere kunt verslepen d.m.v. drag en drop. Je kunt de vakken die je niet gebruikt verbergen in de Scherminstellingen tab, of de vakken minimaliseren door op de titelbalk van de box te klikken."
+msgstr "De vakken voor de naam van de link, het webadres en de beschrijving hebben een vaste plaats, terwijl je de andere kunt verslepen d.m.v. drag en drop. Je kunt de vakken die je niet gebruikt verbergen in de Scherminstellingen tab, of de vakken minimaliseren door op de titelbalk van de box te klikken."
 
 #: wp-admin/update-core.php:161
 msgid "While your site is being updated, it will be in maintenance mode. As soon as your updates are complete, your site will return to normal."
@@ -3883,7 +3883,7 @@ msgstr "Je kunt hoe dit scherm er uit zien aanpassen door gebruik te maken van h
 
 #: wp-admin/plugin-editor.php:119
 msgid "Choose a plugin to edit from the menu in the upper right and click the Select button. Click once on any file name to load it in the editor, and make your changes. Don&#8217;t forget to save your changes (Update File) when you&#8217;re finished."
-msgstr "Kies een plugin om te bewerken uit het menu rechtsboven en klik op de Selecteren knop. Klik eenmaal op een bestandsnaam om het in de editor te laden en maak je wijzigingen. Vergeet niet je wijzigingen op te slaan (Bestand bijwerken) als je klaar ***REMOVED***t."
+msgstr "Kies een plugin om te bewerken uit het menu rechtsboven en klik op de Selecteren knop. Klik eenmaal op een bestandsnaam om het in de editor te laden en maak je wijzigingen. Vergeet niet je wijzigingen op te slaan (Bestand bijwerken) als je klaar bent."
 
 #: wp-admin/plugins.php:349
 msgid "Most of the time, plugins play nicely with the core of WordPress and with other plugins. Sometimes, though, a plugin&#8217;s code will get in the way of another plugin, causing compatibility issues. If your site starts doing strange things, this may be the problem. Try deactivating all your plugins and re-activating them in various combinations until you isolate which one(s) caused the issue."
@@ -3935,11 +3935,11 @@ msgstr "(geen hoofd)"
 
 #: wp-admin/edit-form-advanced.php:273
 msgid "<strong>Template</strong> - Some themes have custom templates you can use for certain pages that might have additional features or custom layouts. If so, you&#8217;ll see them in this dropdown menu."
-msgstr "<strong>Template</strong> - Sommige thema&#39;s heb***REMOVED*** aangepaste templates die je kunt gebruiken voor bepaalde pagina&#39;s met extra functies of aangepaste lay-outs. Als dit het geval is, vind je deze in dit dropdown menu."
+msgstr "<strong>Template</strong> - Sommige thema&#39;s hebben aangepaste templates die je kunt gebruiken voor bepaalde pagina&#39;s met extra functies of aangepaste lay-outs. Als dit het geval is, vind je deze in dit dropdown menu."
 
 #: wp-admin/edit-form-advanced.php:272
 msgid "<strong>Parent</strong> - You can arrange your pages in hierarchies. For example, you could have an &#8220;About&#8221; page that has &#8220;Life Story&#8221; and &#8220;My Dog&#8221; pages under it. There are no limits to how many levels you can nest pages."
-msgstr "<strong>Hoofd</strong> - Je kunt de pagina&#39;s in hi&#235;rarchie&#235;n onderbrengen (nesten). Je kunt bijvoorbeeld een &#8220;Over mij&#8221; pagina heb***REMOVED*** met daaronder de pagina&#39;s &#8220;Levensverhaal&#8221; en &#8220;Mijn hond&#8221;. Er zijn geen limieten op het aantal niveau&#39;s waarin pagina&#39;s genest kunnen zijn."
+msgstr "<strong>Hoofd</strong> - Je kunt de pagina&#39;s in hi&#235;rarchie&#235;n onderbrengen (nesten). Je kunt bijvoorbeeld een &#8220;Over mij&#8221; pagina hebben met daaronder de pagina&#39;s &#8220;Levensverhaal&#8221; en &#8220;Mijn hond&#8221;. Er zijn geen limieten op het aantal niveau&#39;s waarin pagina&#39;s genest kunnen zijn."
 
 #: wp-admin/includes/class-wp-upgrader.php:1237
 msgid "All updates have been completed."
@@ -4348,7 +4348,7 @@ msgstr "Nieuw menu toevoegen"
 
 #: wp-admin/nav-menus.php:584
 msgid "When you have finished building your custom menu, make sure you click the Save Menu button."
-msgstr "Als je klaar ***REMOVED***t met het maken van je aangepaste menu, vergeet dan niet om op menu opslaan te klikken."
+msgstr "Als je klaar bent met het maken van je aangepaste menu, vergeet dan niet om op menu opslaan te klikken."
 
 #: wp-admin/nav-menus.php:583
 msgid "After you have added your items, drag and drop to put them in the order you want. You can also click each item to reveal additional configuration options."
@@ -4631,7 +4631,7 @@ msgstr "Nee bedankt, herinner mij hier niet meer aan."
 
 #: wp-admin/post.php:231
 msgid "You are not allowed to move this item out of the Trash."
-msgstr "Je ***REMOVED***t niet geautoriseerd om dit item uit de prullenbak terug te halen."
+msgstr "Je bent niet geautoriseerd om dit item uit de prullenbak terug te halen."
 
 #: wp-admin/post.php:250 wp-admin/post.php:253
 msgid "Error in deleting."
@@ -4643,7 +4643,7 @@ msgstr "Fout tijdens herstellen vanuit de prullenbak."
 
 #: wp-admin/edit.php:94
 msgid "You are not allowed to restore this item from the Trash."
-msgstr "Je ***REMOVED***t niet geautoriseerd om dit item te herstellen uit de prullenbak."
+msgstr "Je bent niet geautoriseerd om dit item te herstellen uit de prullenbak."
 
 #: wp-admin/edit.php:84 wp-admin/post.php:221
 msgid "Error in moving to Trash."
@@ -4663,7 +4663,7 @@ msgstr[1] "%s reacties verplaatst naar de prullenbak."
 
 #: wp-admin/edit.php:81 wp-admin/post.php:218
 msgid "You are not allowed to move this item to the Trash."
-msgstr "Je ***REMOVED***t niet geautoriseerd om dit item te verplaatsen naar de prullenbak."
+msgstr "Je bent niet geautoriseerd om dit item te verplaatsen naar de prullenbak."
 
 #: wp-admin/edit.php:255
 msgid "Item restored from the Trash."
@@ -5420,7 +5420,7 @@ msgstr "Je e-mailadres"
 
 #: wp-admin/install.php:132
 msgid "Double-check your email address before continuing."
-msgstr "Ga pas verder als je <strong>absoluut zeker</strong> ***REMOVED***t dat je e-mailadres goed is ingevuld!"
+msgstr "Ga pas verder als je <strong>absoluut zeker</strong> bent dat je e-mailadres goed is ingevuld!"
 
 #: wp-admin/install.php:139
 msgid "Install WordPress"
@@ -5436,7 +5436,7 @@ msgstr "Welkom bij het beroemde vijf-minuten-installatieproces van WordPress! Al
 
 #: wp-admin/install.php:180
 msgid "Information needed"
-msgstr "***REMOVED***odigde informatie"
+msgstr "Benodigde informatie"
 
 #: wp-admin/install.php:181
 msgid "Please provide the following information. Don&#8217;t worry, you can always change these settings later."
@@ -5452,7 +5452,7 @@ msgstr "Gelukt!"
 
 #: wp-admin/install.php:229
 msgid "WordPress has been installed. Were you expecting more steps? Sorry to disappoint."
-msgstr "WordPress is ge&#239;nstalleerd. Had je meer stappen verwacht? Helaas, meer heb***REMOVED*** we niet..."
+msgstr "WordPress is ge&#239;nstalleerd. Had je meer stappen verwacht? Helaas, meer hebben we niet..."
 
 #: wp-admin/link-add.php:15
 msgid "Add New Link"
@@ -5718,7 +5718,7 @@ msgstr "Een administrator moet de reactie altijd toelaten"
 
 #: wp-admin/options-discussion.php:141
 msgid "Comment author must have a previously approved comment"
-msgstr "De afzender moet een eerder toegelaten reactie geplaatst heb***REMOVED***"
+msgstr "De afzender moet een eerder toegelaten reactie geplaatst hebben"
 
 #: wp-admin/options-discussion.php:145 wp-admin/options-discussion.php:146
 msgid "Comment Moderation"
@@ -6124,7 +6124,7 @@ msgstr "Bestand met succes bewerkt."
 
 #: wp-admin/plugin-editor.php:157
 msgid "This plugin has been deactivated because your changes resulted in a <strong>fatal error</strong>."
-msgstr "Deze plugin is gedeactiveerd omdat je wijzigingen een <strong>fatale fout</strong> heb***REMOVED*** veroorzaakt."
+msgstr "Deze plugin is gedeactiveerd omdat je wijzigingen een <strong>fatale fout</strong> hebben veroorzaakt."
 
 #: wp-admin/plugin-editor.php:173
 msgid "Editing <strong>%s</strong> (active)"
@@ -6804,7 +6804,7 @@ msgstr "Nieuwe gebruiker gemaakt."
 
 #: wp-admin/users.php:391
 msgid "The current user&#8217;s role must have user editing capabilities."
-msgstr "De huidige gebruiker moet bewerkingsrechten heb***REMOVED***."
+msgstr "De huidige gebruiker moet bewerkingsrechten hebben."
 
 #: wp-admin/users.php:392
 msgid "Other user roles have been changed."
@@ -7301,7 +7301,7 @@ msgstr "De naam zoals het getoond wordt op de site."
 
 #: wp-admin/edit-tag-form.php:57 wp-admin/edit-tags.php:376
 msgid "Categories, unlike tags, can have a hierarchy. You might have a Jazz category, and under that have children categories for Bebop and Big Band. Totally optional."
-msgstr "Categorie&#235;n kunnen, in tegenstelling tot tags, een hi&#235;rarchie heb***REMOVED***. Je zou een categorie Muziek kunnen heb***REMOVED*** en daaronder subcategorie&#235;n voor Classic Rock en Hardrock. Dit is optioneel."
+msgstr "Categorie&#235;n kunnen, in tegenstelling tot tags, een hi&#235;rarchie hebben. Je zou een categorie Muziek kunnen hebben en daaronder subcategorie&#235;n voor Classic Rock en Hardrock. Dit is optioneel."
 
 #: wp-admin/edit-tags.php:255
 msgid "Item added."
@@ -9235,7 +9235,7 @@ msgstr "Deactiveer toegankelijkheidsmodus"
 
 #: wp-admin/includes/ajax-actions.php:19
 msgid "<strong>ALERT: You are logged out!</strong> Could not save draft. <a href=\"%s\" target=\"_blank\">Please log in again.</a>"
-msgstr "<strong>WAARSCHUWING: Je ***REMOVED***t uitgelogd!</strong> Concept kon niet worden opgeslagen. <a href=\"%s\" target=\"_blank\">Opnieuw inloggen.</a>"
+msgstr "<strong>WAARSCHUWING: Je bent uitgelogd!</strong> Concept kon niet worden opgeslagen. <a href=\"%s\" target=\"_blank\">Opnieuw inloggen.</a>"
 
 #: wp-admin/includes/media.php:2009 wp-admin/includes/nav-menu.php:627
 #: wp-admin/includes/nav-menu.php:840

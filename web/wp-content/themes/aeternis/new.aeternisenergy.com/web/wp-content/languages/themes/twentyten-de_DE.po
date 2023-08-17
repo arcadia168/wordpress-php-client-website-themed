@@ -295,7 +295,7 @@ msgstr "Der primäre Widget-Bereich"
 
 #: comments.php:18
 msgid "This post is password protected. Enter the password to view any comments."
-msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort ange***REMOVED***."
+msgstr "Dieser Beitrag ist passwortgeschützt. Um Kommentare anschauen zu können musst du das Passwort angeben."
 
 #: category.php:16
 msgid "Category Archives: %s"

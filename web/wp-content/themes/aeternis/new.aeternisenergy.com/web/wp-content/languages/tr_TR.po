@@ -3890,7 +3890,7 @@ msgstr "Çıkış"
 
 #: wp-includes/general-template.php:263 wp-login.php:690
 msgid "Remember Me"
-msgstr "***REMOVED***i Hatırla"
+msgstr "Beni Hatırla"
 
 #: wp-includes/general-template.php:341 wp-login.php:451 wp-login.php:510
 #: wp-login.php:560 wp-login.php:709
@@ -6506,7 +6506,7 @@ msgstr "Anahtar neden geçersiz olabilir?"
 
 #: wp-content/plugins/akismet/admin.php:167
 msgid "This can mean one of two things, either you copied the key wrong or that the plugin is unable to reach the Akismet servers, which is most often caused by an issue with your web host around firewalls or similar."
-msgstr "Bu iki sebepten dolayı olabilir, anahtarı yanlış kopyalamış olabilirsiniz veya sunucunuzdaki firewall ***REMOVED***zeri bir sorundan dolayı eklenti Akismet sunucularına ulaşamıyor."
+msgstr "Bu iki sebepten dolayı olabilir, anahtarı yanlış kopyalamış olabilirsiniz veya sunucunuzdaki firewall benzeri bir sorundan dolayı eklenti Akismet sunucularına ulaşamıyor."
 
 #: wp-content/plugins/akismet/admin.php:173
 msgid "Update options &raquo;"

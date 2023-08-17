@@ -638,7 +638,7 @@ msgstr "Uwaga! Użytkownik nie mógł zostać usunięty. Użytkownik %s jest adm
 
 #: wp-admin/network/settings.php:28
 msgid "Dashboard Site is an option to give a site to users who do not have a site on the system. Their default role is Subscriber, but that default can be changed. The Admin Notice Feed can provide a notice on all dashboards of the latest post via RSS or Atom, or provide no such notice if left blank."
-msgstr "Użytkownicy sieci, którzy nie posiadają własnej witryny w systemie, przypisani zostaną do głównej witryny. Domyślną rolą takich użytkowników jest &#8222;Subskry***REMOVED***t&#8221;, ale ustawienie to może zostać zmienione. Kanał informacji administracyjnych może wyświetlać informację w postaci wpisu z kanału RSS lub Atom we wszystkich kokpitach lub nie wyświetlać żadnej informacji, jeśli pole to zostanie pozostawione puste."
+msgstr "Użytkownicy sieci, którzy nie posiadają własnej witryny w systemie, przypisani zostaną do głównej witryny. Domyślną rolą takich użytkowników jest &#8222;Subskrybent&#8221;, ale ustawienie to może zostać zmienione. Kanał informacji administracyjnych może wyświetlać informację w postaci wpisu z kanału RSS lub Atom we wszystkich kokpitach lub nie wyświetlać żadnej informacji, jeśli pole to zostanie pozostawione puste."
 
 #: wp-admin/network/site-new.php:24
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
@@ -718,7 +718,7 @@ msgstr "Poniżej znajduje się główna lista wszystkich witryn tej sieci. Prze�
 
 #: wp-admin/network/user-new.php:24
 msgid "Users who are signed up to the network without a site are added as subscribers to the main or primary dashboard site, giving them profile pages to manage their accounts. These users will only see Dashboard and My Sites in the main navigation until a site is created for them."
-msgstr "Użytkownicy, którzy zarejestrują się na tej stronie bez tworzenia witryny, zostaną dodani jako subskry***REMOVED***ci do głównej witryny oraz otrzymają strony profilowe, za pomocą których będą oni mogli zarządzać swoimi kontami. Do czasu przypisania takim użytkownikom witryny, w panelu administracyjnym będą oni widzieli jedynie odnośniki do ekranów &#8222;Kokpit&#8221; oraz &#8222;Moje witryny&#8221;"
+msgstr "Użytkownicy, którzy zarejestrują się na tej stronie bez tworzenia witryny, zostaną dodani jako subskrybenci do głównej witryny oraz otrzymają strony profilowe, za pomocą których będą oni mogli zarządzać swoimi kontami. Do czasu przypisania takim użytkownikom witryny, w panelu administracyjnym będą oni widzieli jedynie odnośniki do ekranów &#8222;Kokpit&#8221; oraz &#8222;Moje witryny&#8221;"
 
 #: wp-admin/network/users.php:237
 msgid "You can sort the table by clicking on any of the bold headings and switch between list and excerpt views by using the icons in the upper right."

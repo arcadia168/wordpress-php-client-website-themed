@@ -208,7 +208,7 @@ msgstr "Når du skifter temaer, er der ofte en vis variation i antallet og opsæ
 
 #: wp-admin/includes/media.php:2205
 msgid "You are using the multi-file uploader. Problems? Try the <a href=\"%1$s\" target=\"%2$s\">browser uploader</a> instead."
-msgstr "Du ***REMOVED***ytter multi-fil uploader. Problemer? ***REMOVED***yt i stedet <a href=\"%1$s\" target=\"%2$s\">browser-uploader</a>."
+msgstr "Du benytter multi-fil uploader. Problemer? Benyt i stedet <a href=\"%1$s\" target=\"%2$s\">browser-uploader</a>."
 
 #: wp-admin/async-upload.php:58
 msgctxt "media item"
@@ -313,11 +313,11 @@ msgstr "$image skal være et WP_Image_Editor objekt"
 
 #: wp-admin/includes/image-edit.php:277
 msgid "Use WP_Image_Editor::rotate"
-msgstr "***REMOVED***yt WP_Image_Editor::rotate"
+msgstr "Benyt WP_Image_Editor::rotate"
 
 #: wp-admin/includes/image-edit.php:299
 msgid "Use WP_Image_Editor::flip"
-msgstr "***REMOVED***yt WP_Image_Editor::flip"
+msgstr "Benyt WP_Image_Editor::flip"
 
 #: wp-admin/includes/template.php:1045
 msgid "The privacy options group has been removed. Use another settings group."
@@ -533,7 +533,7 @@ msgid ""
 msgstr ""
 "Dette er en eksempelside. Den er forskellig fra et indlæg, fordi den vil forblive det samme sted og være en del af dit websteds navigation (i de fleste temaer). De fleste vil lægge ud med en Om-side, der præsenterer dem for potentielle besøgende. Ordlyden kunne være noget i retning af:\n"
 "\n"
-"<blockquote>Hejsa! Jeg er cykelbud om dagen, prøver at blive skuespiller om aftenen og dette er min blog. Jeg bor i Kø***REMOVED***havn, har en dejlig hund, der hedder King, og jeg kan lide Mojitos. (og at blive overrasket af regnvejr.)</blockquote>\n"
+"<blockquote>Hejsa! Jeg er cykelbud om dagen, prøver at blive skuespiller om aftenen og dette er min blog. Jeg bor i København, har en dejlig hund, der hedder King, og jeg kan lide Mojitos. (og at blive overrasket af regnvejr.)</blockquote>\n"
 "\n"
 "... eller noget i retning af:\n"
 "\n"
@@ -607,7 +607,7 @@ msgstr "Tags kan efter ønske konverteres til kategorier ved at bruge <a href=\"
 
 #: wp-admin/edit-tags.php:198
 msgid "You can delete Link Categories in the Bulk Action pull-down, but that action does not delete the links within the category. Instead, it moves them to the default Link Category."
-msgstr "Du kan slette linkkategorier ved at ***REMOVED***ytte massehandling, men links i kategorien slettes ikke. De flyttes i stedet til standard linkkategorien."
+msgstr "Du kan slette linkkategorier ved at benytte massehandling, men links i kategorien slettes ikke. De flyttes i stedet til standard linkkategorien."
 
 #: wp-admin/edit-form-advanced.php:200
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box:"
@@ -1411,7 +1411,7 @@ msgstr "Database navn"
 
 #: wp-admin/setup-config.php:136
 msgid "The name of the database you want to run WP in."
-msgstr "Navnet på den database WP skal ***REMOVED***ytte."
+msgstr "Navnet på den database WP skal benytte."
 
 #: wp-admin/setup-config.php:140
 msgctxt "example username"
@@ -1779,7 +1779,7 @@ msgstr "Denne skærm giver adgang til alle dine indlæg. Du kan tilpasse skærme
 
 #: wp-admin/edit.php:186
 msgid "You can also edit or move multiple posts to the trash at once. Select the posts you want to act on using the checkboxes, then select the action you want to take from the Bulk Actions menu and click Apply."
-msgstr "Du kan også redigere eller flytte flere indlæg til papirkurven på én gang. Vælg de indlæg, du ønsker at behandle, ved at ***REMOVED***ytte afkrydsningsfelterne, vælg derefter den handling du ønsker at bruge fra massehandlingsmenuen og klik anvend."
+msgstr "Du kan også redigere eller flytte flere indlæg til papirkurven på én gang. Vælg de indlæg, du ønsker at behandle, ved at benytte afkrydsningsfelterne, vælg derefter den handling du ønsker at bruge fra massehandlingsmenuen og klik anvend."
 
 #: wp-admin/plugin-install.php:46
 msgid "Adding Plugins"
@@ -1803,7 +1803,7 @@ msgstr "Tilføj tema"
 
 #: wp-admin/users.php:48
 msgid "Delete brings you to the Delete Users screen for confirmation, where you can permanently remove a user from your site and delete their posts. You can also delete multiple users at once by using Bulk Actions."
-msgstr "Slet fører dig til Slet bruger-skærmen for at du kan bekræfte sletningen og permanent fjerne en bruger fra dit websted, samt slette deres indlæg. Du kan også slette flere brugere på én gang ved at ***REMOVED***ytte massehandling."
+msgstr "Slet fører dig til Slet bruger-skærmen for at du kan bekræfte sletningen og permanent fjerne en bruger fra dit websted, samt slette deres indlæg. Du kan også slette flere brugere på én gang ved at benytte massehandling."
 
 #: wp-admin/update-core.php:409
 msgid "This screen lets you update to the latest version of WordPress as well as update your themes and plugins from the WordPress.org repository. When updates are available, the number of available updates will appear in a bubble on the left hand menu as a notification."
@@ -1823,7 +1823,7 @@ msgstr "Permanente links er de permanente URL'er til dine indlæg og sider, samt
 
 #: wp-admin/options-permalink.php:29
 msgid "Many people choose to use &#8220;pretty permalinks,&#8221; URLs that contain useful information such as the post title rather than generic post ID numbers. You can choose from any of the permalink formats under Common Settings, or can craft your own if you select Custom Structure."
-msgstr "Mange vælger at bruge &#8220;pæne permalinks,&#8221; med en URL der indeholder brugervenlig information, såsom indlægstitlen frem for fortlø***REMOVED***de ID-numre på indlægene. Du kan frit vælge mellem permalink-formaterne under Basisindstillinger, eller du kan skabe din egen, hvis du vælger Egen struktur."
+msgstr "Mange vælger at bruge &#8220;pæne permalinks,&#8221; med en URL der indeholder brugervenlig information, såsom indlægstitlen frem for fortløbende ID-numre på indlægene. Du kan frit vælge mellem permalink-formaterne under Basisindstillinger, eller du kan skabe din egen, hvis du vælger Egen struktur."
 
 #: wp-admin/options-permalink.php:28 wp-admin/options-permalink.php:191
 msgid "Common Settings"
@@ -1850,7 +1850,7 @@ msgstr "Installation af temaer i en Multisite-installation kan kun gøres fra de
 
 #: wp-admin/options-general.php:65
 msgid "If you want site visitors to be able to register themselves, as opposed to by the site administrator, check the membership box. A default user role can be set for all new users, whether self-registered or registered by the site admin."
-msgstr "Hvis du ønsker besøgende skal kunne registrere sig, i modsætning til at blive registreret af administratoren, skal du sætte flue***REMOVED*** under medlemskab. En standardbrugerrolle kan indstilles til alle nye brugere, uanset om de registrerer sig selv, eller bliver registreret af administrator."
+msgstr "Hvis du ønsker besøgende skal kunne registrere sig, i modsætning til at blive registreret af administratoren, skal du sætte flueben under medlemskab. En standardbrugerrolle kan indstilles til alle nye brugere, uanset om de registrerer sig selv, eller bliver registreret af administrator."
 
 #: wp-admin/options-writing.php:34
 msgid "Post Via Email"
@@ -1946,7 +1946,7 @@ msgstr "Sider svarer til indlæg ved at have titel, brødtekst og tilknyttede me
 
 #: wp-admin/edit-comments.php:128
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
-msgstr "Mange ***REMOVED***ytter tastaturgenveje til at moderere deres kommentarer hurtigere. ***REMOVED***yt linket nedenfor for at lære hvordan."
+msgstr "Mange benytter tastaturgenveje til at moderere deres kommentarer hurtigere. Benyt linket nedenfor for at lære hvordan."
 
 #: wp-admin/edit-comments.php:126
 msgid "In the <strong>Comment</strong> column, above each comment it says &#8220;Submitted on,&#8221; followed by the date and time the comment was left on your site. Clicking on the date/time link will take you to that comment on your live site. Hovering over any comment gives you options to approve, reply (and approve), quick edit, edit, spam mark, or trash that comment."
@@ -2207,7 +2207,7 @@ msgstr "Navigationsmenuen i venstre side indeholder links til alle sider i admin
 
 #: wp-admin/index.php:61
 msgid "<strong>Drag and Drop</strong> - To rearrange the boxes, drag and drop by clicking on the title bar of the selected box and releasing when you see a gray dotted-line rectangle appear in the location you want to place the box."
-msgstr "<strong>Træk og slip</strong> - ***REMOVED***yt træk og slip for at omarrangere boksene ved at klikke på titellinjen på den valgte boks og slippe når du ser en grå stiplet firkant, hvor du ønsker kassen placeret."
+msgstr "<strong>Træk og slip</strong> - Benyt træk og slip for at omarrangere boksene ved at klikke på titellinjen på den valgte boks og slippe når du ser en grå stiplet firkant, hvor du ønsker kassen placeret."
 
 #: wp-admin/index.php:59
 msgid "You can use the following controls to arrange your Dashboard screen to suit your workflow. This is true on most other administration screens as well."
@@ -2219,7 +2219,7 @@ msgstr "<strong>WordPress Blog</strong> - Seneste nyt fra det officielle WordPre
 
 #: wp-admin/index.php:60
 msgid "<strong>Screen Options</strong> - Use the Screen Options tab to choose which Dashboard boxes to show, and how many columns to display."
-msgstr "<strong>Skærmindstillinger</strong> - ***REMOVED***yt fanen skærmindstillinger til at indstille, hvilke bokse der vises i kontrolpanelet og hvor mange kolonner der vises."
+msgstr "<strong>Skærmindstillinger</strong> - Benyt fanen skærmindstillinger til at indstille, hvilke bokse der vises i kontrolpanelet og hvor mange kolonner der vises."
 
 #: wp-admin/comment.php:50 wp-admin/custom-background.php:88
 #: wp-admin/custom-header.php:106 wp-admin/edit-comments.php:116
@@ -2575,7 +2575,7 @@ msgstr "Det ser ud til at du bruger en gammel version af <a href='%s'>%s</a>. Op
 
 #: wp-admin/includes/dashboard.php:1163
 msgid "It looks like you're using an insecure version of <a href='%s'>%s</a>. Using an outdated browser makes your computer unsafe. For the best WordPress experience, please update your browser."
-msgstr "Det ser ud til at du ***REMOVED***ytter en usikker version af <a href='%s'>%s</a>. Brugen af en gammel browser gør din computer usikker. Opdater venligst din browser, hvis du ønsker opleve WordPress bedst muligt. "
+msgstr "Det ser ud til at du benytter en usikker version af <a href='%s'>%s</a>. Brugen af en gammel browser gør din computer usikker. Opdater venligst din browser, hvis du ønsker opleve WordPress bedst muligt. "
 
 #: wp-admin/includes/nav-menu.php:1114
 msgid "There are some invalid menu items. Please check or delete them."
@@ -2769,7 +2769,7 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "Du har tilladelse til at videredistribuere kopier af det originale program så du kan hjælpe din nabo."
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
 msgstr "Du har frihed til at distribuere kopier af dine ændrede versioner til andre. Ved at gøre dette, kan du give hele fællesskabet en chance for at nyde godt af dine ændringer."
 
 #: wp-admin/includes/dashboard.php:33
@@ -3155,7 +3155,7 @@ msgstr "Opdatering gennemført"
 
 #: wp-admin/update-core.php:418
 msgid "To update themes or plugins from this screen, use the checkboxes to make your selection and click on the appropriate Update button. Check the box at the top of the Themes or Plugins section to select all and update them all at once."
-msgstr "Hvis du vil opdatere temaer eller plugins fra dette skærmbillede, skal du bruge afkrydsningsfelterne og derefter klikke på den relevante opdateringsknap. Sæt flue***REMOVED*** i feltet øverst for at vælge alle og derved opdatere det hele på én gang."
+msgstr "Hvis du vil opdatere temaer eller plugins fra dette skærmbillede, skal du bruge afkrydsningsfelterne og derefter klikke på den relevante opdateringsknap. Sæt flueben i feltet øverst for at vælge alle og derved opdatere det hele på én gang."
 
 #: wp-admin/upgrade.php:84
 msgid "Database Update Required"
@@ -4964,7 +4964,7 @@ msgstr "Rediger menupunkt"
 
 #: wp-admin/options-general.php:135
 msgid "This address is used for admin purposes. If you change this we will send you an e-mail at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr "Denne adresse ***REMOVED***yttes til administrative formål. Hvis du ændrer adressen, vil vi sende en e-mail til den nye adresse, for at du kan bekræfte den. <strong>Den nye adresse er ikke aktiv før den er bekræftet.</strong>"
+msgstr "Denne adresse benyttes til administrative formål. Hvis du ændrer adressen, vil vi sende en e-mail til den nye adresse, for at du kan bekræfte den. <strong>Den nye adresse er ikke aktiv før den er bekræftet.</strong>"
 
 #: wp-admin/options-general.php:211
 msgid "Daylight saving time begins on: <code>%s</code>."

@@ -558,7 +558,7 @@ Reference material:
 * http://developer.apple.com/techpubs/quicktime/qtdevdocs/RM/frameset.htm
 * http://www.nullsoft.com/nsv/
 * http://www.wotsit.org/download.asp?f=iso9660
-* http://sandbox.mc.edu/~***REMOVED***net/cs110/tc/tctod.html
+* http://sandbox.mc.edu/~bennet/cs110/tc/tctod.html
 * http://www.cdroller.com/htm/readdata.html
 * http://www.speex.org/manual/node10.html
 * http://www.harmony-central.com/Computer/Programming/aiff-file-format.doc

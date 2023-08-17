@@ -544,7 +544,7 @@ msgstr "Dettagli della rete"
 
 #: wp-admin/network.php:199
 msgid "Welcome to the Network installation process!"
-msgstr "***REMOVED***venuti nella procedura di installazione del Network!"
+msgstr "Benvenuti nella procedura di installazione del Network!"
 
 #: wp-admin/network.php:214
 msgid "It looks like the Apache <code>mod_rewrite</code> module is not installed."
@@ -706,7 +706,7 @@ msgstr "Sino a WordPress 3.0, utilizzare siti multipli richiedeva l'utilizzo di 
 
 #: wp-admin/network/settings.php:30
 msgid "New site settings are defaults applied when a new site is created in the network. These include welcome email for when a new site or user account is registered, and what&#8127;s put in the first post, page, comment, comment author, and comment URL."
-msgstr "Le impostazioni Nuovo sito vengono applicate automaticamente quando viene creato un nuovo sito nel network. Queste impostazioni comprendono la mail di ***REMOVED***venuto quando viene registrato un nuovo sito o un nuovo utente e quello che viene inserito nel primo articolo, nella prima pagina, nel primo commento, l'autore del primo commento e l'URL del commentatore."
+msgstr "Le impostazioni Nuovo sito vengono applicate automaticamente quando viene creato un nuovo sito nel network. Queste impostazioni comprendono la mail di benvenuto quando viene registrato un nuovo sito o un nuovo utente e quello che viene inserito nel primo articolo, nella prima pagina, nel primo commento, l'autore del primo commento e l'URL del commentatore."
 
 #: wp-admin/network/themes.php:203
 msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
@@ -972,7 +972,7 @@ msgstr "WordPress &rsaquo; confermare l'azione"
 
 #: wp-admin/network/settings.php:219
 msgid "The welcome email sent to new site owners."
-msgstr "La email di ***REMOVED***venuto è stata spedita ai nuovi possessori del sito."
+msgstr "La email di benvenuto è stata spedita ai nuovi possessori del sito."
 
 #: wp-admin/network/settings.php:278
 msgid "Site upload space"
@@ -1044,15 +1044,15 @@ msgstr "Domini email bannati"
 
 #: wp-admin/network/settings.php:214
 msgid "Welcome Email"
-msgstr "Email di ***REMOVED***venuto"
+msgstr "Email di benvenuto"
 
 #: wp-admin/network/settings.php:223
 msgid "Welcome User Email"
-msgstr "Email di ***REMOVED***venuto all'utente"
+msgstr "Email di benvenuto all'utente"
 
 #: wp-admin/network/settings.php:228
 msgid "The welcome email sent to new users."
-msgstr "L'email di ***REMOVED***venuto è stata spedita ai nuovi utenti."
+msgstr "L'email di benvenuto è stata spedita ai nuovi utenti."
 
 #: wp-admin/network/settings.php:241
 msgid "First Page"

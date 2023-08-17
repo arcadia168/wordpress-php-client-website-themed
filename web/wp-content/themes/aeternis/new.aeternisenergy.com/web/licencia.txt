@@ -58,7 +58,7 @@ que le afectan si distribuye copias del software, o si lo modifica.
   Por ejemplo, si distribuye copias de uno de estos programas, sea
 gratuitamente, o a cambio de una contraprestación, debe dar a los
 receptores todos los derechos que tiene. Debe asegurarse de que ellos
-también reci***REMOVED***, o pueden conseguir, el código fuente. Y debe mostrarles
+también reciben, o pueden conseguir, el código fuente. Y debe mostrarles
 estas condiciones de forma que conozcan sus derechos.
 
   Protegemos sus derechos con la combinación de dos medidas:

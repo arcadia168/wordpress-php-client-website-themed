@@ -1145,7 +1145,7 @@ msgstr "Hvad gør jeg nu?"
 
 #: wp-includes/script-loader.php:218
 msgid "%s exceeds the maximum upload size for the multi-file uploader when used in your browser."
-msgstr "%s overstiger den maksimale uploadstørrelse for multi-fil uploader, når den ***REMOVED***yttes i din browser."
+msgstr "%s overstiger den maksimale uploadstørrelse for multi-fil uploader, når den benyttes i din browser."
 
 #: wp-includes/script-loader.php:217
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
@@ -2156,7 +2156,7 @@ msgstr "Whois: http://whois.arin.net/rest/ip/%s"
 
 #: wp-includes/class-wp-editor.php:823
 msgid "Open link in a new window/tab"
-msgstr "Å***REMOVED*** link i et nyt vindue/faneblad"
+msgstr "Åben link i et nyt vindue/faneblad"
 
 #: wp-includes/class-wp-editor.php:843
 msgid "No search term specified. Showing recent items."

@@ -738,7 +738,7 @@ function get_bloginfo( $show = '', $filter = 'raw' ) {
  * title display, since the blog title shows up on most tabs and not what is
  * important, which is the page that the user is looking at.
  *
- * There are also SEO ***REMOVED***efits to having the blog title after or to the 'right'
+ * There are also SEO benefits to having the blog title after or to the 'right'
  * or the page title. However, it is mostly common sense to have the blog title
  * to the right with most browsers supporting tabs. You can achieve this by
  * using the seplocation parameter and setting the value to 'right'. This change

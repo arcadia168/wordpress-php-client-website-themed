@@ -1056,7 +1056,7 @@ msgstr "Chişinău"
 
 #: wp-admin/includes/continents-cities.php:396
 msgid "Copenhagen"
-msgstr "Kø***REMOVED***havn"
+msgstr "København"
 
 #: wp-admin/includes/continents-cities.php:397
 msgid "Dublin"

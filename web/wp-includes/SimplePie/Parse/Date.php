@@ -104,7 +104,7 @@ class SimplePie_Parse_Date
 		'donnerstag' => 4,
 		'freitag' => 5,
 		'samstag' => 6,
-		'sonna***REMOVED***d' => 6,
+		'sonnabend' => 6,
 		'sonntag' => 7,
 		// Italian
 		'lunedì' => 1,

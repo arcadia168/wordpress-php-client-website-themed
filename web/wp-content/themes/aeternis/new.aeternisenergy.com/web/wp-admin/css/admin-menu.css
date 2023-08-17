@@ -480,7 +480,7 @@ ul#adminmenu > li.current > a.current:after {
 	cursor: inherit;
 }
 
-/* @todo: is this even needed given that it's nested ***REMOVED***eath the above li.wp-menu-separator? */
+/* @todo: is this even needed given that it's nested beneath the above li.wp-menu-separator? */
 #adminmenu div.separator {
 	height: 2px;
 	padding: 0;

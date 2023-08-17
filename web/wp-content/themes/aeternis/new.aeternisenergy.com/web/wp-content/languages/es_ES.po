@@ -156,7 +156,7 @@ msgstr "No"
 
 #: wp-signup.php:130
 msgid "(Must be at least 4 characters, letters and numbers only.)"
-msgstr "(De***REMOVED*** tener como mínimo 4 caracteres, solo letras y números.)"
+msgstr "(Deben tener como mínimo 4 caracteres, solo letras y números.)"
 
 #: wp-signup.php:133
 msgid "Email&nbsp;Address:"
@@ -1077,7 +1077,7 @@ msgstr "Origen de QT"
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:470
 msgid "Streamed rtsp resources should be added to the QT Src field under the advanced tab."
-msgstr "Los recursos Rtsp de***REMOVED*** añadirse en el campo Origen de QT en la pestaña de Ajustes avanzados."
+msgstr "Los recursos Rtsp deben añadirse en el campo Origen de QT en la pestaña de Ajustes avanzados."
 
 #: wp-includes/js/tinymce/langs/wp-langs.php:476
 msgid "Top left"
@@ -2161,7 +2161,7 @@ msgstr "Nuevo %1$s usuario: %2$s"
 
 #: wp-includes/ms-functions.php:1610
 msgid "This file is too big. Files must be less than %d KB in size."
-msgstr "Este archivo es demasiado grande. Los archivos de***REMOVED*** tener un tamaño inferior a %d KB."
+msgstr "Este archivo es demasiado grande. Los archivos deben tener un tamaño inferior a %d KB."
 
 #: wp-includes/ms-functions.php:1686
 msgid "An error occurred adding you to this site. Back to the <a href=\"%s\">homepage</a>."
@@ -5643,7 +5643,7 @@ msgstr "Disculpa, no se ha podido editar el comentario. Se ha producido un error
 
 #: wp-includes/class-wp-xmlrpc-server.php:2960
 msgid "You must be registered to comment"
-msgstr "Los usuarios de***REMOVED*** registrarse e identificarse para comentar"
+msgstr "Los usuarios deben registrarse e identificarse para comentar"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3002
 msgid "Comment author name and email are required"

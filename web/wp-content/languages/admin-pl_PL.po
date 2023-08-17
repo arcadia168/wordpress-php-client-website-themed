@@ -1554,7 +1554,7 @@ msgstr "Aktualizacja motywu spowoduje utratę wprowadzonych do niego modyfikacji
 
 #: wp-admin/users.php:36
 msgid "You can filter the list of users by User Role using the text links in the upper left to show All, Administrator, Editor, Author, Contributor, or Subscriber. The default view is to show all users. Unused User Roles are not listed."
-msgstr "Używając odnośników umieszczonych ponad tabelą można filtrować listę użytkowników według roli, tak aby wyświetlani byli tylko administratorzy, redaktorzy, autorzy, współpracownicy lub subskry***REMOVED***ci. Domyślnie wyświetlani są wszyscy użytkownicy. Nieprzypisane role nie są wyświetlane ponad tabelą."
+msgstr "Używając odnośników umieszczonych ponad tabelą można filtrować listę użytkowników według roli, tak aby wyświetlani byli tylko administratorzy, redaktorzy, autorzy, współpracownicy lub subskrybenci. Domyślnie wyświetlani są wszyscy użytkownicy. Nieprzypisane role nie są wyświetlane ponad tabelą."
 
 #: wp-admin/update-core.php:39
 msgid "You are using a development version of WordPress. You can update to the latest nightly build automatically or download the nightly build and install it manually:"
@@ -1763,7 +1763,7 @@ msgstr "Moderowanie komentarzy"
 
 #: wp-admin/user-new.php:172
 msgid "Subscribers can read comments/comment/receive newsletters, etc. but cannot create regular site content."
-msgstr "Subskry***REMOVED***ci mogą czytać komentarze, komentować, otrzymywać newslettery itp., ale nie mogą pisać wpisów itp."
+msgstr "Subskrybenci mogą czytać komentarze, komentować, otrzymywać newslettery itp., ale nie mogą pisać wpisów itp."
 
 #: wp-admin/import.php:126
 msgid "If the importer you need is not listed, <a href=\"%s\">search the plugin directory</a> to see if an importer is available."
@@ -2788,7 +2788,7 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "wolnością rozpowszechniania kopii oryginalnego programu, aby możliwa była pomoc innym,"
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
 msgstr "wolnością rozpowszechniania zmodyfikowanej przez siebie wersji programu. Robiąc to, dajesz całej społeczności szansę skorzystania z wprowadzonych przez Ciebie zmian."
 
 #: wp-admin/includes/dashboard.php:33
@@ -3077,7 +3077,7 @@ msgstr "W Twoim kokpicie dostępne są następujące moduły:"
 
 #: wp-admin/users.php:26
 msgid "This screen lists all the existing users for your site. Each user has one of five defined roles as set by the site admin: Site Administrator, Editor, Author, Contributor, or Subscriber. Users with roles other than Administrator will see fewer options in the dashboard navigation when they are logged in, based on their role."
-msgstr "Na tym ekranie wyświetlana jest lista wszystkich zarejestrowanych na Twojej witrynie użytkowników. Każdy użytkownik ma jedną spośród pięciu dostępnych ról, przypisaną przez administratora witryny: Administrator, Redaktor, Autor, Współpracownik lub Subskry***REMOVED***t. Użytkownicy posiadający rolę inną niż &#8222;Administrator&#8221; po zalogowaniu się będą widzieli w kokpicie mniej opcji, zgodnie z ich rolą."
+msgstr "Na tym ekranie wyświetlana jest lista wszystkich zarejestrowanych na Twojej witrynie użytkowników. Każdy użytkownik ma jedną spośród pięciu dostępnych ról, przypisaną przez administratora witryny: Administrator, Redaktor, Autor, Współpracownik lub Subskrybent. Użytkownicy posiadający rolę inną niż &#8222;Administrator&#8221; po zalogowaniu się będą widzieli w kokpicie mniej opcji, zgodnie z ich rolą."
 
 #: wp-admin/options-permalink.php:45
 msgid "<a href=\"http://codex.wordpress.org/Using_Permalinks\" target=\"_blank\">Documentation on Using Permalinks</a>"
@@ -9049,7 +9049,7 @@ msgstr "Współpracownik"
 #: wp-admin/includes/schema.php:582
 msgctxt "User role"
 msgid "Subscriber"
-msgstr "Subskry***REMOVED***t"
+msgstr "Subskrybent"
 
 #: wp-admin/includes/schema.php:907 wp-admin/includes/upgrade.php:135
 msgid "Welcome to <a href=\"SITE_URL\">SITE_NAME</a>. This is your first post. Edit or delete it, then start blogging!"

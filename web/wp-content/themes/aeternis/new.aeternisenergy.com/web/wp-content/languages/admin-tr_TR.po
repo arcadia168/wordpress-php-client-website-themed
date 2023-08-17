@@ -276,7 +276,7 @@ msgstr "Dosya adresi:"
 
 #: wp-admin/edit-comments.php:127
 msgid "In the <strong>In Response To</strong> column, there are three elements. The text is the name of the post that inspired the comment, and links to the post editor for that entry. The View Post link leads to that post on your live site. The small bubble with the number in it shows the number of approved comments that post has received. If the bubble is gray, you have moderated all comments for that post. If it is blue, there are pending comments. Clicking the bubble will filter the comments screen to show only comments on that post."
-msgstr "<strong>Ceva***REMOVED***</strong> sütununda üç eleman vardır. Metin, yorumun yazılmasına sebep olan yazının ismidir ve tıkladığınızda düzenlemenize olanak sağlar. Yazıyı göster bağlantısı sizi canlı sitenizdeki ilgili yazıya yönlendirir. Küçük baloncuk içinde yazının kaç tane onaylanmış yorumu olduğu gösterilir. Eğer baloncuk gri ise bu yazı ile ilgili tüm yorumları kontrol etmemişsiniz demektir. Eğer mavi ise bekleyen yorumlar var demektir. Baloncuğa tıklarsanız sadece bu yazının yorumları görüntülenecek şekilde filtre uygulanır."
+msgstr "<strong>Cevaben</strong> sütununda üç eleman vardır. Metin, yorumun yazılmasına sebep olan yazının ismidir ve tıkladığınızda düzenlemenize olanak sağlar. Yazıyı göster bağlantısı sizi canlı sitenizdeki ilgili yazıya yönlendirir. Küçük baloncuk içinde yazının kaç tane onaylanmış yorumu olduğu gösterilir. Eğer baloncuk gri ise bu yazı ile ilgili tüm yorumları kontrol etmemişsiniz demektir. Eğer mavi ise bekleyen yorumlar var demektir. Baloncuğa tıklarsanız sadece bu yazının yorumları görüntülenecek şekilde filtre uygulanır."
 
 #: wp-admin/includes/ms.php:324
 msgid "Used: %1$s%% of %2$s"
@@ -531,9 +531,9 @@ msgid ""
 "\n"
 "As a new WordPress user, you should go to <a href=\"%s\">your dashboard</a> to delete this page and create new pages for your content. Have fun!"
 msgstr ""
-"Bu örnek bir sayfadır. Bir blog yazısından farklıdır çünkü belirli bir yerde sabit olarak kalır ve temanızın dolaşım menüsünde başlığı görüntülenir(çoğu tema destekler). Bir çok insan potansiyel ziyaretçilerini karşılamak adına bir Hakkında sayfası kullanır. Şuna ***REMOVED***zeyen bir sayfa:\n"
+"Bu örnek bir sayfadır. Bir blog yazısından farklıdır çünkü belirli bir yerde sabit olarak kalır ve temanızın dolaşım menüsünde başlığı görüntülenir(çoğu tema destekler). Bir çok insan potansiyel ziyaretçilerini karşılamak adına bir Hakkında sayfası kullanır. Şuna benzeyen bir sayfa:\n"
 "\n"
-"<blockquote>Merhaba! Gündüzleri bisikletli kurye, geceleri ise hevesli bir aktörüm, burası da ***REMOVED***im blogum. İstanbul&#8217;da yaşıyorum, Bıdık isminde harika bir köpeğim var ve pi&#241;a colada içmeyi seviyorum. (Ve yağmura yakalanmayı.)</blockquote>\\n\n"
+"<blockquote>Merhaba! Gündüzleri bisikletli kurye, geceleri ise hevesli bir aktörüm, burası da benim blogum. İstanbul&#8217;da yaşıyorum, Bıdık isminde harika bir köpeğim var ve pi&#241;a colada içmeyi seviyorum. (Ve yağmura yakalanmayı.)</blockquote>\\n\n"
 "\n"
 "...ya da bunun gibi bir şeyler:\n"
 "\n"
@@ -611,7 +611,7 @@ msgstr "Toplu işlemler açılır kutusundan Bağlantı kategorilerini silebilir
 
 #: wp-admin/edit-form-advanced.php:200
 msgid "Creating a Page is very similar to creating a Post, and the screens can be customized in the same way using drag and drop, the Screen Options tab, and expanding/collapsing boxes as you choose. This screen also has the distraction-free writing space, available in both the Visual and Text modes via the Fullscreen buttons. The Page editor mostly works the same as the Post editor, but there are some Page-specific features in the Page Attributes box:"
-msgstr "Bir sayfa oluşturmak yazı oluşturmaya ***REMOVED***zer. Ekranlar aynı şekilde sürükle bırak yaparak ya da Ekran seçenekleri sekmesinden özelleştirilebilir. Ayrıca yine yazı yazma ekranında olduğu gibi tam ekran modu hem görsel düzenleyicide hem de HTML düzenleyicide yer almaktadır. Büyük ölçüde yazı oluşturma ekranı ile aynıdır ama sayfalara özel bazı özellikler de barındırır:"
+msgstr "Bir sayfa oluşturmak yazı oluşturmaya benzer. Ekranlar aynı şekilde sürükle bırak yaparak ya da Ekran seçenekleri sekmesinden özelleştirilebilir. Ayrıca yine yazı yazma ekranında olduğu gibi tam ekran modu hem görsel düzenleyicide hem de HTML düzenleyicide yer almaktadır. Büyük ölçüde yazı oluşturma ekranı ile aynıdır ama sayfalara özel bazı özellikler de barındırır:"
 
 #: wp-admin/edit-form-advanced.php:184
 msgid "<strong>Post editor</strong> - Enter the text for your post. There are two modes of editing: Visual and Text. Choose the mode by clicking on the appropriate tab. Visual mode gives you a WYSIWYG editor. Click the last icon in the row to get a second row of controls. The Text mode allows you to enter HTML along with your post text. Line breaks will be converted to paragraphs automatically. You can insert media files by clicking the icons above the post editor and following the directions. You can go to the distraction-free writing screen via the Fullscreen icon in Visual mode (second to last in the top row) or the Fullscreen button in Text mode (last in the row). Once there, you can make buttons visible by hovering over the top area. Exit Fullscreen back to the regular post editor."
@@ -1921,7 +1921,7 @@ msgstr "Bir satırın üzerine fare imlecini getirirseniz eylem bağlantıları 
 
 #: wp-admin/edit.php:207
 msgid "Managing pages is very similar to managing posts, and the screens can be customized in the same way."
-msgstr "Sayfaları yönetmek yazıları yönetmeye çok ***REMOVED***zer ve ekranları da aynı şekilde özelleştirilebilir."
+msgstr "Sayfaları yönetmek yazıları yönetmeye çok benzer ve ekranları da aynı şekilde özelleştirilebilir."
 
 #: wp-admin/edit.php:208
 msgid "You can also perform the same types of actions, including narrowing the list by using the filters, acting on a page using the action links that appear when you hover over a row, or using the Bulk Actions menu to edit the metadata for multiple pages at once."
@@ -1937,7 +1937,7 @@ msgstr "Yüklediğiniz tüm dosyalar en güncel olanlar üst sıralarda olacak �
 
 #: wp-admin/edit.php:201
 msgid "Pages are similar to posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest pages under other pages by making one the &#8220;Parent&#8221; of the other, creating a group of pages."
-msgstr "Sayfalar yazılara çok ***REMOVED***zerler, başlık, metin alanı, ilişkili meta verileri vb. ama farklı oldukları nokta kronolojik bir sıralama izlemezler, sabitlenmiş yazılar gibi düşünebilirsiniz. Sayfalar kategorisiz ve etiketsiz olabilir, bunun yanında kendi içlerinde bir hiyerarşiye sahip olabilrler. Sayfaları diğer sayfalara, birini diğerinin &#8220;Ebeveyn&#8221;i olarak atayarak bağlayabilirsiniz. Böylece sayfa grupları oluşturabilirsiniz."
+msgstr "Sayfalar yazılara çok benzerler, başlık, metin alanı, ilişkili meta verileri vb. ama farklı oldukları nokta kronolojik bir sıralama izlemezler, sabitlenmiş yazılar gibi düşünebilirsiniz. Sayfalar kategorisiz ve etiketsiz olabilir, bunun yanında kendi içlerinde bir hiyerarşiye sahip olabilrler. Sayfaları diğer sayfalara, birini diğerinin &#8220;Ebeveyn&#8221;i olarak atayarak bağlayabilirsiniz. Böylece sayfa grupları oluşturabilirsiniz."
 
 #: wp-admin/edit-comments.php:128
 msgid "Many people take advantage of keyboard shortcuts to moderate their comments more quickly. Use the link to the side to learn more."
@@ -2025,7 +2025,7 @@ msgstr "Yeni özellik: Bileşenleri kaydetme"
 
 #: wp-admin/includes/template.php:1768
 msgid "Network Admin is now located in the My Sites menu."
-msgstr "Ağ yöneticisi artık ***REMOVED***im sitelerim menüsü altında yer alıyor."
+msgstr "Ağ yöneticisi artık Benim sitelerim menüsü altında yer alıyor."
 
 #: wp-admin/includes/template.php:1790
 msgid "If you change your mind and revert to your previous theme, we&#8217;ll put the widgets back the way you had them."
@@ -2695,7 +2695,7 @@ msgstr "WordPress, sizin gibi insanların arkadaşlarına WordPress&#8217;i anla
 
 #: wp-admin/freedoms.php:52
 msgid "Every plugin and theme in WordPress.org&#8217;s directory is 100%% GPL or a similarly free and compatible license, so you can feel safe finding <a href=\"%1$s\">plugins</a> and <a href=\"%2$s\">themes</a> there. If you get a plugin or theme from another source, make sure to <a href=\"%3$s\">ask them if it&#8217;s GPL</a> first. If they don&#8217;t respect the WordPress license, we don&#8217;t recommend them."
-msgstr "WordPress dizininde yer alan her eklenti ya da tema %%100 GPL uyumlu ya da ***REMOVED***zer bir ücretsiz lisansa sahiptir, böylece rahatça <a href=\"%1$s\">eklenti</a> ve <a href=\"%2$s\">tema</a> bulabilirsiniz. Eğer bir başka kaynaktan eklenti ya da tema bulursanız <a href=\"%3$s\">GPL olup olmadığını</a> sorun. Eğer WordPress lisansına saygı göstermiyorlarsa, kendilerini hiç bir şekilde önermiyoruz."
+msgstr "WordPress dizininde yer alan her eklenti ya da tema %%100 GPL uyumlu ya da benzer bir ücretsiz lisansa sahiptir, böylece rahatça <a href=\"%1$s\">eklenti</a> ve <a href=\"%2$s\">tema</a> bulabilirsiniz. Eğer bir başka kaynaktan eklenti ya da tema bulursanız <a href=\"%3$s\">GPL olup olmadığını</a> sorun. Eğer WordPress lisansına saygı göstermiyorlarsa, kendilerini hiç bir şekilde önermiyoruz."
 
 #: wp-admin/freedoms.php:36
 msgid "WordPress is Free and open source software, built by a distributed community of mostly volunteer developers from around the world. WordPress comes with some awesome, worldview-changing rights courtesy of its <a href=\"%s\">license</a>, the GPL."
@@ -2772,7 +2772,7 @@ msgid "You have the freedom to redistribute copies of the original program so yo
 msgstr "Orijinal programın kopyalarını dağıtma, dolayısıyla komşunuza yardım edebilme özgürlüğüne sahipsiniz."
 
 #: wp-admin/freedoms.php:42
-msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to ***REMOVED***efit from your changes."
+msgid "You have the freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes."
 msgstr "Değişiklik yaptığınız sürümü başkalarına dağıtma özgürlüğüne sahipsiniz. Bu sayede uygulamayı kullanan kişilere değişikliklerinizden faydalanma şansı tanımış olursunuz."
 
 #: wp-admin/includes/dashboard.php:33
@@ -3690,7 +3690,7 @@ msgstr "Profiliniz sizin hakkınızda (&#8220;hesabınız&#8221;) ve WordPress k
 
 #: wp-admin/edit-form-advanced.php:199
 msgid "Pages are similar to Posts in that they have a title, body text, and associated metadata, but they are different in that they are not part of the chronological blog stream, kind of like permanent posts. Pages are not categorized or tagged, but can have a hierarchy. You can nest Pages under other Pages by making one the &#8220;Parent&#8221; of the other, creating a group of Pages."
-msgstr "Sayfalar, başlıkları, içerikleri ve ilgili meta bilgileri olması açısından yazılara ***REMOVED***zerler ama yazılardan farklı olarak kronolojik blog akışını takip etmezler, kalıcı yazılar gibidirler. Sayfalar kategorilendirilmez ve etiketlenmez ama bir hiyerarşiye sahip olabilirler. Bir yazıyı &#8220;Ebeveyn&#8221; yapıp diğerlerini ona bağlayarak bir grup oluşturabilirsiniz."
+msgstr "Sayfalar, başlıkları, içerikleri ve ilgili meta bilgileri olması açısından yazılara benzerler ama yazılardan farklı olarak kronolojik blog akışını takip etmezler, kalıcı yazılar gibidirler. Sayfalar kategorilendirilmez ve etiketlenmez ama bir hiyerarşiye sahip olabilirler. Bir yazıyı &#8220;Ebeveyn&#8221; yapıp diğerlerini ona bağlayarak bir grup oluşturabilirsiniz."
 
 #: wp-admin/edit-form-advanced.php:263
 msgid "<strong>Send Trackbacks</strong> - Trackbacks are a way to notify legacy blog systems that you&#8217;ve linked to them. Enter the URL(s) you want to send trackbacks. If you link to other WordPress sites they&#8217;ll be notified automatically using pingbacks, and this field is unnecessary."
@@ -4437,7 +4437,7 @@ msgstr "Bu sitede sayfa oluşturmanıza izin verilmiyor."
 
 #: wp-admin/includes/schema.php:359
 msgid "My Site"
-msgstr "***REMOVED***im sitem"
+msgstr "Benim sitem"
 
 #: wp-admin/includes/upgrade.php:279
 msgid "New WordPress Site"
@@ -4618,7 +4618,7 @@ msgstr "bir e-posta adresi girmeniz gerekiyor."
 
 #: wp-admin/includes/user.php:366
 msgid "Yes, take me to my profile page"
-msgstr "Evet, ***REMOVED***i profil sayfama götür"
+msgstr "Evet, beni profil sayfama götür"
 
 #: wp-admin/includes/upgrade.php:72
 msgid "Your chosen password."
@@ -5431,7 +5431,7 @@ msgstr "Gereksinimler Eksik"
 
 #: wp-admin/install.php:178
 msgid "Welcome to the famous five minute WordPress installation process! You may want to browse the <a href=\"%s\">ReadMe documentation</a> at your leisure. Otherwise, just fill in the information below and you&#8217;ll be on your way to using the most extendable and powerful personal publishing platform in the world."
-msgstr "Meşhur beş dakikalık WordPress kurulum işlemine hoşgeldiniz! Boş vaktinizde <a href=\"%s\">***REMOVED***i Oku</a> dosyasına göz atmak isteyebilirsiniz veya sadece aşağıdaki bilgileri doldurun ve yolunuza dünyanın en güçlü ve geliştirilebilir kişisel yayın platformu ile devam edin."
+msgstr "Meşhur beş dakikalık WordPress kurulum işlemine hoşgeldiniz! Boş vaktinizde <a href=\"%s\">Beni Oku</a> dosyasına göz atmak isteyebilirsiniz veya sadece aşağıdaki bilgileri doldurun ve yolunuza dünyanın en güçlü ve geliştirilebilir kişisel yayın platformu ile devam edin."
 
 #: wp-admin/install.php:180
 msgid "Information needed"
@@ -6194,7 +6194,7 @@ msgstr "Evet, bu dosyaları sil"
 
 #: wp-admin/plugins.php:301
 msgid "No, Return me to the plugin list"
-msgstr "Hayır, ***REMOVED***i eklenti listesine geri götür"
+msgstr "Hayır, beni eklenti listesine geri götür"
 
 #: wp-admin/plugins.php:342
 msgid "Plugins extend and expand the functionality of WordPress. Once a plugin is installed, you may activate it or deactivate it here."
@@ -7364,8 +7364,8 @@ msgstr[1] "%s nesne tamamen silindi."
 msgctxt "posts"
 msgid "Mine <span class=\"count\">(%s)</span>"
 msgid_plural "Mine <span class=\"count\">(%s)</span>"
-msgstr[0] "***REMOVED***im <span class=\"count\">(%s)</span>"
-msgstr[1] "***REMOVED***im <span class=\"count\">(%s)</span>"
+msgstr[0] "Benim <span class=\"count\">(%s)</span>"
+msgstr[1] "Benim <span class=\"count\">(%s)</span>"
 
 #: wp-admin/includes/class-wp-posts-list-table.php:149
 msgctxt "posts"

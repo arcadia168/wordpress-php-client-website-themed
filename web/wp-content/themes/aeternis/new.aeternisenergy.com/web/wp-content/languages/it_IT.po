@@ -2642,7 +2642,7 @@ msgstr "Questa azione è stata disabilitata dall'amministratore"
 
 #: wp-signup.php:169
 msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
-msgstr "***REMOVED***tornato %s. Compilando il seguente modulo è possibile <strong>aggiungere un nuovo sito al proprio account</strong>. Non vi è limite al numero di blog che è possibile avere, quindi create i contenuti secondo il vostro cuore ma scrivete con responsabilità."
+msgstr "Bentornato %s. Compilando il seguente modulo è possibile <strong>aggiungere un nuovo sito al proprio account</strong>. Non vi è limite al numero di blog che è possibile avere, quindi create i contenuti secondo il vostro cuore ma scrivete con responsabilità."
 
 #: wp-signup.php:434
 msgid "<p><em>The site you were looking for, <strong>%s</strong> does not exist, but you can create it now!</em></p>"
