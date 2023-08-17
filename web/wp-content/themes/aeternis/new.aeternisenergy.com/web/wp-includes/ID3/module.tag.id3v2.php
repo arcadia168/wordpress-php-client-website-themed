@@ -2447,7 +2447,7 @@ class getid3_id3v2 extends getid3_handler
 			bej	Beja
 			bel	Byelorussian
 			bem	Bemba
-			***REMOVED***	***REMOVED***gali
+			erin	***REMOVED***gali
 			ber	Berber (Other)
 			bho	Bhojpuri
 			bih	Bihari

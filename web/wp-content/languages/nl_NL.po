@@ -3534,7 +3534,7 @@ msgstr ""
 "\t<li>Weet je zeker dat je de juiste hostnaam hebt ingevuld?</li>\n"
 "\t<li>Weet je zeker dat de databaseserver draait?</li>\n"
 "</ul>\n"
-"<p>***REMOVED*** je niet bekend met deze terminologie, dan kan je het best contact opnemen met je hostingprovider. Als je dan nog steeds hulp nodig hebt, kan je het <a href='http://nl.forums.wordpress.org/'>Nederlandse support forum</a> bezoeken.</p>\n"
+"<p>Erin je niet bekend met deze terminologie, dan kan je het best contact opnemen met je hostingprovider. Als je dan nog steeds hulp nodig hebt, kan je het <a href='http://nl.forums.wordpress.org/'>Nederlandse support forum</a> bezoeken.</p>\n"
 
 #: wp-includes/wp-db.php:1029
 msgid "WordPress database error %1$s for query %2$s made by %3$s"
@@ -6116,7 +6116,7 @@ msgstr "Nieuw wachtwoord aanmaken"
 
 #: wp-login.php:143
 msgid "Are you lost?"
-msgstr "***REMOVED*** je de weg kwijt?"
+msgstr "Erin je de weg kwijt?"
 
 #: wp-login.php:143
 msgid "&larr; Back to %s"

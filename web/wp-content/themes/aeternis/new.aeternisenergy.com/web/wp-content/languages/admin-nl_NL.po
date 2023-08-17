@@ -533,7 +533,7 @@ msgid ""
 msgstr ""
 "Dit is een voorbeelpagina. Het verschilt met een blogbericht omdat het altijd op dezelfde plaats staat en in de sitenavigatie voorkomt (in de meeste thema&#39;s). De meeste gebruikers beginnen met een Over mij pagina als introductie aan potenti&#235;le bezoekers. Mogelijk zal dit iets bevatten als:\n"
 "\n"
-"<blockquote>Hallo! Overdag ***REMOVED*** ik werkzaam als postbezorger en in de avonduren werk ik als aspirant acteur. Dit is mijn blog waarin ik over verschillende onderwerpen zal ingaan. Ik woon in Hilversum, heb een geweldige hond genaamd Jack en ik hou van pi&#241;a coladas. (En het overvallen worden door regenval.)</blockquote>\n"
+"<blockquote>Hallo! Overdag erin ik werkzaam als postbezorger en in de avonduren werk ik als aspirant acteur. Dit is mijn blog waarin ik over verschillende onderwerpen zal ingaan. Ik woon in Hilversum, heb een geweldige hond genaamd Jack en ik hou van pi&#241;a coladas. (En het overvallen worden door regenval.)</blockquote>\n"
 "\n"
 "...of zoiets als dit:\n"
 "\n"
@@ -1032,7 +1032,7 @@ msgstr "Voorgestelde breedte is <strong>%1$d pixels</strong>."
 
 #: wp-admin/ms-delete-site.php:77
 msgid "I'm sure I want to permanently disable my site, and I am aware I can never get it back or use %s again."
-msgstr "Ik weet zeker dat ik permanent mijn website wil uitschakelen, en ***REMOVED*** er van op de hoogte dat ik niet meer terug kan en %s niet meer kan gebruiken."
+msgstr "Ik weet zeker dat ik permanent mijn website wil uitschakelen, en erin er van op de hoogte dat ik niet meer terug kan en %s niet meer kan gebruiken."
 
 #: wp-admin/ms-delete-site.php:78
 msgid "Delete My Site Permanently"
@@ -8988,7 +8988,7 @@ msgstr "Abonnee"
 
 #: wp-admin/includes/schema.php:907 wp-admin/includes/upgrade.php:135
 msgid "Welcome to <a href=\"SITE_URL\">SITE_NAME</a>. This is your first post. Edit or delete it, then start blogging!"
-msgstr "Welkom bij <a href=\"SITE_URL\">SITE_NAME</a>. Dit is je eerste bericht. Wijzig of verwijder het, en dan ***REMOVED*** je klaar om te starten met je site!"
+msgstr "Welkom bij <a href=\"SITE_URL\">SITE_NAME</a>. Dit is je eerste bericht. Wijzig of verwijder het, en dan erin je klaar om te starten met je site!"
 
 #: wp-admin/includes/schema.php:966
 msgid "Warning! Wildcard DNS may not be configured correctly!"
